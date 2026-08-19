@@ -158,6 +158,13 @@
   .add-form button:hover {
     background: #b71c1c;
   }
+  .io-form button {
+    flex: 1;
+    background: #333;
+  }
+  .io-form button:hover {
+    background: #444;
+  }
   .add-error {
     padding: 0 16px 8px;
     color: #ff8a80;
@@ -231,6 +238,12 @@
     </div>
     <div class="add-error" id="addError"></div>
 
+    <div class="add-form io-form">
+      <button id="exportBtn">내보내기</button>
+      <button id="importBtn">가져오기</button>
+      <input type="file" id="importFile" accept="application/json" style="display:none">
+    </div>
+
     <ul class="tree" id="videoTree"></ul>
   </div>
 
@@ -255,6 +268,9 @@
   const urlInput = document.getElementById('urlInput');
   const addBtn = document.getElementById('addBtn');
   const addError = document.getElementById('addError');
+  const exportBtn = document.getElementById('exportBtn');
+  const importBtn = document.getElementById('importBtn');
+  const importFile = document.getElementById('importFile');
 
   let categoryIdSeq = 1;
   const STORAGE_KEY = 'youtubeViewerData';
@@ -654,6 +670,53 @@
     categoryIdSeq = data.categoryIdSeq || categoryIdSeq;
     refreshCategorySelect();
   }
+
+  // ---- 내보내기 / 가져오기 (기기 간 목록 이동) ----
+  function exportData() {
+    const blob = new Blob([JSON.stringify(serializeState(), null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'youtube-list.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function importDataFromFile(file) {
+    const reader = new FileReader();
+    reader.onload = function () {
+      let data;
+      try {
+        data = JSON.parse(reader.result);
+      } catch (e) {
+        alert('올바른 JSON 파일이 아닙니다.');
+        return;
+      }
+      if (!data || !Array.isArray(data.categories)) {
+        alert('올바른 목록 파일이 아닙니다.');
+        return;
+      }
+      if (!confirm('현재 목록을 덮어씁니다. 계속하시겠습니까?')) return;
+
+      videoTree.innerHTML = '';
+      data.categories.forEach(cat => buildCategoryTree(cat, videoTree));
+      categoryIdSeq = data.categoryIdSeq || categoryIdSeq;
+      refreshCategorySelect();
+      saveState();
+    };
+    reader.readAsText(file);
+  }
+
+  exportBtn.addEventListener('click', exportData);
+  importBtn.addEventListener('click', function () { importFile.click(); });
+  importFile.addEventListener('change', function () {
+    if (this.files && this.files[0]) {
+      importDataFromFile(this.files[0]);
+      this.value = '';
+    }
+  });
 
   // 저장된 목록 불러오기 (없으면 기본 카테고리 생성)
   loadState();
