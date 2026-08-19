@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>유튜브 목록 뷰어</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Malgun Gothic", Arial, sans-serif;
+  }
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+  /* 왼쪽 프레임: 목록 */
+  .list-pane {
+    width: 320px;
+    min-width: 220px;
+    max-width: 45%;
+    background: #1f1f1f;
+    color: #eee;
+    overflow-y: auto;
+    border-right: 3px solid #444;
+  }
+  .list-pane h2 {
+    font-size: 16px;
+    padding: 14px 16px;
+    margin: 0;
+    background: #111;
+    border-bottom: 1px solid #333;
+  }
+  /* 트리 목록 */
+  .tree {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .subtree {
+    list-style: none;
+    margin: 0;
+    padding-left: 14px;
+  }
+  .category-item {
+    border-bottom: 1px solid #333;
+  }
+  .category-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 12px;
+    background: #161616;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: grab;
+    user-select: none;
+  }
+  .category-header:hover {
+    background: #222;
+  }
+  .category-header.dragging {
+    opacity: 0.4;
+  }
+  .category-header.drag-over {
+    outline: 2px dashed #d32f2f;
+    outline-offset: -2px;
+    background: #2a2a2a;
+  }
+  .toggle-icon {
+    display: inline-block;
+    width: 10px;
+    transition: transform 0.15s;
+  }
+  .category-item.collapsed .toggle-icon {
+    transform: rotate(-90deg);
+  }
+  .category-item.collapsed .video-list,
+  .category-item.collapsed .subtree {
+    display: none;
+  }
+  .video-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: video-num;
+  }
+  .video-list li {
+    border-top: 1px solid #2a2a2a;
+    counter-increment: video-num;
+  }
+  .video-list a {
+    display: block;
+    padding: 10px 16px 10px 30px;
+    color: #ddd;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .video-list a::before {
+    content: counter(video-num) ". ";
+    color: #999;
+  }
+  .video-list a.active::before {
+    color: #fff;
+  }
+  .video-list a:hover {
+    background: #333;
+  }
+  .video-list a.active {
+    background: #d32f2f;
+    color: #fff;
+    font-weight: bold;
+  }
+  /* 카테고리 추가 폼 */
+  .category-form {
+    background: #181818;
+  }
+  /* 주소 추가 폼 */
+  .add-form {
+    display: flex;
+    padding: 10px;
+    background: #111;
+    border-bottom: 1px solid #333;
+    gap: 6px;
+  }
+  .add-form input {
+    flex: 1;
+    min-width: 0;
+    padding: 6px 8px;
+    border: 1px solid #444;
+    background: #222;
+    color: #eee;
+    border-radius: 3px;
+    font-size: 13px;
+  }
+  .add-form select {
+    width: 100px;
+    padding: 6px 4px;
+    border: 1px solid #444;
+    background: #222;
+    color: #eee;
+    border-radius: 3px;
+    font-size: 13px;
+  }
+  .add-form button {
+    padding: 6px 10px;
+    background: #d32f2f;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+  .add-form button:hover {
+    background: #b71c1c;
+  }
+  .add-error {
+    padding: 0 16px 8px;
+    color: #ff8a80;
+    font-size: 12px;
+    display: none;
+  }
+  /* 우클릭 컨텍스트 메뉴 */
+  .context-menu {
+    position: fixed;
+    display: none;
+    background: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 4px 0;
+    min-width: 140px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    z-index: 1000;
+  }
+  .context-menu button {
+    display: block;
+    width: 100%;
+    padding: 8px 14px;
+    background: none;
+    border: none;
+    color: #eee;
+    text-align: left;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .context-menu button:hover {
+    background: #3a3a3a;
+  }
+  .context-menu button.danger:hover {
+    background: #d32f2f;
+  }
+  /* 오른쪽 프레임: 재생 영역 */
+  .player-pane {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+  }
+  .player-pane iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  .placeholder {
+    color: #888;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
+  <div class="list-pane">
+    <h2>유튜브 목록</h2>
+
+    <div class="add-form category-form">
+      <input type="text" id="categoryInput" placeholder="새 카테고리 이름">
+      <button id="addCategoryBtn">카테고리 추가</button>
+    </div>
+
+    <div class="add-form">
+      <input type="text" id="urlInput" placeholder="유튜브 주소 입력">
+      <select id="categorySelect"></select>
+      <button id="addBtn">추가</button>
+    </div>
+    <div class="add-error" id="addError"></div>
+
+    <ul class="tree" id="videoTree"></ul>
+  </div>
+
+  <!-- 우클릭 컨텍스트 메뉴 -->
+  <div class="context-menu" id="contextMenu">
+    <button id="ctxRename">이름 변경</button>
+    <button id="ctxDelete" class="danger">삭제</button>
+  </div>
+
+  <!-- 오른쪽: 영상 재생 영역 -->
+  <div class="player-pane" id="playerPane">
+    <div class="placeholder">왼쪽 목록에서 영상을 선택하세요</div>
+  </div>
+</div>
+
+<script>
+  const playerPane = document.getElementById('playerPane');
+  const videoTree = document.getElementById('videoTree');
+  const categorySelect = document.getElementById('categorySelect');
+  const categoryInput = document.getElementById('categoryInput');
+  const addCategoryBtn = document.getElementById('addCategoryBtn');
+  const urlInput = document.getElementById('urlInput');
+  const addBtn = document.getElementById('addBtn');
+  const addError = document.getElementById('addError');
+
+  let categoryIdSeq = 1;
+  const STORAGE_KEY = 'youtubeViewerData';
+
+  function extractVideoId(url) {
+    const patterns = [
+      /(?:youtube\.com\/watch\?v=)([\w-]{11})/,
+      /(?:youtu\.be\/)([\w-]{11})/,
+      /(?:youtube\.com\/embed\/)([\w-]{11})/,
+      /(?:youtube\.com\/shorts\/)([\w-]{11})/
+    ];
+    for (const pattern of patterns) {
+      const match = url.match(pattern);
+      if (match) return match[1];
+    }
+    return null;
+  }
+
+  function playVideo(videoId, linkEl) {
+    document.querySelectorAll('#videoTree a').forEach(l => l.classList.remove('active'));
+    if (linkEl) linkEl.classList.add('active');
+
+    playerPane.innerHTML =
+      '<iframe src="https://www.youtube.com/embed/' + videoId +
+      '?autoplay=1" title="YouTube video player" ' +
+      'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ' +
+      'allowfullscreen></iframe>';
+  }
+
+  // ---- 정렬 (오름차순) ----
+  function sortCategorySiblings(parentUl) {
+    const items = Array.from(parentUl.querySelectorAll(':scope > .category-item'));
+    items.sort((a, b) =>
+      a.querySelector(':scope > .category-header .category-name').textContent
+        .localeCompare(b.querySelector(':scope > .category-header .category-name').textContent, 'ko')
+    );
+    items.forEach(li => parentUl.appendChild(li));
+  }
+
+  function sortVideoList(ul) {
+    const items = Array.from(ul.querySelectorAll(':scope > li'));
+    items.sort((a, b) =>
+      a.querySelector('a').textContent.localeCompare(b.querySelector('a').textContent, 'ko')
+    );
+    items.forEach(li => ul.appendChild(li));
+  }
+
+  // ---- 카테고리 (재귀 트리 구조: 헤더 + 영상목록 + 하위 카테고리) ----
+  function createCategory(name, existingId, parentUl) {
+    const id = existingId || ('cat-' + (categoryIdSeq++));
+
+    const li = document.createElement('li');
+    li.className = 'category-item';
+    li.dataset.categoryId = id;
+
+    const header = document.createElement('div');
+    header.className = 'category-header';
+    header.draggable = true;
+
+    const toggle = document.createElement('span');
+    toggle.className = 'toggle-icon';
+    toggle.textContent = '▾';
+
+    const nameSpan = document.createElement('span');
+    nameSpan.className = 'category-name';
+    nameSpan.textContent = name;
+
+    header.appendChild(toggle);
+    header.appendChild(nameSpan);
+
+    const videoUl = document.createElement('ul');
+    videoUl.className = 'video-list';
+
+    const subUl = document.createElement('ul');
+    subUl.className = 'subtree';
+
+    li.appendChild(header);
+    li.appendChild(videoUl);
+    li.appendChild(subUl);
+
+    const targetUl = parentUl || videoTree;
+    targetUl.appendChild(li);
+    sortCategorySiblings(targetUl);
+
+    refreshCategorySelect();
+    return li;
+  }
+
+  function getCategoryDepth(catLi) {
+    let depth = 0;
+    let ancestor = catLi.parentElement.closest('.category-item');
+    while (ancestor) {
+      depth++;
+      ancestor = ancestor.parentElement.closest('.category-item');
+    }
+    return depth;
+  }
+
+  function refreshCategorySelect() {
+    const current = categorySelect.value;
+    categorySelect.innerHTML = '';
+    videoTree.querySelectorAll('.category-item').forEach(catLi => {
+      const depth = getCategoryDepth(catLi);
+      const opt = document.createElement('option');
+      opt.value = catLi.dataset.categoryId;
+      opt.textContent = '　'.repeat(depth) + (depth > 0 ? '└ ' : '') +
+        catLi.querySelector(':scope > .category-header .category-name').textContent;
+      categorySelect.appendChild(opt);
+    });
+    if ([...categorySelect.options].some(o => o.value === current)) {
+      categorySelect.value = current;
+    }
+  }
+
+  function handleAddCategory() {
+    const name = categoryInput.value.trim();
+    if (!name) return;
+    createCategory(name);
+    categoryInput.value = '';
+    saveState();
+  }
+
+  addCategoryBtn.addEventListener('click', handleAddCategory);
+  categoryInput.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') handleAddCategory();
+  });
+
+  // ---- 카테고리 드래그 앤 드롭 (다른 카테고리에 놓으면 하위로 이동) ----
+  let draggedCategoryLi = null;
+
+  videoTree.addEventListener('dragstart', function (e) {
+    const header = e.target.closest('.category-header');
+    if (!header) return;
+    draggedCategoryLi = header.closest('.category-item');
+    e.dataTransfer.effectAllowed = 'move';
+    e.dataTransfer.setData('text/plain', draggedCategoryLi.dataset.categoryId);
+    header.classList.add('dragging');
+  });
+
+  videoTree.addEventListener('dragend', function () {
+    videoTree.querySelectorAll('.category-header.dragging').forEach(h => h.classList.remove('dragging'));
+    videoTree.querySelectorAll('.category-header.drag-over').forEach(h => h.classList.remove('drag-over'));
+    draggedCategoryLi = null;
+  });
+
+  function resolveDropTarget(e) {
+    const header = e.target.closest('.category-header');
+    if (!header || !draggedCategoryLi) return null;
+    const targetLi = header.closest('.category-item');
+    if (targetLi === draggedCategoryLi || draggedCategoryLi.contains(targetLi)) return null;
+    return { header, targetLi };
+  }
+
+  videoTree.addEventListener('dragover', function (e) {
+    if (resolveDropTarget(e)) {
+      e.preventDefault();
+      e.dataTransfer.dropEffect = 'move';
+    }
+  });
+
+  videoTree.addEventListener('dragenter', function (e) {
+    const resolved = resolveDropTarget(e);
+    if (resolved) resolved.header.classList.add('drag-over');
+  });
+
+  videoTree.addEventListener('dragleave', function (e) {
+    const header = e.target.closest('.category-header');
+    if (header) header.classList.remove('drag-over');
+  });
+
+  videoTree.addEventListener('drop', function (e) {
+    const resolved = resolveDropTarget(e);
+    if (!resolved) return;
+    e.preventDefault();
+    resolved.header.classList.remove('drag-over');
+
+    const subUl = resolved.targetLi.querySelector(':scope > .subtree');
+    subUl.appendChild(draggedCategoryLi);
+    sortCategorySiblings(subUl);
+    resolved.targetLi.classList.remove('collapsed');
+
+    refreshCategorySelect();
+    saveState();
+  });
+
+  // ---- 영상 ----
+  function addVideoToList(videoId, title, categoryId) {
+    let categoryLi = videoTree.querySelector('.category-item[data-category-id="' + categoryId + '"]');
+    if (!categoryLi) categoryLi = videoTree.querySelector('.category-item');
+
+    const ul = categoryLi.querySelector(':scope > .video-list');
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = '#';
+    a.dataset.video = videoId;
+    a.textContent = title;
+    li.appendChild(a);
+    ul.appendChild(li);
+    sortVideoList(ul);
+  }
+
+  // 트리 클릭: 카테고리 접기/펼치기, 영상 재생 (이벤트 위임)
+  videoTree.addEventListener('click', function (e) {
+    const header = e.target.closest('.category-header');
+    if (header) {
+      header.closest('.category-item').classList.toggle('collapsed');
+      saveState();
+      return;
+    }
+    const link = e.target.closest('a');
+    if (link) {
+      e.preventDefault();
+      playVideo(link.dataset.video, link);
+    }
+  });
+
+  // ---- 우클릭 컨텍스트 메뉴 (카테고리 / 영상 공용) ----
+  const contextMenu = document.getElementById('contextMenu');
+  const ctxRename = document.getElementById('ctxRename');
+  const ctxDelete = document.getElementById('ctxDelete');
+  let contextTarget = null;
+  let contextType = null; // 'video' | 'category'
+
+  function hideContextMenu() {
+    contextMenu.style.display = 'none';
+    contextTarget = null;
+    contextType = null;
+  }
+
+  function showContextMenu(e) {
+    contextMenu.style.left = e.clientX + 'px';
+    contextMenu.style.top = e.clientY + 'px';
+    contextMenu.style.display = 'block';
+  }
+
+  videoTree.addEventListener('contextmenu', function (e) {
+    const header = e.target.closest('.category-header');
+    const link = e.target.closest('a');
+
+    if (header) {
+      e.preventDefault();
+      contextTarget = header.closest('.category-item');
+      contextType = 'category';
+      showContextMenu(e);
+    } else if (link) {
+      e.preventDefault();
+      contextTarget = link;
+      contextType = 'video';
+      showContextMenu(e);
+    }
+  });
+
+  ctxRename.addEventListener('click', function () {
+    if (!contextTarget) return;
+
+    if (contextType === 'video') {
+      const newTitle = prompt('새 이름을 입력하세요:', contextTarget.textContent);
+      if (newTitle !== null && newTitle.trim() !== '') {
+        contextTarget.textContent = newTitle.trim();
+        sortVideoList(contextTarget.closest('.video-list'));
+        saveState();
+      }
+    } else if (contextType === 'category') {
+      const nameSpan = contextTarget.querySelector(':scope > .category-header .category-name');
+      const newName = prompt('새 카테고리 이름을 입력하세요:', nameSpan.textContent);
+      if (newName !== null && newName.trim() !== '') {
+        nameSpan.textContent = newName.trim();
+        sortCategorySiblings(contextTarget.parentElement);
+        refreshCategorySelect();
+        saveState();
+      }
+    }
+    hideContextMenu();
+  });
+
+  ctxDelete.addEventListener('click', function () {
+    if (!contextTarget) return;
+
+    if (contextType === 'video') {
+      contextTarget.closest('li').remove();
+      saveState();
+    } else if (contextType === 'category') {
+      if (videoTree.querySelectorAll('.category-item').length <= 1) {
+        alert('최소 하나의 카테고리는 있어야 합니다.');
+      } else if (confirm('카테고리와 포함된 모든 영상, 하위 카테고리가 삭제됩니다. 계속하시겠습니까?')) {
+        contextTarget.remove();
+        refreshCategorySelect();
+        saveState();
+      }
+    }
+    hideContextMenu();
+  });
+
+  document.addEventListener('click', function (e) {
+    if (!contextMenu.contains(e.target)) hideContextMenu();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') hideContextMenu();
+  });
+  window.addEventListener('scroll', hideContextMenu, true);
+
+  // ---- 주소 추가 처리 ----
+  async function handleAdd() {
+    const url = urlInput.value.trim();
+    addError.style.display = 'none';
+
+    const videoId = extractVideoId(url);
+    if (!videoId) {
+      addError.textContent = '올바른 유튜브 주소를 입력하세요.';
+      addError.style.display = 'block';
+      return;
+    }
+
+    let title = videoId;
+    try {
+      const res = await fetch(
+        'https://www.youtube.com/oembed?format=json&url=' +
+        encodeURIComponent('https://www.youtube.com/watch?v=' + videoId)
+      );
+      if (res.ok) {
+        const data = await res.json();
+        title = data.title;
+      } else {
+        addError.textContent = '제목을 가져오지 못했습니다 (임베드가 금지된 영상일 수 있음). 영상 ID로 임시 추가했습니다 - 우클릭 > 이름 변경으로 수정하세요.';
+        addError.style.display = 'block';
+      }
+    } catch (err) {
+      addError.textContent = '제목을 가져오는 중 네트워크 오류가 발생했습니다. 영상 ID로 임시 추가했습니다 - 우클릭 > 이름 변경으로 수정하세요.';
+      addError.style.display = 'block';
+    }
+
+    addVideoToList(videoId, title, categorySelect.value);
+    urlInput.value = '';
+    saveState();
+  }
+
+  addBtn.addEventListener('click', handleAdd);
+  urlInput.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') handleAdd();
+  });
+
+  // ---- 저장 / 불러오기 (하위 카테고리까지 재귀적으로 처리) ----
+  function serializeCategory(catLi) {
+    const videos = [];
+    catLi.querySelectorAll(':scope > .video-list > li > a').forEach(a => {
+      videos.push({ videoId: a.dataset.video, title: a.textContent });
+    });
+
+    const children = [];
+    catLi.querySelectorAll(':scope > .subtree > .category-item').forEach(childLi => {
+      children.push(serializeCategory(childLi));
+    });
+
+    return {
+      id: catLi.dataset.categoryId,
+      name: catLi.querySelector(':scope > .category-header .category-name').textContent,
+      collapsed: catLi.classList.contains('collapsed'),
+      videos: videos,
+      children: children
+    };
+  }
+
+  function serializeState() {
+    const categories = [];
+    videoTree.querySelectorAll(':scope > .category-item').forEach(catLi => {
+      categories.push(serializeCategory(catLi));
+    });
+    return { categoryIdSeq: categoryIdSeq, categories: categories };
+  }
+
+  function saveState() {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(serializeState()));
+    } catch (e) {}
+  }
+
+  function buildCategoryTree(cat, parentUl) {
+    const li = createCategory(cat.name, cat.id, parentUl);
+    if (cat.collapsed) li.classList.add('collapsed');
+    (cat.videos || []).forEach(v => addVideoToList(v.videoId, v.title, cat.id));
+    (cat.children || []).forEach(childCat => buildCategoryTree(childCat, li.querySelector(':scope > .subtree')));
+  }
+
+  function loadState() {
+    let data = null;
+    try {
+      data = JSON.parse(localStorage.getItem(STORAGE_KEY));
+    } catch (e) {}
+
+    if (!data || !Array.isArray(data.categories) || data.categories.length === 0) {
+      createCategory('기본');
+      saveState();
+      return;
+    }
+
+    data.categories.forEach(cat => buildCategoryTree(cat, videoTree));
+    categoryIdSeq = data.categoryIdSeq || categoryIdSeq;
+    refreshCategorySelect();
+  }
+
+  // 저장된 목록 불러오기 (없으면 기본 카테고리 생성)
+  loadState();
+</script>
+
+</body>
+</html>
