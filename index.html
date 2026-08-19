@@ -114,6 +114,15 @@
     color: #fff;
     font-weight: bold;
   }
+  .video-list a.dragging {
+    opacity: 0.4;
+  }
+  .video-list a.drag-over,
+  .video-list.drag-over {
+    outline: 2px dashed #d32f2f;
+    outline-offset: -2px;
+    background: #2a2a2a;
+  }
   /* 카테고리 추가 폼 */
   .category-form {
     background: #181818;
@@ -398,62 +407,101 @@
     if (e.key === 'Enter') handleAddCategory();
   });
 
-  // ---- 카테고리 드래그 앤 드롭 (다른 카테고리에 놓으면 하위로 이동) ----
+  // ---- 드래그 앤 드롭 (카테고리 -> 하위 카테고리로, 영상 -> 다른 카테고리로) ----
   let draggedCategoryLi = null;
+  let draggedVideoLink = null;
 
   videoTree.addEventListener('dragstart', function (e) {
     const header = e.target.closest('.category-header');
-    if (!header) return;
-    draggedCategoryLi = header.closest('.category-item');
-    e.dataTransfer.effectAllowed = 'move';
-    e.dataTransfer.setData('text/plain', draggedCategoryLi.dataset.categoryId);
-    header.classList.add('dragging');
+    const link = e.target.closest('.video-list a');
+    if (header) {
+      draggedCategoryLi = header.closest('.category-item');
+      draggedVideoLink = null;
+      e.dataTransfer.effectAllowed = 'move';
+      e.dataTransfer.setData('text/plain', draggedCategoryLi.dataset.categoryId);
+      header.classList.add('dragging');
+    } else if (link) {
+      draggedVideoLink = link;
+      draggedCategoryLi = null;
+      e.dataTransfer.effectAllowed = 'move';
+      e.dataTransfer.setData('text/plain', link.dataset.video);
+      link.classList.add('dragging');
+    }
   });
 
   videoTree.addEventListener('dragend', function () {
-    videoTree.querySelectorAll('.category-header.dragging').forEach(h => h.classList.remove('dragging'));
-    videoTree.querySelectorAll('.category-header.drag-over').forEach(h => h.classList.remove('drag-over'));
+    videoTree.querySelectorAll('.dragging').forEach(el => el.classList.remove('dragging'));
+    videoTree.querySelectorAll('.drag-over').forEach(el => el.classList.remove('drag-over'));
     draggedCategoryLi = null;
+    draggedVideoLink = null;
   });
 
-  function resolveDropTarget(e) {
+  function resolveCategoryDropTarget(e) {
     const header = e.target.closest('.category-header');
     if (!header || !draggedCategoryLi) return null;
     const targetLi = header.closest('.category-item');
     if (targetLi === draggedCategoryLi || draggedCategoryLi.contains(targetLi)) return null;
-    return { header, targetLi };
+    return { highlightEl: header, targetLi };
+  }
+
+  function resolveVideoDropTarget(e) {
+    if (!draggedVideoLink) return null;
+    const header = e.target.closest('.category-header');
+    if (header) {
+      const catLi = header.closest('.category-item');
+      return { highlightEl: header, videoListUl: catLi.querySelector(':scope > .video-list') };
+    }
+    const link = e.target.closest('.video-list a');
+    if (link) {
+      return { highlightEl: link, videoListUl: link.closest('.video-list') };
+    }
+    const ul = e.target.closest('.video-list');
+    if (ul) return { highlightEl: ul, videoListUl: ul };
+    return null;
   }
 
   videoTree.addEventListener('dragover', function (e) {
-    if (resolveDropTarget(e)) {
+    const resolved = draggedCategoryLi ? resolveCategoryDropTarget(e) : resolveVideoDropTarget(e);
+    if (resolved) {
       e.preventDefault();
       e.dataTransfer.dropEffect = 'move';
     }
   });
 
   videoTree.addEventListener('dragenter', function (e) {
-    const resolved = resolveDropTarget(e);
-    if (resolved) resolved.header.classList.add('drag-over');
+    const resolved = draggedCategoryLi ? resolveCategoryDropTarget(e) : resolveVideoDropTarget(e);
+    if (resolved) resolved.highlightEl.classList.add('drag-over');
   });
 
   videoTree.addEventListener('dragleave', function (e) {
-    const header = e.target.closest('.category-header');
-    if (header) header.classList.remove('drag-over');
+    const el = e.target.closest('.category-header, .video-list a, .video-list');
+    if (el) el.classList.remove('drag-over');
   });
 
   videoTree.addEventListener('drop', function (e) {
-    const resolved = resolveDropTarget(e);
-    if (!resolved) return;
-    e.preventDefault();
-    resolved.header.classList.remove('drag-over');
+    if (draggedCategoryLi) {
+      const resolved = resolveCategoryDropTarget(e);
+      if (!resolved) return;
+      e.preventDefault();
+      resolved.highlightEl.classList.remove('drag-over');
 
-    const subUl = resolved.targetLi.querySelector(':scope > .subtree');
-    subUl.appendChild(draggedCategoryLi);
-    sortCategorySiblings(subUl);
-    resolved.targetLi.classList.remove('collapsed');
+      const subUl = resolved.targetLi.querySelector(':scope > .subtree');
+      subUl.appendChild(draggedCategoryLi);
+      sortCategorySiblings(subUl);
+      resolved.targetLi.classList.remove('collapsed');
 
-    refreshCategorySelect();
-    saveState();
+      refreshCategorySelect();
+      saveState();
+    } else if (draggedVideoLink) {
+      const resolved = resolveVideoDropTarget(e);
+      if (!resolved) return;
+      e.preventDefault();
+      resolved.highlightEl.classList.remove('drag-over');
+
+      resolved.videoListUl.appendChild(draggedVideoLink.closest('li'));
+      sortVideoList(resolved.videoListUl);
+      saveState();
+    }
   });
 
   // ---- 영상 ----
@@ -465,6 +513,7 @@
     const li = document.createElement('li');
     const a = document.createElement('a');
     a.href = '#';
+    a.draggable = true;
     a.dataset.video = videoId;
     a.textContent = title;
     li.appendChild(a);
