@@ -2,13 +2,6 @@
   "categoryIdSeq": 179,
   "categories": [
     {
-      "id": "cat-178",
-      "name": "스",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-177",
       "name": "펄스",
       "collapsed": false,
