@@ -2,13 +2,6 @@
   "categoryIdSeq": 121,
   "categories": [
     {
-      "id": "cat-120",
-      "name": "파파야",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1275,9 +1268,16 @@
         {
           "id": "cat-27",
           "name": "ㅍ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-120",
+              "name": "파파야",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-28",
               "name": "피노키오",
