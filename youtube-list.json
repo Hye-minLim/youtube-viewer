@@ -2,22 +2,6 @@
   "categoryIdSeq": 153,
   "categories": [
     {
-      "id": "cat-148",
-      "name": "김대환",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "nmafBfCphMA",
-          "title": "은혜 아니면 by 김대환  \"Could Not Do Without Thy Grace\" (Eng Sub)"
-        },
-        {
-          "videoId": "-VHCGZg_HqQ",
-          "title": "주품에 품으소서 by 김대환  \"STILL\" (ENG SUB)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-145",
       "name": "송솔나무",
       "collapsed": false,
@@ -44,6 +28,22 @@
         }
       ],
       "children": [
+        {
+          "id": "cat-148",
+          "name": "김대환",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "nmafBfCphMA",
+              "title": "은혜 아니면 by 김대환  \"Could Not Do Without Thy Grace\" (Eng Sub)"
+            },
+            {
+              "videoId": "-VHCGZg_HqQ",
+              "title": "주품에 품으소서 by 김대환  \"STILL\" (ENG SUB)"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-150",
           "name": "러빔",
