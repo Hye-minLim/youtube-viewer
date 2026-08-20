@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 225,
+  "categoryIdSeq": 226,
   "categories": [
     {
       "id": "cat-22",
@@ -276,6 +276,13 @@
           "children": []
         }
       ]
+    },
+    {
+      "id": "cat-225",
+      "name": "Claude",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-2",
