@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 176,
+  "categoryIdSeq": 177,
   "categories": [
+    {
+      "id": "cat-176",
+      "name": "남자 대탐험",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
