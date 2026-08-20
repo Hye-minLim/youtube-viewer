@@ -5,7 +5,12 @@
       "id": "cat-196",
       "name": "김성재",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "By2b_Lu4Yzw",
+          "title": "말하자면"
+        }
+      ],
       "children": []
     },
     {
