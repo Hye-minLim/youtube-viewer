@@ -1,17 +1,25 @@
 {
-  "categoryIdSeq": 175,
+  "categoryIdSeq": 176,
   "categories": [
     {
-      "id": "cat-174",
-      "name": "최재훈",
-      "collapsed": true,
-      "videos": [
+      "id": "cat-175",
+      "name": "ㅊ",
+      "collapsed": false,
+      "videos": [],
+      "children": [
         {
-          "videoId": "ma2Us5TBGXQ",
-          "title": "[Korea-pop]   최재훈 - 함께 있으면 좋을 사람"
+          "id": "cat-174",
+          "name": "최재훈",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "ma2Us5TBGXQ",
+              "title": "[Korea-pop]   최재훈 - 함께 있으면 좋을 사람"
+            }
+          ],
+          "children": []
         }
-      ],
-      "children": []
+      ]
     },
     {
       "id": "cat-22",
