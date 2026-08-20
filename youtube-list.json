@@ -290,26 +290,6 @@
       ]
     },
     {
-      "id": "cat-194",
-      "name": "E",
-      "collapsed": true,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-190",
-          "name": "Eric Clapton",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "fvVqPi92CcY",
-              "title": "Eric Clapton[70] 11. Tears in Heaven"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-2",
       "name": "KPOP",
       "collapsed": true,
@@ -2219,6 +2199,26 @@
                 {
                   "videoId": "0G383538qzQ",
                   "title": "Black Pumas - Colors (Official Live Session)"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cat-194",
+          "name": "E",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-190",
+              "name": "Eric Clapton",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "fvVqPi92CcY",
+                  "title": "Eric Clapton[70] 11. Tears in Heaven"
                 }
               ],
               "children": []
