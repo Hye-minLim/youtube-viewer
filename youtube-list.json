@@ -2,13 +2,6 @@
   "categoryIdSeq": 135,
   "categories": [
     {
-      "id": "cat-134",
-      "name": "텐션업",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1537,6 +1530,13 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-134",
+              "name": "텐션업",
+              "collapsed": false,
+              "videos": [],
+              "children": []
             },
             {
               "id": "cat-114",
