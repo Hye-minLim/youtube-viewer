@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 186,
+  "categoryIdSeq": 188,
   "categories": [
     {
       "id": "cat-183",
@@ -14,6 +14,13 @@
       "children": []
     },
     {
+      "id": "cat-186",
+      "name": "어반자카파",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
       "id": "cat-184",
       "name": "이선희",
       "collapsed": false,
@@ -23,6 +30,13 @@
           "title": "[MV] Lee Sun Hee(이선희) _ Meet him among them(그 중에 그대를 만나)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-187",
+      "name": "파",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
