@@ -137,18 +137,6 @@
                 }
               ],
               "children": []
-            },
-            {
-              "id": "cat-115",
-              "name": "work",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "jeLlKfT0k-8",
-                  "title": "그냥 틀어놓으려고 만든 플레이리스트 [Playlist]"
-                }
-              ],
-              "children": []
             }
           ]
         }
@@ -1792,7 +1780,20 @@
       "name": "VA1",
       "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-115",
+          "name": "work",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "jeLlKfT0k-8",
+              "title": "그냥 틀어놓으려고 만든 플레이리스트 [Playlist]"
+            }
+          ],
+          "children": []
+        }
+      ]
     }
   ]
 }
