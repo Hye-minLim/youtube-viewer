@@ -57,7 +57,12 @@
       "id": "cat-223",
       "name": "아스피린",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "cuhsI-8n1gM",
+          "title": "[MV] 걸(Girl) - 아스피린 Aspirin (12 String Guitar Version)"
+        }
+      ],
       "children": []
     },
     {
