@@ -280,7 +280,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -1042,7 +1042,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1309,6 +1309,10 @@
                 {
                   "videoId": "x127nwNpegQ",
                   "title": "가을우체국앞에서 -Yoon Do Hyun,Heo Jun- 윤도현,허준 @화성방조제"
+                },
+                {
+                  "videoId": "uPH3FNrF-D0",
+                  "title": "윤도현, 원곡과 전혀 다른 파워풀 보컬 ‘거리에서’ @신의 목소리 6회 20160511"
                 },
                 {
                   "videoId": "1JpLudfwjTg",
