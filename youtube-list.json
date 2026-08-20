@@ -110,18 +110,6 @@
       "children": []
     },
     {
-      "id": "cat-211",
-      "name": "일기예보",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "-mZwFdTvAjo",
-          "title": "[Official Audio] 일기예보 - 좋아좋아"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1704,6 +1692,18 @@
                 {
                   "videoId": "mxRZQdXDEN8",
                   "title": "이오공감 - 사랑이 그리운 날들에 (1992年)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-211",
+              "name": "일기예보",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "-mZwFdTvAjo",
+                  "title": "[Official Audio] 일기예보 - 좋아좋아"
                 }
               ],
               "children": []
