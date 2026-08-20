@@ -2,18 +2,6 @@
   "categoryIdSeq": 224,
   "categories": [
     {
-      "id": "cat-206",
-      "name": "서영은",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "ZgIpOQ18Aj4",
-          "title": "[BALLAD] 서영은 - 비오는 거리"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-202",
       "name": "언타이틀",
       "collapsed": false,
@@ -973,6 +961,18 @@
                 {
                   "videoId": "dJ9DlCvL0a4",
                   "title": "My Lips like Warm Coffee"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-206",
+              "name": "서영은",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "ZgIpOQ18Aj4",
+                  "title": "[BALLAD] 서영은 - 비오는 거리"
                 }
               ],
               "children": []
