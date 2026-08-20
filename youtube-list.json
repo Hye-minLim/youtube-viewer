@@ -5,14 +5,12 @@
       "id": "cat-200",
       "name": "듀스",
       "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-201",
-      "name": "스",
-      "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "_HsRbUaVw5c",
+          "title": "여름안에서"
+        }
+      ],
       "children": []
     },
     {
