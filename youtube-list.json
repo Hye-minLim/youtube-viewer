@@ -1040,7 +1040,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1058,7 +1058,7 @@
             {
               "id": "cat-113",
               "name": "전람회",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "ZcLNI5MaOg0",
