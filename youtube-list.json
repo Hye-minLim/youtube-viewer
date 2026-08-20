@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 205,
+  "categoryIdSeq": 206,
   "categories": [
     {
       "id": "cat-204",
@@ -54,6 +54,13 @@
           "title": "여름아!부탁해"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-205",
+      "name": "자자",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
