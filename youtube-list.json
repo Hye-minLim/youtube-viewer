@@ -2085,19 +2085,20 @@
       "name": "L",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-193",
-      "name": "Linkin Park",
-      "collapsed": false,
-      "videos": [
+      "children": [
         {
-          "videoId": "C7nExMmmOrc",
-          "title": "Linkin Park - Numb (Live In Texas)"
+          "id": "cat-193",
+          "name": "Linkin Park",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "C7nExMmmOrc",
+              "title": "Linkin Park - Numb (Live In Texas)"
+            }
+          ],
+          "children": []
         }
-      ],
-      "children": []
+      ]
     },
     {
       "id": "cat-46",
