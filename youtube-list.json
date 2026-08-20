@@ -1564,6 +1564,22 @@
                     }
                   ],
                   "children": []
+                },
+                {
+                  "id": "cat-40",
+                  "name": "The Voice Global Asia",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "yAbXCxVrDSo",
+                      "title": "They Tried Not To Cry... But This Voice Hit Hard! | The Voice Global Asia"
+                    },
+                    {
+                      "videoId": "Ft3JyD2F8l8",
+                      "title": "This Is Why the World Fell in Love With Korean Voices! | The Voice Global Asia"
+                    }
+                  ],
+                  "children": []
                 }
               ]
             },
@@ -1582,22 +1598,6 @@
                 {
                   "videoId": "MA9L5GA7rUY",
                   "title": "쿨 – 작은 기다림 | 70s Soul & Motown Inspired Rework (AI Cover)"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-40",
-              "name": "The Voice Global Asia",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "yAbXCxVrDSo",
-                  "title": "They Tried Not To Cry... But This Voice Hit Hard! | The Voice Global Asia"
-                },
-                {
-                  "videoId": "Ft3JyD2F8l8",
-                  "title": "This Is Why the World Fell in Love With Korean Voices! | The Voice Global Asia"
                 }
               ],
               "children": []
