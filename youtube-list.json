@@ -2,18 +2,6 @@
   "categoryIdSeq": 175,
   "categories": [
     {
-      "id": "cat-172",
-      "name": "간과 쓸개",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "v5KJ7eJYpHs",
-          "title": "[MV] 간과 쓸개 - 그대 떠나 없는 거리 | 악마가 너의 이름을 부를 때 When the devil calls your name"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-174",
       "name": "최재훈",
       "collapsed": false,
@@ -310,9 +298,21 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-172",
+              "name": "간과 쓸개",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "v5KJ7eJYpHs",
+                  "title": "[MV] 간과 쓸개 - 그대 떠나 없는 거리 | 악마가 너의 이름을 부를 때 When the devil calls your name"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-52",
               "name": "검정치마",
