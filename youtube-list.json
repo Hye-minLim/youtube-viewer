@@ -1414,6 +1414,13 @@
                 }
               ],
               "children": []
+            },
+            {
+              "id": "cat-115",
+              "name": "work",
+              "collapsed": false,
+              "videos": [],
+              "children": []
             }
           ]
         }
@@ -1505,13 +1512,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-115",
-      "name": "work",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     }
   ]
 }
