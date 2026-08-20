@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 114,
+  "categoryIdSeq": 115,
   "categories": [
     {
       "id": "cat-22",
@@ -1132,13 +1132,13 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-112",
               "name": "카더가든",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": []
             },
@@ -1413,6 +1413,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-114",
+      "name": "Lady Gaga",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-46",
