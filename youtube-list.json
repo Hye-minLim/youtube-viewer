@@ -1398,13 +1398,13 @@
     {
       "id": "cat-46",
       "name": "OST",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-47",
           "name": "신의 악단",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "Ak8hiWx35oQ",
