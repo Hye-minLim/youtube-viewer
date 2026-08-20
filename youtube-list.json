@@ -21,7 +21,12 @@
       "id": "cat-147",
       "name": "시와그림",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "sF6wGi6oh84",
+          "title": "항해자 by 시와그림"
+        }
+      ],
       "children": []
     },
     {
