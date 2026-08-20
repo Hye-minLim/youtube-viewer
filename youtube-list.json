@@ -1064,7 +1064,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1539,7 +1539,12 @@
               "id": "cat-115",
               "name": "work",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "jeLlKfT0k-8",
+                  "title": "그냥 틀어놓으려고 만든 플레이리스트 [Playlist]"
+                }
+              ],
               "children": []
             }
           ]
