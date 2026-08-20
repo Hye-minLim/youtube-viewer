@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 215,
+  "categoryIdSeq": 217,
   "categories": [
     {
       "id": "cat-200",
@@ -90,6 +90,13 @@
       "children": []
     },
     {
+      "id": "cat-215",
+      "name": "임창정",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
       "id": "cat-205",
       "name": "자자",
       "collapsed": false,
@@ -99,6 +106,13 @@
           "title": "Bus 안에서"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-216",
+      "name": "정",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
