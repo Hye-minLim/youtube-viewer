@@ -2,18 +2,6 @@
   "categoryIdSeq": 189,
   "categories": [
     {
-      "id": "cat-188",
-      "name": "기타",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "JbJibUmAvzk",
-          "title": "😍웃으러 왔다가 반하고 간다는 화제의 영상💥권혁수, 이용진-나를 슬프게하는 사람들| KBS 20160916"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2263,6 +2251,18 @@
           "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-188",
+              "name": "기타",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "JbJibUmAvzk",
+                  "title": "😍웃으러 왔다가 반하고 간다는 화제의 영상💥권혁수, 이용진-나를 슬프게하는 사람들| KBS 20160916"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-42",
               "name": "신의목소리",
