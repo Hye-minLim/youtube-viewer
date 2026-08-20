@@ -1536,6 +1536,18 @@
                       "children": []
                     }
                   ]
+                },
+                {
+                  "id": "cat-114",
+                  "name": "한일가왕전",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "zqO7fKk1N9k",
+                      "title": "스미다 아이코(住田愛子) - 긴기라기니 사리케나쿠 (ギンギラギンにさりげなく)｜한일가왕전 2회"
+                    }
+                  ],
+                  "children": []
                 }
               ]
             },
@@ -1544,18 +1556,6 @@
               "name": "텐션업",
               "collapsed": false,
               "videos": [],
-              "children": []
-            },
-            {
-              "id": "cat-114",
-              "name": "한일가왕전",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "zqO7fKk1N9k",
-                  "title": "스미다 아이코(住田愛子) - 긴기라기니 사리케나쿠 (ギンギラギンにさりげなく)｜한일가왕전 2회"
-                }
-              ],
               "children": []
             },
             {
