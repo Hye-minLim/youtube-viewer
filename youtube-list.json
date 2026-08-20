@@ -1002,7 +1002,7 @@
             {
               "id": "cat-97",
               "name": "장혜진",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "WlarO1_i0xo",
@@ -1014,7 +1014,7 @@
             {
               "id": "cat-78",
               "name": "정지소",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "Ss3R39pOyzk",
@@ -1026,7 +1026,7 @@
             {
               "id": "cat-69",
               "name": "제이",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "EjH2iQU4eO8",
