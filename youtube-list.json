@@ -2,22 +2,6 @@
   "categoryIdSeq": 188,
   "categories": [
     {
-      "id": "cat-186",
-      "name": "어반자카파",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "vANdEL9vpjw",
-          "title": "그대 고운 내사랑 Beautiful My Love"
-        },
-        {
-          "videoId": "fYsDi91T-SA",
-          "title": "I Don't Love You (널 사랑하지 않아)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1058,7 +1042,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1113,6 +1097,22 @@
                 {
                   "videoId": "JaQWqW77_UE",
                   "title": "애송이의 사랑 (애송이의 사랑)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-186",
+              "name": "어반자카파",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "vANdEL9vpjw",
+                  "title": "그대 고운 내사랑 Beautiful My Love"
+                },
+                {
+                  "videoId": "fYsDi91T-SA",
+                  "title": "I Don't Love You (널 사랑하지 않아)"
                 }
               ],
               "children": []
