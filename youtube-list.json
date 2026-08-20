@@ -1561,7 +1561,12 @@
           "id": "cat-125",
           "name": "8월의 크리스마스",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "PPiMK96NuYY",
+              "title": "이제서야 공개된 [8월의 크리스마스] 한석규 OST 뮤직비디오 공개♥"
+            }
+          ],
           "children": []
         },
         {
