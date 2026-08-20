@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 155,
+  "categoryIdSeq": 156,
   "categories": [
+    {
+      "id": "cat-155",
+      "name": "오벧",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-154",
       "name": "히즈윌",
