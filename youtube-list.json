@@ -2,21 +2,6 @@
   "categoryIdSeq": 141,
   "categories": [
     {
-      "id": "cat-140",
-      "name": "B",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-139",
-          "name": "Black Pumas",
-          "collapsed": false,
-          "videos": [],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -1586,6 +1571,21 @@
           "collapsed": true,
           "videos": [],
           "children": []
+        },
+        {
+          "id": "cat-140",
+          "name": "B",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-139",
+              "name": "Black Pumas",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            }
+          ]
         },
         {
           "id": "cat-110",
