@@ -129,7 +129,12 @@
       "id": "cat-220",
       "name": "지누션",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "25FlzBfRfFM",
+          "title": "말해줘 (Tell Me)"
+        }
+      ],
       "children": []
     },
     {
