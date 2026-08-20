@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 200,
+  "categoryIdSeq": 202,
   "categories": [
+    {
+      "id": "cat-200",
+      "name": "듀스",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-201",
+      "name": "스",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-198",
       "name": "신승훈",
