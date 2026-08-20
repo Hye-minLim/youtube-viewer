@@ -1548,6 +1548,22 @@
                     }
                   ],
                   "children": []
+                },
+                {
+                  "id": "cat-35",
+                  "name": "해피투게더",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "HSlgwVItwkQ",
+                      "title": "조아해 - 소중한 너  [해피투게더🍀혼자가 아니어서 좋아] | KBS 260807 방송"
+                    },
+                    {
+                      "videoId": "P3-2h4tXO5I",
+                      "title": "최트리오 - 향수 [해피투게더🍀혼자가 아니어서 좋아] | KBS 260724 방송"
+                    }
+                  ],
+                  "children": []
                 }
               ]
             },
@@ -1556,22 +1572,6 @@
               "name": "텐션업",
               "collapsed": false,
               "videos": [],
-              "children": []
-            },
-            {
-              "id": "cat-35",
-              "name": "해피투게더",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "HSlgwVItwkQ",
-                  "title": "조아해 - 소중한 너  [해피투게더🍀혼자가 아니어서 좋아] | KBS 260807 방송"
-                },
-                {
-                  "videoId": "P3-2h4tXO5I",
-                  "title": "최트리오 - 향수 [해피투게더🍀혼자가 아니어서 좋아] | KBS 260724 방송"
-                }
-              ],
               "children": []
             },
             {
