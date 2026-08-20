@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 156,
+  "categoryIdSeq": 157,
   "categories": [
     {
       "id": "cat-155",
@@ -11,6 +11,13 @@
           "title": "오벧 - ⌜주시는 이도 거두시는 이도⌝ Official Music Video"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-156",
+      "name": "팀룩워십",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
