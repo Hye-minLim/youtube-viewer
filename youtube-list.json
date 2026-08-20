@@ -286,7 +286,7 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -421,7 +421,7 @@
         {
           "id": "cat-4",
           "name": "ㄴ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
