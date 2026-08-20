@@ -104,7 +104,12 @@
               "id": "cat-130",
               "name": "그_냥(J_ust)",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "7y1ZtplLd0I",
+                  "title": "그_냥 (J_ust) - 새벽 두시 (Two in the Morning) (Lyrics and English Translation)"
+                }
+              ],
               "children": []
             },
             {
