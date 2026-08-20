@@ -1488,55 +1488,56 @@
           "videos": [],
           "children": [
             {
-              "id": "cat-42",
-              "name": "신의목소리",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "e9NhmhazHgo",
-                  "title": "윤도현 제압한 연습생, 김재환 ‘가을 우체국 앞에서’ @보컬 전쟁:신의 목소리 20160210"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-37",
-              "name": "싱어게인",
-              "collapsed": true,
+              "id": "cat-136",
+              "name": "예능",
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
-                  "id": "cat-38",
-                  "name": "3",
-                  "collapsed": false,
+                  "id": "cat-42",
+                  "name": "신의목소리",
+                  "collapsed": true,
                   "videos": [
                     {
-                      "videoId": "wUE7DLZvsJw",
-                      "title": "[싱어게인3] 국보급 허스키 보이스로 몰입시키는😧 8호 가수의 〈꽃이 피고 지듯이〉♪ | 싱어게인3 10회 | JTBC 231228 방송"
+                      "videoId": "e9NhmhazHgo",
+                      "title": "윤도현 제압한 연습생, 김재환 ‘가을 우체국 앞에서’ @보컬 전쟁:신의 목소리 20160210"
                     }
                   ],
                   "children": []
                 },
                 {
-                  "id": "cat-61",
-                  "name": "4",
-                  "collapsed": false,
-                  "videos": [
+                  "id": "cat-37",
+                  "name": "싱어게인",
+                  "collapsed": true,
+                  "videos": [],
+                  "children": [
                     {
-                      "videoId": "6oCAXU5BEyk",
-                      "title": "＂예사 사람이 아니다🔥＂ 윤종신 최애 등극 + 임재범 '참 잘했어요' 받은 무대! 65호 가수의 'From Mark'｜싱어게인4｜JTBC 251014 방송"
+                      "id": "cat-38",
+                      "name": "3",
+                      "collapsed": false,
+                      "videos": [
+                        {
+                          "videoId": "wUE7DLZvsJw",
+                          "title": "[싱어게인3] 국보급 허스키 보이스로 몰입시키는😧 8호 가수의 〈꽃이 피고 지듯이〉♪ | 싱어게인3 10회 | JTBC 231228 방송"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "id": "cat-61",
+                      "name": "4",
+                      "collapsed": false,
+                      "videos": [
+                        {
+                          "videoId": "6oCAXU5BEyk",
+                          "title": "＂예사 사람이 아니다🔥＂ 윤종신 최애 등극 + 임재범 '참 잘했어요' 받은 무대! 65호 가수의 'From Mark'｜싱어게인4｜JTBC 251014 방송"
+                        }
+                      ],
+                      "children": []
                     }
-                  ],
-                  "children": []
+                  ]
                 }
               ]
-            },
-            {
-              "id": "cat-136",
-              "name": "예능",
-              "collapsed": false,
-              "videos": [],
-              "children": []
             },
             {
               "id": "cat-134",
