@@ -2,13 +2,6 @@
   "categoryIdSeq": 206,
   "categories": [
     {
-      "id": "cat-204",
-      "name": "고",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-200",
       "name": "듀스",
       "collapsed": false,
