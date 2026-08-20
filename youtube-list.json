@@ -2,18 +2,6 @@
   "categoryIdSeq": 198,
   "categories": [
     {
-      "id": "cat-196",
-      "name": "김성재",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "By2b_Lu4Yzw",
-          "title": "말하자면"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -429,6 +417,18 @@
                 {
                   "videoId": "nmdMpN_Y3RU",
                   "title": "김동희(Kim Dong Hee) - Someday"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-196",
+              "name": "김성재",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "By2b_Lu4Yzw",
+                  "title": "말하자면"
                 }
               ],
               "children": []
@@ -874,7 +874,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
