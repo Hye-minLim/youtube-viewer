@@ -1709,8 +1709,13 @@
             {
               "id": "cat-128",
               "name": "Sarah McLachlan",
-              "collapsed": true,
-              "videos": [],
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "VLZ9Ike2Geo",
+                  "title": "Angel"
+                }
+              ],
               "children": []
             }
           ]
