@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 190,
+  "categoryIdSeq": 191,
   "categories": [
     {
       "id": "cat-189",
@@ -288,6 +288,13 @@
           "children": []
         }
       ]
+    },
+    {
+      "id": "cat-190",
+      "name": "Eric Clapton",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-2",
