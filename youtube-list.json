@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 206,
+  "categoryIdSeq": 208,
   "categories": [
     {
       "id": "cat-200",
@@ -11,6 +11,13 @@
           "title": "여름안에서"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-206",
+      "name": "서영은",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
@@ -35,6 +42,13 @@
           "title": "날개 (날개)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-207",
+      "name": "은",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
