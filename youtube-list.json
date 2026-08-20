@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 167,
+  "categoryIdSeq": 168,
   "categories": [
+    {
+      "id": "cat-167",
+      "name": "스텔라장",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
