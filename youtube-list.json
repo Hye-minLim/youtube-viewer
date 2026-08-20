@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 221,
+  "categoryIdSeq": 222,
   "categories": [
     {
       "id": "cat-218",
@@ -151,6 +151,13 @@
           "title": "Meeting"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-221",
+      "name": "클론",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
