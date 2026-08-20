@@ -427,7 +427,7 @@
             {
               "id": "cat-100",
               "name": "나얼",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "Q_YdBd05FJs",
@@ -443,7 +443,7 @@
             {
               "id": "cat-8",
               "name": "너드커넥션",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "x6OjMYWh4O0",
