@@ -17,7 +17,12 @@
       "id": "cat-206",
       "name": "서영은",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ZgIpOQ18Aj4",
+          "title": "[BALLAD] 서영은 - 비오는 거리"
+        }
+      ],
       "children": []
     },
     {
