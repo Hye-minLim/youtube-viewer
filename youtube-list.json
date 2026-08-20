@@ -2,18 +2,6 @@
   "categoryIdSeq": 188,
   "categories": [
     {
-      "id": "cat-183",
-      "name": "015B",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "7Hzvwdp4vHA",
-          "title": "이젠안녕"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-186",
       "name": "어반자카파",
       "collapsed": false,
@@ -340,9 +328,21 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-183",
+              "name": "015B",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "7Hzvwdp4vHA",
+                  "title": "이젠안녕"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-172",
               "name": "간과 쓸개",
