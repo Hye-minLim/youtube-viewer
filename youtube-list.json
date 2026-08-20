@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 198,
+  "categoryIdSeq": 200,
   "categories": [
+    {
+      "id": "cat-198",
+      "name": "신승훈",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-199",
+      "name": "훈",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
