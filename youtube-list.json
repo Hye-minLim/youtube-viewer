@@ -1398,7 +1398,7 @@
     {
       "id": "cat-46",
       "name": "OST",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -1418,7 +1418,7 @@
     {
       "id": "cat-108",
       "name": "POP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
