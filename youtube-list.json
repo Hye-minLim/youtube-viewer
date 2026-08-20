@@ -65,7 +65,12 @@
       "id": "cat-211",
       "name": "일기예보",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "-mZwFdTvAjo",
+          "title": "[Official Audio] 일기예보 - 좋아좋아"
+        }
+      ],
       "children": []
     },
     {
