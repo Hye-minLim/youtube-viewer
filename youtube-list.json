@@ -14,22 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-200",
-      "name": "듀스",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "z_F_tQ_GUtU",
-          "title": "나를 돌아봐"
-        },
-        {
-          "videoId": "_HsRbUaVw5c",
-          "title": "여름안에서"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-206",
       "name": "서영은",
       "collapsed": false,
@@ -653,6 +637,22 @@
                 {
                   "videoId": "ovzEnKdHsik",
                   "title": "더원, 겨울사랑 │ 월간 더 스테이지 [231028]"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-200",
+              "name": "듀스",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "z_F_tQ_GUtU",
+                  "title": "나를 돌아봐"
+                },
+                {
+                  "videoId": "_HsRbUaVw5c",
+                  "title": "여름안에서"
                 }
               ],
               "children": []
