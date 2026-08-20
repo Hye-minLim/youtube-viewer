@@ -2,13 +2,6 @@
   "categoryIdSeq": 117,
   "categories": [
     {
-      "id": "cat-116",
-      "name": "냉정과 열정 사이",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1427,6 +1420,13 @@
       "collapsed": false,
       "videos": [],
       "children": [
+        {
+          "id": "cat-116",
+          "name": "냉정과 열정 사이",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
         {
           "id": "cat-47",
           "name": "신의 악단",
