@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 123,
+  "categoryIdSeq": 124,
   "categories": [
+    {
+      "id": "cat-123",
+      "name": "제이세라",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
