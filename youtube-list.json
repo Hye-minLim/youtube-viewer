@@ -2,18 +2,6 @@
   "categoryIdSeq": 169,
   "categories": [
     {
-      "id": "cat-167",
-      "name": "스텔라장",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "XtYGk-kvWP0",
-          "title": "L’Amour, Les Baguettes, Paris"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -804,7 +792,7 @@
             {
               "id": "cat-142",
               "name": "사비나앤드론즈",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "N6iAiG_gRoo",
@@ -909,6 +897,18 @@
                 {
                   "videoId": "dVSQCDXNyGU",
                   "title": "Hold the end of this night (이 밤의 끝을 잡고)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-167",
+              "name": "스텔라장",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "XtYGk-kvWP0",
+                  "title": "L’Amour, Les Baguettes, Paris"
                 }
               ],
               "children": []
