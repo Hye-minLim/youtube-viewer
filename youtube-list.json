@@ -304,13 +304,13 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -570,7 +570,7 @@
         {
           "id": "cat-5",
           "name": "ㄷ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -2187,7 +2187,7 @@
     {
       "id": "cat-108",
       "name": "POP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
