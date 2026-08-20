@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 154,
+  "categoryIdSeq": 155,
   "categories": [
+    {
+      "id": "cat-154",
+      "name": "히즈윌",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
