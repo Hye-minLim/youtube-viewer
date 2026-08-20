@@ -1587,7 +1587,12 @@
               "id": "cat-134",
               "name": "텐션업",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "T9sz9QzsWXc",
+                  "title": "DDR Butterfly [FULL] with lyrics"
+                }
+              ],
               "children": []
             },
             {
