@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 117,
+  "categoryIdSeq": 112,
   "categories": [
     {
       "id": "cat-22",
@@ -16,7 +16,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -1002,7 +1002,7 @@
             {
               "id": "cat-97",
               "name": "장혜진",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "WlarO1_i0xo",
@@ -1012,21 +1012,9 @@
               "children": []
             },
             {
-              "id": "cat-113",
-              "name": "전람회",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "ZcLNI5MaOg0",
-                  "title": "[Playlist] 전람회, 하나 둘 별이 지던 그 밤에 l Exhibition, One by one on the night when the stars were setting"
-                }
-              ],
-              "children": []
-            },
-            {
               "id": "cat-78",
               "name": "정지소",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "Ss3R39pOyzk",
@@ -1038,7 +1026,7 @@
             {
               "id": "cat-69",
               "name": "제이",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "EjH2iQU4eO8",
@@ -1066,7 +1054,7 @@
             {
               "id": "cat-93",
               "name": "젝스키스",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "04xnmpoOIbo",
@@ -1078,7 +1066,7 @@
             {
               "id": "cat-48",
               "name": "조",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "jm7L8HNB43I",
@@ -1102,7 +1090,7 @@
             {
               "id": "cat-36",
               "name": "조승우",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "y-sqDi4cgdI",
@@ -1118,7 +1106,7 @@
             {
               "id": "cat-11",
               "name": "존박",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "8aPxGaE_9zo",
@@ -1136,16 +1124,9 @@
           "videos": [],
           "children": [
             {
-              "id": "cat-112",
-              "name": "카더가든",
-              "collapsed": true,
-              "videos": [],
-              "children": []
-            },
-            {
               "id": "cat-16",
               "name": "쿨",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "lt1bVGUjUxM",
@@ -1417,25 +1398,13 @@
     {
       "id": "cat-46",
       "name": "OST",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
-          "id": "cat-116",
-          "name": "냉정과 열정 사이",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "VHYxL3UKJbk",
-              "title": "#음악연속재생 버전 - 냉정과열정사이"
-            }
-          ],
-          "children": []
-        },
-        {
           "id": "cat-47",
           "name": "신의 악단",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "Ak8hiWx35oQ",
@@ -1493,26 +1462,6 @@
                 {
                   "videoId": "PeMvMNpvB5M",
                   "title": "Heart - \"Barracuda\" (1977)"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-115",
-          "name": "L",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-114",
-              "name": "Lady Gaga",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "mjrdywp5nyE",
-                  "title": "Lady Gaga - Pepsi Zero Sugar Super Bowl LI Halftime Show"
                 }
               ],
               "children": []
