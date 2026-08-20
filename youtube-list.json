@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 130,
+  "categoryIdSeq": 131,
   "categories": [
+    {
+      "id": "cat-130",
+      "name": "그_냥(J_ust)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
