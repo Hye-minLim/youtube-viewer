@@ -1087,7 +1087,12 @@
               "id": "cat-119",
               "name": "정준일",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "fAAM6Pq1kjU",
+                  "title": "정준일 - 어떻게 사랑이 그래요 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 250705 방송"
+                }
+              ],
               "children": []
             },
             {
