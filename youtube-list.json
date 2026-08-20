@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 151,
+  "categoryIdSeq": 152,
   "categories": [
     {
       "id": "cat-148",
@@ -99,6 +99,13 @@
           "title": "주의 손이(Hand of God) | Feast Family"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-151",
+      "name": "클래식콰이어",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
