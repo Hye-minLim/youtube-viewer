@@ -595,7 +595,7 @@
             {
               "id": "cat-138",
               "name": "박기영",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "NiErxD8XXp4",
@@ -607,7 +607,7 @@
             {
               "id": "cat-98",
               "name": "박보람",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "a61DKukZZos",
