@@ -2,18 +2,6 @@
   "categoryIdSeq": 166,
   "categories": [
     {
-      "id": "cat-161",
-      "name": "풍락",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "pxfsytpe00k",
-          "title": "박수가 절로 나오는 풍락의 〈이미 슬픈 사랑〉♬ | 스타탄생 5회 | JTBC 221005 방송"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1727,6 +1715,18 @@
                 {
                   "videoId": "N-zuZCCfX_U",
                   "title": "파파야(Papaya)  내 얘길 들어봐 (가사 첨부)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-161",
+              "name": "풍락",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "pxfsytpe00k",
+                  "title": "박수가 절로 나오는 풍락의 〈이미 슬픈 사랑〉♬ | 스타탄생 5회 | JTBC 221005 방송"
                 }
               ],
               "children": []
