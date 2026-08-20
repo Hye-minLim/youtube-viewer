@@ -2110,7 +2110,7 @@
             {
               "id": "cat-128",
               "name": "Sarah McLachlan",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "VLZ9Ike2Geo",
@@ -2118,22 +2118,22 @@
                 }
               ],
               "children": []
+            },
+            {
+              "id": "cat-171",
+              "name": "Sasha Alex Sloan",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "Qzc_aX8c8g4",
+                  "title": "Sasha Alex Sloan - Dancing With Your Ghost (Lyric Video)"
+                }
+              ],
+              "children": []
             }
           ]
         }
       ]
-    },
-    {
-      "id": "cat-171",
-      "name": "Sasha Alex Sloan",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "Qzc_aX8c8g4",
-          "title": "Sasha Alex Sloan - Dancing With Your Ghost (Lyric Video)"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-137",
