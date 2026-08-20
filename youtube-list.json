@@ -2,18 +2,6 @@
   "categoryIdSeq": 194,
   "categories": [
     {
-      "id": "cat-189",
-      "name": "더 크로스(The Cross)",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "GfZi4n-YwtI",
-          "title": "더 크로스(The Cross) - Don't cry [윤도현의 러브레터] | KBS 20031025 방송"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-191",
       "name": "비비",
       "collapsed": false,
@@ -582,9 +570,21 @@
         {
           "id": "cat-5",
           "name": "ㄷ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-189",
+              "name": "더 크로스(The Cross)",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "GfZi4n-YwtI",
+                  "title": "더 크로스(The Cross) - Don't cry [윤도현의 러브레터] | KBS 20031025 방송"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-73",
               "name": "더더",
