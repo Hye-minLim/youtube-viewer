@@ -420,7 +420,12 @@
               "id": "cat-116",
               "name": "BigBang",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "--zku6TB5NY",
+                  "title": "BIGBANG - ‘LAST DANCE’ M/V"
+                }
+              ],
               "children": []
             }
           ]
@@ -428,7 +433,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
