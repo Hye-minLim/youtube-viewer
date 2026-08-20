@@ -1497,7 +1497,12 @@
               "id": "cat-114",
               "name": "Lady Gaga",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "mjrdywp5nyE",
+                  "title": "Lady Gaga - Pepsi Zero Sugar Super Bowl LI Halftime Show"
+                }
+              ],
               "children": []
             }
           ]
