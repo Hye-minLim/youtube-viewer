@@ -1480,7 +1480,12 @@
               "id": "cat-169",
               "name": "잔나비",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "Kx8pJzPodsY",
+                  "title": "Summer (뜨거운 여름밤은 가고 남은 건 볼품없지만)"
+                }
+              ],
               "children": []
             },
             {
