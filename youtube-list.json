@@ -18,18 +18,6 @@
       "children": []
     },
     {
-      "id": "cat-184",
-      "name": "이선희",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "IAyMtl9FRHI",
-          "title": "[MV] Lee Sun Hee(이선희) _ Meet him among them(그 중에 그대를 만나)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1070,7 +1058,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1405,6 +1393,18 @@
                 {
                   "videoId": "CNOjcBxR4X4",
                   "title": "Someday"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-184",
+              "name": "이선희",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "IAyMtl9FRHI",
+                  "title": "[MV] Lee Sun Hee(이선희) _ Meet him among them(그 중에 그대를 만나)"
                 }
               ],
               "children": []
