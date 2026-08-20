@@ -157,7 +157,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
