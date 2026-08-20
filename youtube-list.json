@@ -2,13 +2,6 @@
   "categoryIdSeq": 137,
   "categories": [
     {
-      "id": "cat-136",
-      "name": "예능",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1537,6 +1530,13 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-136",
+              "name": "예능",
+              "collapsed": false,
+              "videos": [],
+              "children": []
             },
             {
               "id": "cat-134",
