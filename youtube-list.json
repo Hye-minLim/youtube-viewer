@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 142,
+  "categoryIdSeq": 143,
   "categories": [
+    {
+      "id": "cat-142",
+      "name": "사비나앤드론즈",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-141",
       "name": "카더가든",
