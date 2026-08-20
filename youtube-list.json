@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 120,
+  "categoryIdSeq": 121,
   "categories": [
+    {
+      "id": "cat-120",
+      "name": "파파야",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
@@ -141,7 +148,7 @@
         {
           "id": "cat-4",
           "name": "ㄴ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1044,7 +1051,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
