@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 203,
+  "categoryIdSeq": 205,
   "categories": [
+    {
+      "id": "cat-204",
+      "name": "고",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-200",
       "name": "듀스",
@@ -35,6 +42,13 @@
           "title": "날개 (날개)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-203",
+      "name": "인디고",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
