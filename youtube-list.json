@@ -2,26 +2,6 @@
   "categoryIdSeq": 176,
   "categories": [
     {
-      "id": "cat-175",
-      "name": "ㅊ",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-174",
-          "name": "최재훈",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "ma2Us5TBGXQ",
-              "title": "[Korea-pop]   최재훈 - 함께 있으면 좋을 사람"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1696,6 +1676,26 @@
                 {
                   "videoId": "8aPxGaE_9zo",
                   "title": "존박 - Whiplash [더 시즌즈-이영지의 레인보우] | KBS 241101 방송"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cat-175",
+          "name": "ㅊ",
+          "collapsed": true,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-174",
+              "name": "최재훈",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "ma2Us5TBGXQ",
+                  "title": "[Korea-pop]   최재훈 - 함께 있으면 좋을 사람"
                 }
               ],
               "children": []
