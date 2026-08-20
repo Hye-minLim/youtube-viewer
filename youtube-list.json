@@ -2,18 +2,6 @@
   "categoryIdSeq": 196,
   "categories": [
     {
-      "id": "cat-191",
-      "name": "비비",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "PRfbCM_lWYw",
-          "title": "[Full ver.] 비비(김형서) - 편지 @《THE FAN》 더 팬 EP07"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -700,7 +688,7 @@
             {
               "id": "cat-98",
               "name": "박보람",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "a61DKukZZos",
@@ -712,7 +700,7 @@
             {
               "id": "cat-127",
               "name": "박정현",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "1IrUGrZs7OM",
@@ -724,7 +712,7 @@
             {
               "id": "cat-71",
               "name": "박지윤",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "VTgwLDKnU4Q",
@@ -817,6 +805,18 @@
                 {
                   "videoId": "_2zMo-Rhk54",
                   "title": "With Coffee"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-191",
+              "name": "비비",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "PRfbCM_lWYw",
+                  "title": "[Full ver.] 비비(김형서) - 편지 @《THE FAN》 더 팬 EP07"
                 }
               ],
               "children": []
