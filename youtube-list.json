@@ -280,7 +280,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -2089,6 +2089,10 @@
           "name": "텐션업",
           "collapsed": false,
           "videos": [
+            {
+              "videoId": "nJW00c81zUo",
+              "title": "Chilly Cha Cha"
+            },
             {
               "videoId": "T9sz9QzsWXc",
               "title": "DDR Butterfly [FULL] with lyrics"
