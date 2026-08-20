@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 164,
+  "categoryIdSeq": 166,
   "categories": [
+    {
+      "id": "cat-164",
+      "name": "김광진",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-165",
+      "name": "진",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-161",
       "name": "풍락",
