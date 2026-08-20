@@ -4,14 +4,155 @@
     {
       "id": "cat-22",
       "name": "CCM",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [
         {
           "videoId": "mRuE0P-M9EM",
           "title": "임재 (하늘의 문을 여소서) by 시와그림 Come Holy Spirit Poem & Painting (Eng Sub)"
         }
       ],
-      "children": []
+      "children": [
+        {
+          "id": "cat-34",
+          "name": "VA",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-136",
+              "name": "예능",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-42",
+                  "name": "신의목소리",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "e9NhmhazHgo",
+                      "title": "윤도현 제압한 연습생, 김재환 ‘가을 우체국 앞에서’ @보컬 전쟁:신의 목소리 20160210"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-37",
+                  "name": "싱어게인",
+                  "collapsed": true,
+                  "videos": [],
+                  "children": [
+                    {
+                      "id": "cat-38",
+                      "name": "3",
+                      "collapsed": false,
+                      "videos": [
+                        {
+                          "videoId": "wUE7DLZvsJw",
+                          "title": "[싱어게인3] 국보급 허스키 보이스로 몰입시키는😧 8호 가수의 〈꽃이 피고 지듯이〉♪ | 싱어게인3 10회 | JTBC 231228 방송"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "id": "cat-61",
+                      "name": "4",
+                      "collapsed": false,
+                      "videos": [
+                        {
+                          "videoId": "6oCAXU5BEyk",
+                          "title": "＂예사 사람이 아니다🔥＂ 윤종신 최애 등극 + 임재범 '참 잘했어요' 받은 무대! 65호 가수의 'From Mark'｜싱어게인4｜JTBC 251014 방송"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "cat-114",
+                  "name": "한일가왕전",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "zqO7fKk1N9k",
+                      "title": "스미다 아이코(住田愛子) - 긴기라기니 사리케나쿠 (ギンギラギンにさりげなく)｜한일가왕전 2회"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-35",
+                  "name": "해피투게더",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "HSlgwVItwkQ",
+                      "title": "조아해 - 소중한 너  [해피투게더🍀혼자가 아니어서 좋아] | KBS 260807 방송"
+                    },
+                    {
+                      "videoId": "P3-2h4tXO5I",
+                      "title": "최트리오 - 향수 [해피투게더🍀혼자가 아니어서 좋아] | KBS 260724 방송"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-40",
+                  "name": "The Voice Global Asia",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "yAbXCxVrDSo",
+                      "title": "They Tried Not To Cry... But This Voice Hit Hard! | The Voice Global Asia"
+                    },
+                    {
+                      "videoId": "Ft3JyD2F8l8",
+                      "title": "This Is Why the World Fell in Love With Korean Voices! | The Voice Global Asia"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-134",
+              "name": "텐션업",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "T9sz9QzsWXc",
+                  "title": "DDR Butterfly [FULL] with lyrics"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-57",
+              "name": "AI",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "MA9L5GA7rUY",
+                  "title": "쿨 – 작은 기다림 | 70s Soul & Motown Inspired Rework (AI Cover)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-115",
+              "name": "work",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "jeLlKfT0k-8",
+                  "title": "그냥 틀어놓으려고 만든 플레이리스트 [Playlist]"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "cat-2",
@@ -1475,146 +1616,6 @@
                 {
                   "videoId": "uRYai8Ik9FM",
                   "title": "HANZ(한즈) - 꽃이 피고 지듯이 Official MV"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-34",
-          "name": "VA",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-136",
-              "name": "예능",
-              "collapsed": true,
-              "videos": [],
-              "children": [
-                {
-                  "id": "cat-42",
-                  "name": "신의목소리",
-                  "collapsed": true,
-                  "videos": [
-                    {
-                      "videoId": "e9NhmhazHgo",
-                      "title": "윤도현 제압한 연습생, 김재환 ‘가을 우체국 앞에서’ @보컬 전쟁:신의 목소리 20160210"
-                    }
-                  ],
-                  "children": []
-                },
-                {
-                  "id": "cat-37",
-                  "name": "싱어게인",
-                  "collapsed": true,
-                  "videos": [],
-                  "children": [
-                    {
-                      "id": "cat-38",
-                      "name": "3",
-                      "collapsed": false,
-                      "videos": [
-                        {
-                          "videoId": "wUE7DLZvsJw",
-                          "title": "[싱어게인3] 국보급 허스키 보이스로 몰입시키는😧 8호 가수의 〈꽃이 피고 지듯이〉♪ | 싱어게인3 10회 | JTBC 231228 방송"
-                        }
-                      ],
-                      "children": []
-                    },
-                    {
-                      "id": "cat-61",
-                      "name": "4",
-                      "collapsed": false,
-                      "videos": [
-                        {
-                          "videoId": "6oCAXU5BEyk",
-                          "title": "＂예사 사람이 아니다🔥＂ 윤종신 최애 등극 + 임재범 '참 잘했어요' 받은 무대! 65호 가수의 'From Mark'｜싱어게인4｜JTBC 251014 방송"
-                        }
-                      ],
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "id": "cat-114",
-                  "name": "한일가왕전",
-                  "collapsed": true,
-                  "videos": [
-                    {
-                      "videoId": "zqO7fKk1N9k",
-                      "title": "스미다 아이코(住田愛子) - 긴기라기니 사리케나쿠 (ギンギラギンにさりげなく)｜한일가왕전 2회"
-                    }
-                  ],
-                  "children": []
-                },
-                {
-                  "id": "cat-35",
-                  "name": "해피투게더",
-                  "collapsed": true,
-                  "videos": [
-                    {
-                      "videoId": "HSlgwVItwkQ",
-                      "title": "조아해 - 소중한 너  [해피투게더🍀혼자가 아니어서 좋아] | KBS 260807 방송"
-                    },
-                    {
-                      "videoId": "P3-2h4tXO5I",
-                      "title": "최트리오 - 향수 [해피투게더🍀혼자가 아니어서 좋아] | KBS 260724 방송"
-                    }
-                  ],
-                  "children": []
-                },
-                {
-                  "id": "cat-40",
-                  "name": "The Voice Global Asia",
-                  "collapsed": true,
-                  "videos": [
-                    {
-                      "videoId": "yAbXCxVrDSo",
-                      "title": "They Tried Not To Cry... But This Voice Hit Hard! | The Voice Global Asia"
-                    },
-                    {
-                      "videoId": "Ft3JyD2F8l8",
-                      "title": "This Is Why the World Fell in Love With Korean Voices! | The Voice Global Asia"
-                    }
-                  ],
-                  "children": []
-                }
-              ]
-            },
-            {
-              "id": "cat-134",
-              "name": "텐션업",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "T9sz9QzsWXc",
-                  "title": "DDR Butterfly [FULL] with lyrics"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-57",
-              "name": "AI",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "MA9L5GA7rUY",
-                  "title": "쿨 – 작은 기다림 | 70s Soul & Motown Inspired Rework (AI Cover)"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-115",
-              "name": "work",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "jeLlKfT0k-8",
-                  "title": "그냥 틀어놓으려고 만든 플레이리스트 [Playlist]"
                 }
               ],
               "children": []
