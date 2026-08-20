@@ -292,7 +292,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -2163,7 +2163,7 @@
     {
       "id": "cat-108",
       "name": "POP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
