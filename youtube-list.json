@@ -206,26 +206,6 @@
       "children": []
     },
     {
-      "id": "cat-214",
-      "name": "터보",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "UF_Tu4ohKx8",
-          "title": "스키장에서"
-        },
-        {
-          "videoId": "0FXoS7DI-Ww",
-          "title": "회상"
-        },
-        {
-          "videoId": "10gBbQbjKg8",
-          "title": "Love is..."
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2240,6 +2220,26 @@
                 {
                   "videoId": "GondDmX-N9s",
                   "title": "들리나요..."
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-214",
+              "name": "터보",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "UF_Tu4ohKx8",
+                  "title": "스키장에서"
+                },
+                {
+                  "videoId": "0FXoS7DI-Ww",
+                  "title": "회상"
+                },
+                {
+                  "videoId": "10gBbQbjKg8",
+                  "title": "Love is..."
                 }
               ],
               "children": []
