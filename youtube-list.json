@@ -996,13 +996,13 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-97",
               "name": "장혜진",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "WlarO1_i0xo",
