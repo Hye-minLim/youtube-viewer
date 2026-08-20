@@ -294,19 +294,20 @@
       "name": "E",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-190",
-      "name": "Eric Clapton",
-      "collapsed": false,
-      "videos": [
+      "children": [
         {
-          "videoId": "fvVqPi92CcY",
-          "title": "Eric Clapton[70] 11. Tears in Heaven"
+          "id": "cat-190",
+          "name": "Eric Clapton",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "fvVqPi92CcY",
+              "title": "Eric Clapton[70] 11. Tears in Heaven"
+            }
+          ],
+          "children": []
         }
-      ],
-      "children": []
+      ]
     },
     {
       "id": "cat-2",
