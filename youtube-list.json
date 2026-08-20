@@ -298,13 +298,13 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-52",
               "name": "검정치마",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "B5cvbwOmfY0",
@@ -335,13 +335,6 @@
                   "title": "Blue Island (feat. 1Ho & Chan)"
                 }
               ],
-              "children": []
-            },
-            {
-              "id": "cat-56",
-              "name": "공기남",
-              "collapsed": true,
-              "videos": [],
               "children": []
             },
             {
