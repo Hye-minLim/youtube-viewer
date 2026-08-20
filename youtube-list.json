@@ -2095,7 +2095,12 @@
       "id": "cat-171",
       "name": "Sasha Alex Sloan",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Qzc_aX8c8g4",
+          "title": "Sasha Alex Sloan - Dancing With Your Ghost (Lyric Video)"
+        }
+      ],
       "children": []
     },
     {
