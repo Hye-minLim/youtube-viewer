@@ -328,7 +328,7 @@
             {
               "id": "cat-56",
               "name": "공기남",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": []
             },
@@ -347,7 +347,7 @@
             {
               "id": "cat-65",
               "name": "곽태풍",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "eX8LLlxk090",
