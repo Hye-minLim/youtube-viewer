@@ -2,18 +2,6 @@
   "categoryIdSeq": 224,
   "categories": [
     {
-      "id": "cat-218",
-      "name": "김형중",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "Nov2x_A3c5k",
-          "title": "그녀가 웃잖아...."
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-206",
       "name": "서영은",
       "collapsed": false,
@@ -517,6 +505,18 @@
                 {
                   "videoId": "cS-IiArGmcU",
                   "title": "김진호 - 가족사진 [불후의 명곡2].20140524"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-218",
+              "name": "김형중",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "Nov2x_A3c5k",
+                  "title": "그녀가 웃잖아...."
                 }
               ],
               "children": []
