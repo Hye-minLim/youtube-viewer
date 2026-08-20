@@ -5,7 +5,12 @@
       "id": "cat-179",
       "name": "김재기",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "DRZzYxl8pB4",
+          "title": "김재기 / 소나기"
+        }
+      ],
       "children": []
     },
     {
