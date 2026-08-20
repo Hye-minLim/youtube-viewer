@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 224,
+  "categoryIdSeq": 225,
   "categories": [
+    {
+      "id": "cat-224",
+      "name": "안지영",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
