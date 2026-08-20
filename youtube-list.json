@@ -1014,7 +1014,7 @@
             {
               "id": "cat-113",
               "name": "전람회",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "ZcLNI5MaOg0",
@@ -1132,13 +1132,13 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-112",
               "name": "카더가든",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": []
             },
