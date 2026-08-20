@@ -1058,7 +1058,7 @@
             {
               "id": "cat-113",
               "name": "전람회",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "ZcLNI5MaOg0",
@@ -1086,7 +1086,7 @@
             {
               "id": "cat-119",
               "name": "정준일",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "fAAM6Pq1kjU",
