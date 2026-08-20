@@ -226,22 +226,6 @@
       "children": []
     },
     {
-      "id": "cat-208",
-      "name": "포지션",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "GqlBI3sempA",
-          "title": "[DANCE] 포지션 - Summer Time | 가사 (Lyrics)"
-        },
-        {
-          "videoId": "dzJF8hJWwe4",
-          "title": "후회 없는 사랑"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2289,7 +2273,7 @@
         {
           "id": "cat-27",
           "name": "ㅍ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -2312,6 +2296,22 @@
                 {
                   "videoId": "k4D4rKkRdmw",
                   "title": "아름다운 세상을 찾아서 - 남자 대탐험 OST (1996年)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-208",
+              "name": "포지션",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "GqlBI3sempA",
+                  "title": "[DANCE] 포지션 - Summer Time | 가사 (Lyrics)"
+                },
+                {
+                  "videoId": "dzJF8hJWwe4",
+                  "title": "후회 없는 사랑"
                 }
               ],
               "children": []
