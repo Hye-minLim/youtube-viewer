@@ -253,6 +253,11 @@
       <input type="file" id="importFile" accept="application/json" style="display:none">
     </div>
 
+    <div class="add-form io-form">
+      <button id="githubConnectBtn">GitHub 연결</button>
+      <span id="githubStatus" style="flex:2; align-self:center; font-size:12px; color:#aaa; padding-left:6px;"></span>
+    </div>
+
     <ul class="tree" id="videoTree"></ul>
   </div>
 
@@ -280,9 +285,141 @@
   const exportBtn = document.getElementById('exportBtn');
   const importBtn = document.getElementById('importBtn');
   const importFile = document.getElementById('importFile');
+  const githubConnectBtn = document.getElementById('githubConnectBtn');
+  const githubStatus = document.getElementById('githubStatus');
 
   let categoryIdSeq = 1;
   const STORAGE_KEY = 'youtubeViewerData';
+
+  // ---- GitHub 동기화 설정 ----
+  const GH_OWNER = 'Hye-minLim';
+  const GH_REPO = 'youtube-viewer';
+  const GH_BRANCH = 'main';
+  const GH_PATH = 'youtube-list.json';
+  const GH_TOKEN_KEY = 'youtubeViewerGithubToken';
+  const GH_API_URL = 'https://api.github.com/repos/' + GH_OWNER + '/' + GH_REPO + '/contents/' + GH_PATH;
+
+  let currentSha = null;
+  let syncTimer = null;
+
+  function getGithubToken() {
+    try { return localStorage.getItem(GH_TOKEN_KEY) || ''; } catch (e) { return ''; }
+  }
+
+  function setGithubToken(token) {
+    try {
+      if (token) localStorage.setItem(GH_TOKEN_KEY, token);
+      else localStorage.removeItem(GH_TOKEN_KEY);
+    } catch (e) {}
+  }
+
+  function setSyncStatus(text) {
+    githubStatus.textContent = text;
+  }
+
+  function base64EncodeUtf8(str) {
+    return btoa(unescape(encodeURIComponent(str)));
+  }
+
+  function base64DecodeUtf8(b64) {
+    return decodeURIComponent(escape(atob(b64)));
+  }
+
+  async function fetchRemoteState() {
+    const token = getGithubToken();
+    const headers = { 'Accept': 'application/vnd.github+json' };
+    if (token) headers['Authorization'] = 'Bearer ' + token;
+
+    const res = await fetch(GH_API_URL + '?ref=' + GH_BRANCH + '&t=' + Date.now(), { headers: headers });
+    if (res.status === 404) return null;
+    if (!res.ok) throw new Error('불러오기 실패 (' + res.status + ')');
+
+    const json = await res.json();
+    const decoded = base64DecodeUtf8(json.content.replace(/\n/g, ''));
+    return { data: JSON.parse(decoded), sha: json.sha };
+  }
+
+  async function pushRemoteState(dataObj, isRetry) {
+    const token = getGithubToken();
+    if (!token) return;
+
+    setSyncStatus('GitHub에 저장 중...');
+    try {
+      if (!currentSha) {
+        const remote = await fetchRemoteState();
+        if (remote) currentSha = remote.sha;
+      }
+
+      const body = {
+        message: '유튜브 목록 업데이트',
+        content: base64EncodeUtf8(JSON.stringify(dataObj, null, 2)),
+        branch: GH_BRANCH
+      };
+      if (currentSha) body.sha = currentSha;
+
+      const res = await fetch(GH_API_URL, {
+        method: 'PUT',
+        headers: {
+          'Authorization': 'Bearer ' + token,
+          'Accept': 'application/vnd.github+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(body)
+      });
+
+      if (res.status === 409 && !isRetry) {
+        currentSha = null;
+        return pushRemoteState(dataObj, true);
+      }
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(res.status + ' ' + errText);
+      }
+
+      const resultJson = await res.json();
+      currentSha = resultJson.content && resultJson.content.sha;
+      setSyncStatus('저장됨 · ' + new Date().toLocaleTimeString());
+    } catch (e) {
+      setSyncStatus('저장 실패: ' + e.message);
+    }
+  }
+
+  function scheduleRemoteSync() {
+    if (!getGithubToken()) return;
+    clearTimeout(syncTimer);
+    setSyncStatus('저장 대기 중...');
+    syncTimer = setTimeout(function () {
+      pushRemoteState(serializeState());
+    }, 2000);
+  }
+
+  githubConnectBtn.addEventListener('click', async function () {
+    const existing = getGithubToken();
+    const input = prompt(
+      'GitHub Personal Access Token을 입력하세요.\n' +
+      '(Hye-minLim/youtube-viewer 저장소의 Contents 읽기/쓰기 권한이 있는 fine-grained 토큰 권장)\n' +
+      '비워두고 확인을 누르면 연결이 해제됩니다.',
+      existing
+    );
+    if (input === null) return;
+
+    const token = input.trim();
+    setGithubToken(token);
+    if (!token) {
+      currentSha = null;
+      setSyncStatus('GitHub 연결 해제됨');
+      return;
+    }
+
+    setSyncStatus('연결 확인 중...');
+    try {
+      const remote = await fetchRemoteState();
+      if (remote) currentSha = remote.sha;
+      setSyncStatus('연결됨 · 다음 변경사항부터 자동 저장');
+    } catch (e) {
+      setSyncStatus('연결 실패: ' + e.message);
+    }
+  });
 
   function extractVideoId(url) {
     const patterns = [
@@ -694,6 +831,7 @@
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(serializeState()));
     } catch (e) {}
+    scheduleRemoteSync();
   }
 
   function buildCategoryTree(cat, parentUl) {
@@ -703,11 +841,30 @@
     (cat.children || []).forEach(childCat => buildCategoryTree(childCat, li.querySelector(':scope > .subtree')));
   }
 
-  function loadState() {
+  async function loadState() {
     let data = null;
     try {
       data = JSON.parse(localStorage.getItem(STORAGE_KEY));
     } catch (e) {}
+
+    if (getGithubToken()) {
+      setSyncStatus('GitHub에서 불러오는 중...');
+      try {
+        const remote = await fetchRemoteState();
+        if (remote) {
+          data = remote.data;
+          currentSha = remote.sha;
+          try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch (e) {}
+          setSyncStatus('연결됨 · 마지막 동기화 ' + new Date().toLocaleTimeString());
+        } else {
+          setSyncStatus('연결됨 · 원격 파일 없음(로컬 데이터 사용)');
+        }
+      } catch (e) {
+        setSyncStatus('원격 불러오기 실패, 로컬 데이터 사용');
+      }
+    } else {
+      setSyncStatus('GitHub 미연결');
+    }
 
     if (!data || !Array.isArray(data.categories) || data.categories.length === 0) {
       createCategory('기본');
