@@ -1419,14 +1419,15 @@
       "name": "L",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-114",
-      "name": "Lady Gaga",
-      "collapsed": false,
-      "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-114",
+          "name": "Lady Gaga",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-46",
