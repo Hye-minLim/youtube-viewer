@@ -4,7 +4,7 @@
     {
       "id": "cat-174",
       "name": "최재훈",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "ma2Us5TBGXQ",
@@ -298,7 +298,7 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
