@@ -2,13 +2,6 @@
   "categoryIdSeq": 120,
   "categories": [
     {
-      "id": "cat-119",
-      "name": "정준일",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1088,6 +1081,13 @@
                   "title": "취중진담"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-119",
+              "name": "정준일",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
