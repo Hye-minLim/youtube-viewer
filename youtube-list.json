@@ -125,18 +125,6 @@
                 }
               ],
               "children": []
-            },
-            {
-              "id": "cat-57",
-              "name": "AI",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "MA9L5GA7rUY",
-                  "title": "쿨 – 작은 기다림 | 70s Soul & Motown Inspired Rework (AI Cover)"
-                }
-              ],
-              "children": []
             }
           ]
         }
@@ -1781,6 +1769,18 @@
       "collapsed": false,
       "videos": [],
       "children": [
+        {
+          "id": "cat-57",
+          "name": "AI",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "MA9L5GA7rUY",
+              "title": "쿨 – 작은 기다림 | 70s Soul & Motown Inspired Rework (AI Cover)"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-115",
           "name": "work",
