@@ -2,13 +2,6 @@
   "categoryIdSeq": 128,
   "categories": [
     {
-      "id": "cat-127",
-      "name": "박정현",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -329,6 +322,13 @@
                   "title": "세월이 가면"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-127",
+              "name": "박정현",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
