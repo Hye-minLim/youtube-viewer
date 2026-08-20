@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 188,
+  "categoryIdSeq": 189,
   "categories": [
+    {
+      "id": "cat-188",
+      "name": "기타",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
