@@ -2,18 +2,6 @@
   "categoryIdSeq": 179,
   "categories": [
     {
-      "id": "cat-177",
-      "name": "펄스",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "k4D4rKkRdmw",
-          "title": "아름다운 세상을 찾아서 - 남자 대탐험 OST (1996年)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1808,6 +1796,18 @@
                 {
                   "videoId": "N-zuZCCfX_U",
                   "title": "파파야(Papaya)  내 얘길 들어봐 (가사 첨부)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-177",
+              "name": "펄스",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "k4D4rKkRdmw",
+                  "title": "아름다운 세상을 찾아서 - 남자 대탐험 OST (1996年)"
                 }
               ],
               "children": []
