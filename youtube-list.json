@@ -16,7 +16,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -321,7 +321,7 @@
         {
           "id": "cat-12",
           "name": "ㅂ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -339,7 +339,7 @@
             {
               "id": "cat-127",
               "name": "박정현",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "1IrUGrZs7OM",
@@ -351,7 +351,7 @@
             {
               "id": "cat-71",
               "name": "박지윤",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "VTgwLDKnU4Q",
