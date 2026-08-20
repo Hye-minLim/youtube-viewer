@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 125,
+  "categoryIdSeq": 126,
   "categories": [
+    {
+      "id": "cat-125",
+      "name": "8월의 크리스마스",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
