@@ -2280,7 +2280,7 @@
         {
           "id": "cat-132",
           "name": "N",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -2300,7 +2300,7 @@
         {
           "id": "cat-129",
           "name": "S",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
