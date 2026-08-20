@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 145,
+  "categoryIdSeq": 146,
   "categories": [
+    {
+      "id": "cat-145",
+      "name": "송솔나무",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-144",
       "name": "아이자야씩스티원",
