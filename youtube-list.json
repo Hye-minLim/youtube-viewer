@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 168,
+  "categoryIdSeq": 169,
   "categories": [
+    {
+      "id": "cat-168",
+      "name": "서지원",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-167",
       "name": "스텔라장",
