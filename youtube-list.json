@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 113,
+  "categoryIdSeq": 114,
   "categories": [
+    {
+      "id": "cat-113",
+      "name": "전람회",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
