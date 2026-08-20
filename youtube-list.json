@@ -1592,13 +1592,6 @@
       ]
     },
     {
-      "id": "cat-132",
-      "name": "N",
-      "collapsed": true,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-131",
       "name": "Nothing But Thieves",
       "collapsed": false,
@@ -1725,6 +1718,13 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "cat-132",
+          "name": "N",
+          "collapsed": true,
+          "videos": [],
+          "children": []
         },
         {
           "id": "cat-129",
