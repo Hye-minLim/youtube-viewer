@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 144,
+  "categoryIdSeq": 145,
   "categories": [
+    {
+      "id": "cat-144",
+      "name": "아이자야씩스티원",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-143",
       "name": "예람워십",
