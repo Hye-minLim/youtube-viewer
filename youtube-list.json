@@ -98,18 +98,6 @@
       "children": []
     },
     {
-      "id": "cat-203",
-      "name": "인디고",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "ORqWQi3hm_k",
-          "title": "여름아!부탁해"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1692,6 +1680,18 @@
                 {
                   "videoId": "mxRZQdXDEN8",
                   "title": "이오공감 - 사랑이 그리운 날들에 (1992年)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-203",
+              "name": "인디고",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "ORqWQi3hm_k",
+                  "title": "여름아!부탁해"
                 }
               ],
               "children": []
