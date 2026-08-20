@@ -49,7 +49,12 @@
       "id": "cat-146",
       "name": "잔치공동체",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "xW5gim_oTjo",
+          "title": "주의 손이(Hand of God) | Feast Family"
+        }
+      ],
       "children": []
     },
     {
