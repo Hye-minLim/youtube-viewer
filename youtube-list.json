@@ -2,13 +2,6 @@
   "categoryIdSeq": 122,
   "categories": [
     {
-      "id": "cat-121",
-      "name": "신지훈",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -452,7 +445,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -549,6 +542,13 @@
                   "title": "[Official Audio] 신인류 (Shin In Ryu) - 날씨의 요정 (Fairy Castor)"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-121",
+              "name": "신지훈",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
