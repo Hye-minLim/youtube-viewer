@@ -62,18 +62,6 @@
       "children": []
     },
     {
-      "id": "cat-223",
-      "name": "아스피린",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "cuhsI-8n1gM",
-          "title": "[MV] 걸(Girl) - 아스피린 Aspirin (12 String Guitar Version)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-202",
       "name": "언타이틀",
       "collapsed": false,
@@ -1205,6 +1193,18 @@
           "collapsed": true,
           "videos": [],
           "children": [
+            {
+              "id": "cat-223",
+              "name": "아스피린",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "cuhsI-8n1gM",
+                  "title": "[MV] 걸(Girl) - 아스피린 Aspirin (12 String Guitar Version)"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-126",
               "name": "아이비(IVY)",
