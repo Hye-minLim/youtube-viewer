@@ -1490,7 +1490,7 @@
             {
               "id": "cat-136",
               "name": "예능",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -1605,7 +1605,7 @@
             {
               "id": "cat-115",
               "name": "work",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "jeLlKfT0k-8",
