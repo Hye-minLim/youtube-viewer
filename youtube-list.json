@@ -521,7 +521,7 @@
         {
           "id": "cat-25",
           "name": "ㄹ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -569,7 +569,7 @@
         {
           "id": "cat-76",
           "name": "ㅁ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -589,7 +589,7 @@
         {
           "id": "cat-12",
           "name": "ㅂ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -957,7 +957,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
