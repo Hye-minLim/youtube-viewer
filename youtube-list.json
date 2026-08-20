@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 192,
+  "categoryIdSeq": 193,
   "categories": [
+    {
+      "id": "cat-192",
+      "name": "김진호",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-189",
       "name": "더 크로스(The Cross)",
