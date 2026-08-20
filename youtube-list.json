@@ -14,13 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-122",
-      "name": "George Michael",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-2",
       "name": "KPOP",
       "collapsed": true,
@@ -1589,9 +1582,16 @@
         {
           "id": "cat-110",
           "name": "G",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-122",
+              "name": "George Michael",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-105",
               "name": "Golden Earring",
