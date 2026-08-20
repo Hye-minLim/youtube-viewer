@@ -5,7 +5,12 @@
       "id": "cat-167",
       "name": "스텔라장",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "XtYGk-kvWP0",
+          "title": "L’Amour, Les Baguettes, Paris"
+        }
+      ],
       "children": []
     },
     {
