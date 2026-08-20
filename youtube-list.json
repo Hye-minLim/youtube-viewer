@@ -2,18 +2,6 @@
   "categoryIdSeq": 143,
   "categories": [
     {
-      "id": "cat-142",
-      "name": "사비나앤드론즈",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "N6iAiG_gRoo",
-          "title": "아무도 모른다 (Nobody knows) - 사비나앤드론즈 official MV"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-141",
       "name": "카더가든",
       "collapsed": true,
@@ -528,6 +516,18 @@
           "collapsed": true,
           "videos": [],
           "children": [
+            {
+              "id": "cat-142",
+              "name": "사비나앤드론즈",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "N6iAiG_gRoo",
+                  "title": "아무도 모른다 (Nobody knows) - 사비나앤드론즈 official MV"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-83",
               "name": "샵",
