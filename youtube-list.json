@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 116,
+  "categoryIdSeq": 117,
   "categories": [
+    {
+      "id": "cat-116",
+      "name": "냉정과 열정 사이",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
