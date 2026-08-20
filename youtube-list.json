@@ -8,6 +8,18 @@
       "videos": [],
       "children": [
         {
+          "id": "cat-153",
+          "name": "기타CCM",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "mRuE0P-M9EM",
+              "title": "임재 (하늘의 문을 여소서) by 시와그림 Come Holy Spirit Poem & Painting (Eng Sub)"
+            }
+          ],
+          "children": []
+        },
+        {
           "id": "cat-148",
           "name": "김대환",
           "collapsed": true,
@@ -127,18 +139,6 @@
             {
               "videoId": "HWBeY_AhAzA",
               "title": "주님 마음 내게 주소서 by 클래식콰이어"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "cat-153",
-          "name": "VA",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "mRuE0P-M9EM",
-              "title": "임재 (하늘의 문을 여소서) by 시와그림 Come Holy Spirit Poem & Painting (Eng Sub)"
             }
           ],
           "children": []
