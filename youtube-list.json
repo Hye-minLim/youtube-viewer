@@ -1224,7 +1224,7 @@
         {
           "id": "cat-6",
           "name": "ㅎ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1242,7 +1242,7 @@
             {
               "id": "cat-7",
               "name": "한로로",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "h0KIWaUEIgQ",
