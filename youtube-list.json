@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 222,
+  "categoryIdSeq": 223,
   "categories": [
     {
       "id": "cat-218",
@@ -123,6 +123,13 @@
           "title": "Bus 안에서"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-222",
+      "name": "조성모",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
