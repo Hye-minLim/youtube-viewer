@@ -158,18 +158,6 @@
       "children": []
     },
     {
-      "id": "cat-220",
-      "name": "지누션",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "25FlzBfRfFM",
-          "title": "말해줘 (Tell Me)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2012,6 +2000,18 @@
                 {
                   "videoId": "8aPxGaE_9zo",
                   "title": "존박 - Whiplash [더 시즌즈-이영지의 레인보우] | KBS 241101 방송"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-220",
+              "name": "지누션",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "25FlzBfRfFM",
+                  "title": "말해줘 (Tell Me)"
                 }
               ],
               "children": []
