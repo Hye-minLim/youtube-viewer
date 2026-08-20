@@ -548,7 +548,12 @@
               "id": "cat-121",
               "name": "신지훈",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "zIrJFwvDfj4",
+                  "title": "신지훈 – 내 사랑 내 곁에 (원곡 : 김현식) | 피크닉라이브 소풍 | EP.135"
+                }
+              ],
               "children": []
             },
             {
