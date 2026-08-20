@@ -280,13 +280,13 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -2087,7 +2087,7 @@
         {
           "id": "cat-134",
           "name": "텐션업",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "T9sz9QzsWXc",
