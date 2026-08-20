@@ -1931,7 +1931,7 @@
     {
       "id": "cat-46",
       "name": "OST",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -1985,7 +1985,7 @@
         {
           "id": "cat-166",
           "name": "스탠 바이 미 (Stand by Me , 1986)",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "MsGOSR6hVm4",
