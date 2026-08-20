@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 124,
+  "categoryIdSeq": 125,
   "categories": [
+    {
+      "id": "cat-124",
+      "name": "러브레터",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
