@@ -1415,21 +1415,6 @@
       ]
     },
     {
-      "id": "cat-115",
-      "name": "L",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-114",
-          "name": "Lady Gaga",
-          "collapsed": false,
-          "videos": [],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-46",
       "name": "OST",
       "collapsed": false,
@@ -1498,6 +1483,21 @@
                   "title": "Heart - \"Barracuda\" (1977)"
                 }
               ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cat-115",
+          "name": "L",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-114",
+              "name": "Lady Gaga",
+              "collapsed": false,
+              "videos": [],
               "children": []
             }
           ]
