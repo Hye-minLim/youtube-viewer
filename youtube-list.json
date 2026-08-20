@@ -1573,7 +1573,12 @@
           "id": "cat-124",
           "name": "러브레터",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "X1hd3dm-aFM",
+              "title": "러브레터 영화 음악 LP로 듣는 Love Letter OST 풀앨범"
+            }
+          ],
           "children": []
         },
         {
