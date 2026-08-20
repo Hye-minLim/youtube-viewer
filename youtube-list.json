@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 220,
+  "categoryIdSeq": 221,
   "categories": [
     {
       "id": "cat-218",
@@ -123,6 +123,13 @@
           "title": "Bus 안에서"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-220",
+      "name": "지누션",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
