@@ -2,13 +2,6 @@
   "categoryIdSeq": 124,
   "categories": [
     {
-      "id": "cat-123",
-      "name": "제이세라",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1071,7 +1064,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1164,6 +1157,13 @@
                   "title": "Like Yesterday"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-123",
+              "name": "제이세라",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
