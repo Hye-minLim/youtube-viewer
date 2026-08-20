@@ -122,18 +122,6 @@
       "children": []
     },
     {
-      "id": "cat-215",
-      "name": "임창정",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "I6PPPhcPdnU",
-          "title": "늑대와 함께 춤을 (늑대와 함께 춤을)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1716,6 +1704,18 @@
                 {
                   "videoId": "mxRZQdXDEN8",
                   "title": "이오공감 - 사랑이 그리운 날들에 (1992年)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-215",
+              "name": "임창정",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "I6PPPhcPdnU",
+                  "title": "늑대와 함께 춤을 (늑대와 함께 춤을)"
                 }
               ],
               "children": []
