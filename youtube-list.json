@@ -242,22 +242,6 @@
       "children": []
     },
     {
-      "id": "cat-209",
-      "name": "현진영",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "WhLVwqAEx2Y",
-          "title": "두근두근 쿵쿵 Heartbeat"
-        },
-        {
-          "videoId": "6wMUCMGFXPo",
-          "title": "흐린 기억 속의 그대 You In Vague Memory (Original)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2424,6 +2408,22 @@
                 {
                   "videoId": "hmOOkmynj4A",
                   "title": "허회경 - 그렇게 살아가는 것 | 가사"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-209",
+              "name": "현진영",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "WhLVwqAEx2Y",
+                  "title": "두근두근 쿵쿵 Heartbeat"
+                },
+                {
+                  "videoId": "6wMUCMGFXPo",
+                  "title": "흐린 기억 속의 그대 You In Vague Memory (Original)"
                 }
               ],
               "children": []
