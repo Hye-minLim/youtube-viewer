@@ -293,7 +293,12 @@
       "id": "cat-163",
       "name": "DANIEL",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "WbxCVPjy2JU",
+          "title": "DANIEL - 은방울 (Lily of the Valley) [가사]"
+        }
+      ],
       "children": []
     },
     {
