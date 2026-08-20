@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 211,
+  "categoryIdSeq": 212,
   "categories": [
     {
       "id": "cat-200",
@@ -59,6 +59,13 @@
           "title": "여름아!부탁해"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-211",
+      "name": "일기예보",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
