@@ -278,18 +278,6 @@
       ]
     },
     {
-      "id": "cat-163",
-      "name": "DANIEL",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "WbxCVPjy2JU",
-          "title": "DANIEL - 은방울 (Lily of the Valley) [가사]"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-2",
       "name": "KPOP",
       "collapsed": false,
@@ -506,7 +494,7 @@
         {
           "id": "cat-5",
           "name": "ㄷ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -529,6 +517,18 @@
                 {
                   "videoId": "ovzEnKdHsik",
                   "title": "더원, 겨울사랑 │ 월간 더 스테이지 [231028]"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-163",
+              "name": "DANIEL",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "WbxCVPjy2JU",
+                  "title": "DANIEL - 은방울 (Lily of the Valley) [가사]"
                 }
               ],
               "children": []
