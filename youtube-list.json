@@ -886,7 +886,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1849,7 +1849,7 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1916,6 +1916,10 @@
                 {
                   "videoId": "8CknbzBC_OI",
                   "title": "작은 기다림"
+                },
+                {
+                  "videoId": "Kbu6TsSAeuY",
+                  "title": "친구가 연인이 되기까지"
                 },
                 {
                   "videoId": "GfykRPfCiV0",
