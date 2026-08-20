@@ -2,13 +2,6 @@
   "categoryIdSeq": 119,
   "categories": [
     {
-      "id": "cat-118",
-      "name": "이상은",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -612,7 +605,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -921,6 +914,13 @@
                   "title": "이문세(LEE MOON SAE) & 노영심(NOH YOUNG SIM) - 옛사랑(Past Love)ㅣ무대에 핀 꽃 윤석화"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-118",
+              "name": "이상은",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
