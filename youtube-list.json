@@ -2,13 +2,6 @@
   "categoryIdSeq": 117,
   "categories": [
     {
-      "id": "cat-116",
-      "name": "BigBang",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -300,13 +293,13 @@
         {
           "id": "cat-12",
           "name": "ㅂ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-98",
               "name": "박보람",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "a61DKukZZos",
@@ -318,7 +311,7 @@
             {
               "id": "cat-71",
               "name": "박지윤",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "3RN2Oer_5EY",
@@ -330,7 +323,7 @@
             {
               "id": "cat-96",
               "name": "박화요비",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "gI4yWlTsD2k",
@@ -421,6 +414,13 @@
                   "title": "체념 (After Resignatoion / Retiment)"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-116",
+              "name": "BigBang",
+              "collapsed": false,
+              "videos": [],
               "children": []
             }
           ]
