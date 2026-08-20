@@ -170,22 +170,6 @@
       "children": []
     },
     {
-      "id": "cat-217",
-      "name": "코요태",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "CHiizjoys1Q",
-          "title": "순정"
-        },
-        {
-          "videoId": "FQxiLh9gCV0",
-          "title": "Meeting"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2088,6 +2072,22 @@
                 {
                   "videoId": "HbTh3Nh_t9k",
                   "title": "카더가든 노래 안 망함!  Car the garden [가까운듯 먼 그대여, 우리의 밤을 외워요, 명동콜링, Home sweet home]"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-217",
+              "name": "코요태",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "CHiizjoys1Q",
+                  "title": "순정"
+                },
+                {
+                  "videoId": "FQxiLh9gCV0",
+                  "title": "Meeting"
                 }
               ],
               "children": []
