@@ -1275,7 +1275,12 @@
               "id": "cat-120",
               "name": "파파야",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "N-zuZCCfX_U",
+                  "title": "파파야(Papaya)  내 얘길 들어봐 (가사 첨부)"
+                }
+              ],
               "children": []
             },
             {
