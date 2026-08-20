@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 169,
+  "categoryIdSeq": 171,
   "categories": [
+    {
+      "id": "cat-170",
+      "name": "비",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-169",
+      "name": "잔나비",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
