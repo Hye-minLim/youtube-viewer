@@ -10,7 +10,7 @@
         {
           "id": "cat-153",
           "name": "기타CCM",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "Hy-zRZQo79Q",
@@ -34,7 +34,7 @@
         {
           "id": "cat-148",
           "name": "김대환",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "nmafBfCphMA",
@@ -50,7 +50,7 @@
         {
           "id": "cat-150",
           "name": "러빔",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "QkHKe6bPPE0",
