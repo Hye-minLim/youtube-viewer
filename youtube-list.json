@@ -141,7 +141,7 @@
         {
           "id": "cat-4",
           "name": "ㄴ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -433,7 +433,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
