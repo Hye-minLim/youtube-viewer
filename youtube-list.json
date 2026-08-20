@@ -2,13 +2,6 @@
   "categoryIdSeq": 127,
   "categories": [
     {
-      "id": "cat-126",
-      "name": "아이비(IVY)",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -640,9 +633,16 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-126",
+              "name": "아이비(IVY)",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-66",
               "name": "알레프",
