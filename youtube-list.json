@@ -4,7 +4,7 @@
     {
       "id": "cat-176",
       "name": "남자 대탐험",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "k4D4rKkRdmw",
@@ -292,7 +292,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
