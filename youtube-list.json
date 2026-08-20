@@ -58,30 +58,6 @@
       "children": []
     },
     {
-      "id": "cat-147",
-      "name": "시와그림",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "sF6wGi6oh84",
-          "title": "항해자 by 시와그림"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-144",
-      "name": "아이자야씩스티원",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "2hpCeV0_tO4",
-          "title": "주 예수 내 산 소망 | Living Hope | OPEN WORSHIP | Solus Christus : 예수 그리스도"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -92,6 +68,30 @@
         }
       ],
       "children": [
+        {
+          "id": "cat-147",
+          "name": "시와그림",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "sF6wGi6oh84",
+              "title": "항해자 by 시와그림"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-144",
+          "name": "아이자야씩스티원",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "2hpCeV0_tO4",
+              "title": "주 예수 내 산 소망 | Living Hope | OPEN WORSHIP | Solus Christus : 예수 그리스도"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-143",
           "name": "예람워십",
