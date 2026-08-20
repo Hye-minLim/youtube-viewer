@@ -5,7 +5,12 @@
       "id": "cat-168",
       "name": "서지원",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8O7YbidkZnk",
+          "title": "서지원:  또 다른 시작"
+        }
+      ],
       "children": []
     },
     {
