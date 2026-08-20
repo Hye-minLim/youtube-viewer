@@ -117,7 +117,12 @@
       "id": "cat-217",
       "name": "코요태",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "CHiizjoys1Q",
+          "title": "순정"
+        }
+      ],
       "children": []
     },
     {
