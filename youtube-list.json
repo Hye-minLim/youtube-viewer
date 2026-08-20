@@ -1362,7 +1362,7 @@
             {
               "id": "cat-35",
               "name": "해피투게더",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "HSlgwVItwkQ",
@@ -1390,7 +1390,7 @@
             {
               "id": "cat-40",
               "name": "The Voice Global Asia",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "yAbXCxVrDSo",
