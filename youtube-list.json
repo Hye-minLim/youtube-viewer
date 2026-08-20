@@ -546,7 +546,7 @@
         {
           "id": "cat-5",
           "name": "ㄷ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -569,6 +569,10 @@
                 {
                   "videoId": "uvEyMpPglIA",
                   "title": "내게 다시 (Piano Edited Ver.)"
+                },
+                {
+                  "videoId": "q-RAIbOLYX4",
+                  "title": "It's You"
                 }
               ],
               "children": []
@@ -1817,7 +1821,7 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
