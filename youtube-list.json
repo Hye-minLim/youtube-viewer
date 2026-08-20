@@ -2,13 +2,6 @@
   "categoryIdSeq": 118,
   "categories": [
     {
-      "id": "cat-117",
-      "name": "신인류",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -525,6 +518,13 @@
                   "title": "Hold the end of this night (이 밤의 끝을 잡고)"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-117",
+              "name": "신인류",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
