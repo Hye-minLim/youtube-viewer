@@ -2,66 +2,6 @@
   "categoryIdSeq": 159,
   "categories": [
     {
-      "id": "cat-155",
-      "name": "오벧",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "vZn5ZP64VGU",
-          "title": "오벧 - ⌜주시는 이도 거두시는 이도⌝ Official Music Video"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-158",
-      "name": "위클레시아",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "COZrZmh5zrE",
-          "title": "오직 주의 사랑에 매여 | 주를 위한 이 곳에 [위클레시아]"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-157",
-      "name": "저스트지저스",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "WcGx34QiPyg",
-          "title": "실로암 - Just Jesus Worship (with 헤세드 뮤지컬찬양팀) | 2024 논산훈련소 연무대교회 찬양"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-156",
-      "name": "팀룩워십",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "dq3yJ350s2c",
-          "title": "나 주님을 모른다 하여도 His Faithfulness"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-154",
-      "name": "히즈윌",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "jbqeyT9MKRI",
-          "title": "히즈윌 '작은 예수로 살기 원합니다' (가사)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -182,7 +122,7 @@
         {
           "id": "cat-143",
           "name": "예람워십",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "9ypxWDqUNL4",
@@ -224,6 +164,30 @@
           "children": []
         },
         {
+          "id": "cat-155",
+          "name": "오벧",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "vZn5ZP64VGU",
+              "title": "오벧 - ⌜주시는 이도 거두시는 이도⌝ Official Music Video"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-158",
+          "name": "위클레시아",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "COZrZmh5zrE",
+              "title": "오직 주의 사랑에 매여 | 주를 위한 이 곳에 [위클레시아]"
+            }
+          ],
+          "children": []
+        },
+        {
           "id": "cat-146",
           "name": "잔치공동체",
           "collapsed": true,
@@ -248,6 +212,18 @@
           "children": []
         },
         {
+          "id": "cat-157",
+          "name": "저스트지저스",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "WcGx34QiPyg",
+              "title": "실로암 - Just Jesus Worship (with 헤세드 뮤지컬찬양팀) | 2024 논산훈련소 연무대교회 찬양"
+            }
+          ],
+          "children": []
+        },
+        {
           "id": "cat-151",
           "name": "클래식콰이어",
           "collapsed": true,
@@ -255,6 +231,30 @@
             {
               "videoId": "HWBeY_AhAzA",
               "title": "주님 마음 내게 주소서 by 클래식콰이어"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-156",
+          "name": "팀룩워십",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "dq3yJ350s2c",
+              "title": "나 주님을 모른다 하여도 His Faithfulness"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-154",
+          "name": "히즈윌",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "jbqeyT9MKRI",
+              "title": "히즈윌 '작은 예수로 살기 원합니다' (가사)"
             }
           ],
           "children": []
