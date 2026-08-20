@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 148,
+  "categoryIdSeq": 149,
   "categories": [
+    {
+      "id": "cat-148",
+      "name": "김대환",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-145",
       "name": "송솔나무",
