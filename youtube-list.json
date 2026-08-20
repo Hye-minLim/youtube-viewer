@@ -640,7 +640,12 @@
               "id": "cat-126",
               "name": "아이비(IVY)",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "pEIkKxtRC3A",
+                  "title": "아이비(IVY) - 아름다운 아픔 [불후의명곡 레전드/Immortal Songs Legend] | KBS 130216 방송"
+                }
+              ],
               "children": []
             },
             {
