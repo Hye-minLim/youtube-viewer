@@ -2,13 +2,6 @@
   "categoryIdSeq": 163,
   "categories": [
     {
-      "id": "cat-162",
-      "name": "락",
-      "collapsed": true,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-161",
       "name": "풍락",
       "collapsed": false,
