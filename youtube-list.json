@@ -146,18 +146,6 @@
       "children": []
     },
     {
-      "id": "cat-222",
-      "name": "조성모",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "R3801PZBOa0",
-          "title": "깊은 밤을 날아서"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1972,6 +1960,18 @@
                 {
                   "videoId": "ce1hR6QnAoU",
                   "title": "사랑했으므로 - 조관우"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-222",
+              "name": "조성모",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "R3801PZBOa0",
+                  "title": "깊은 밤을 날아서"
                 }
               ],
               "children": []
