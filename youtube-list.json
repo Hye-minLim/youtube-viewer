@@ -2,13 +2,6 @@
   "categoryIdSeq": 131,
   "categories": [
     {
-      "id": "cat-130",
-      "name": "그_냥(J_ust)",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -29,7 +22,7 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -105,6 +98,13 @@
                   "title": "250706 권은비 KWONEUNBI 'Crazy in Love' 4K 60P 직캠 @워터밤 by DaftTaengk"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-130",
+              "name": "그_냥(J_ust)",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
