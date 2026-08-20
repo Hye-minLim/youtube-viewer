@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 159,
+  "categoryIdSeq": 161,
   "categories": [
+    {
+      "id": "cat-159",
+      "name": "장범준",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-160",
+      "name": "준",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
