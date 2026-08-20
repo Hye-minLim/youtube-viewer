@@ -82,50 +82,6 @@
       "children": []
     },
     {
-      "id": "cat-143",
-      "name": "예람워십",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "u0gN-JOTryA",
-          "title": "[영락교회 x 월드비전 x 예람투어] 하늘소망 / 하나님의 은혜 | 예람워십"
-        },
-        {
-          "videoId": "jy8QfAdUBkc",
-          "title": "말씀하시면 / 예수로 나의 구주 삼고 When You Speak the Word / Blessed Assurance, Jesus is Mine 예람워십"
-        },
-        {
-          "videoId": "igd4R0tV8uw",
-          "title": "하나님 아버지의 마음 Father, Where Your Heart Is | 예람워십"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-146",
-      "name": "잔치공동체",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "xW5gim_oTjo",
-          "title": "주의 손이(Hand of God) | Feast Family"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-151",
-      "name": "클래식콰이어",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "HWBeY_AhAzA",
-          "title": "주님 마음 내게 주소서 by 클래식콰이어"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -135,7 +91,52 @@
           "title": "임재 (하늘의 문을 여소서) by 시와그림 Come Holy Spirit Poem & Painting (Eng Sub)"
         }
       ],
-      "children": []
+      "children": [
+        {
+          "id": "cat-143",
+          "name": "예람워십",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "u0gN-JOTryA",
+              "title": "[영락교회 x 월드비전 x 예람투어] 하늘소망 / 하나님의 은혜 | 예람워십"
+            },
+            {
+              "videoId": "jy8QfAdUBkc",
+              "title": "말씀하시면 / 예수로 나의 구주 삼고 When You Speak the Word / Blessed Assurance, Jesus is Mine 예람워십"
+            },
+            {
+              "videoId": "igd4R0tV8uw",
+              "title": "하나님 아버지의 마음 Father, Where Your Heart Is | 예람워십"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-146",
+          "name": "잔치공동체",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "xW5gim_oTjo",
+              "title": "주의 손이(Hand of God) | Feast Family"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-151",
+          "name": "클래식콰이어",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "HWBeY_AhAzA",
+              "title": "주님 마음 내게 주소서 by 클래식콰이어"
+            }
+          ],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-149",
