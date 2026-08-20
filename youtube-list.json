@@ -1485,13 +1485,13 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-169",
               "name": "잔나비",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "Kx8pJzPodsY",
