@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 147,
+  "categoryIdSeq": 148,
   "categories": [
     {
       "id": "cat-145",
@@ -15,6 +15,13 @@
           "title": "Hometown 내 고향 - Solnamoo Song 송솔나무"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-147",
+      "name": "시와그림",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
