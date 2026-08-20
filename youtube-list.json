@@ -2,13 +2,6 @@
   "categoryIdSeq": 114,
   "categories": [
     {
-      "id": "cat-113",
-      "name": "전람회",
-      "collapsed": true,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1003,7 +996,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1016,6 +1009,13 @@
                   "title": "아름다운 날들"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-113",
+              "name": "전람회",
+              "collapsed": true,
+              "videos": [],
               "children": []
             },
             {
