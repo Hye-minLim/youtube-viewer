@@ -2,38 +2,6 @@
   "categoryIdSeq": 225,
   "categories": [
     {
-      "id": "cat-224",
-      "name": "안지영",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "5gAHKU0vUcY",
-          "title": "[송스틸러] 안지영의 독보적인 음색으로 새로워진 무대! 볼빨간사춘기 - 에피소드🎵, MBC 240505 방송"
-        },
-        {
-          "videoId": "mkw-rDMr1ok",
-          "title": "너는 내 세상이었어"
-        },
-        {
-          "videoId": "lU12lJeImOY",
-          "title": "더위를 식혀줄 볼빨간사춘기(BOL4)의 쿨링 보이스! 'Cruel Summer'♬｜비긴어게인 오픈마이크"
-        },
-        {
-          "videoId": "GY_StGcBSYw",
-          "title": "볼빨간사춘기 - 나의 사춘기에게 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220603 방송"
-        },
-        {
-          "videoId": "hrkELy64_zA",
-          "title": "볼빨간사춘기 BOL4 '여름아 부탁해' Special Clip (with 적재)"
-        },
-        {
-          "videoId": "u_nc-t4oHfw",
-          "title": "볼빨간사춘기(BOL4)의 킬링보이스를 라이브로!-나만 봄, 여행, 나의 사춘기에게, Seoul, Love story, 우주를 줄게, 썸 탈꺼야, 좋다고 말해 | 딩고뮤직"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -312,7 +280,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -1233,6 +1201,38 @@
                 {
                   "videoId": "pEIkKxtRC3A",
                   "title": "아이비(IVY) - 아름다운 아픔 [불후의명곡 레전드/Immortal Songs Legend] | KBS 130216 방송"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-224",
+              "name": "안지영",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "5gAHKU0vUcY",
+                  "title": "[송스틸러] 안지영의 독보적인 음색으로 새로워진 무대! 볼빨간사춘기 - 에피소드🎵, MBC 240505 방송"
+                },
+                {
+                  "videoId": "mkw-rDMr1ok",
+                  "title": "너는 내 세상이었어"
+                },
+                {
+                  "videoId": "lU12lJeImOY",
+                  "title": "더위를 식혀줄 볼빨간사춘기(BOL4)의 쿨링 보이스! 'Cruel Summer'♬｜비긴어게인 오픈마이크"
+                },
+                {
+                  "videoId": "GY_StGcBSYw",
+                  "title": "볼빨간사춘기 - 나의 사춘기에게 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220603 방송"
+                },
+                {
+                  "videoId": "hrkELy64_zA",
+                  "title": "볼빨간사춘기 BOL4 '여름아 부탁해' Special Clip (with 적재)"
+                },
+                {
+                  "videoId": "u_nc-t4oHfw",
+                  "title": "볼빨간사춘기(BOL4)의 킬링보이스를 라이브로!-나만 봄, 여행, 나의 사춘기에게, Seoul, Love story, 우주를 줄게, 썸 탈꺼야, 좋다고 말해 | 딩고뮤직"
                 }
               ],
               "children": []
