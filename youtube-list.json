@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 217,
+  "categoryIdSeq": 218,
   "categories": [
     {
       "id": "cat-200",
@@ -111,6 +111,13 @@
           "title": "Bus 안에서"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-217",
+      "name": "코요태",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
