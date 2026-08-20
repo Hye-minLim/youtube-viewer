@@ -2,13 +2,6 @@
   "categoryIdSeq": 115,
   "categories": [
     {
-      "id": "cat-114",
-      "name": "한일가왕전",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1365,6 +1358,13 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-114",
+              "name": "한일가왕전",
+              "collapsed": false,
+              "videos": [],
+              "children": []
             },
             {
               "id": "cat-35",
