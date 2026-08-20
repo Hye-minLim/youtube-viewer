@@ -2,18 +2,6 @@
   "categoryIdSeq": 143,
   "categories": [
     {
-      "id": "cat-141",
-      "name": "카더가든",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "XtIi8zZtbSo",
-          "title": "[LIVE] 카더가든 _ 의연한 악수(Handhold) @카더가든 정규 2집 발매 기념 전국 투어 'C'"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -1344,9 +1332,21 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-141",
+              "name": "카더가든",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "XtIi8zZtbSo",
+                  "title": "[LIVE] 카더가든 _ 의연한 악수(Handhold) @카더가든 정규 2집 발매 기념 전국 투어 'C'"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-16",
               "name": "쿨",
