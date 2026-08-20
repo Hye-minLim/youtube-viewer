@@ -292,7 +292,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -794,17 +794,21 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-142",
               "name": "사비나앤드론즈",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "N6iAiG_gRoo",
                   "title": "아무도 모른다 (Nobody knows) - 사비나앤드론즈 official MV"
+                },
+                {
+                  "videoId": "hIbSSQ5_RfM",
+                  "title": "Bird"
                 }
               ],
               "children": []
