@@ -105,7 +105,12 @@
       "id": "cat-151",
       "name": "클래식콰이어",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "HWBeY_AhAzA",
+          "title": "주님 마음 내게 주소서 by 클래식콰이어"
+        }
+      ],
       "children": []
     },
     {
