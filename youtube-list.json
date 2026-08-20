@@ -2,13 +2,6 @@
   "categoryIdSeq": 139,
   "categories": [
     {
-      "id": "cat-138",
-      "name": "박기영",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -328,9 +321,16 @@
         {
           "id": "cat-12",
           "name": "ㅂ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-138",
+              "name": "박기영",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-98",
               "name": "박보람",
