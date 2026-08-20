@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 171,
+  "categoryIdSeq": 172,
   "categories": [
     {
       "id": "cat-22",
@@ -2090,6 +2090,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-171",
+      "name": "Sasha Alex Sloan",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-137",
