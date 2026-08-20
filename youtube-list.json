@@ -42,26 +42,6 @@
       "children": []
     },
     {
-      "id": "cat-198",
-      "name": "신승훈",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "x2PSGpkwyXk",
-          "title": "그 후로 오랫동안 (After a Long Time)"
-        },
-        {
-          "videoId": "9krXTDHnOAI",
-          "title": "내 방식대로의 사랑 (My Way Of Loving You) (Mambo Ver.)"
-        },
-        {
-          "videoId": "Wv_uZmLiF8Y",
-          "title": "처음 그 느낌처럼 (Just Like First Sight)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-202",
       "name": "언타이틀",
       "collapsed": false,
@@ -1089,6 +1069,26 @@
                 {
                   "videoId": "XtYGk-kvWP0",
                   "title": "L’Amour, Les Baguettes, Paris"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-198",
+              "name": "신승훈",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "x2PSGpkwyXk",
+                  "title": "그 후로 오랫동안 (After a Long Time)"
+                },
+                {
+                  "videoId": "9krXTDHnOAI",
+                  "title": "내 방식대로의 사랑 (My Way Of Loving You) (Mambo Ver.)"
+                },
+                {
+                  "videoId": "Wv_uZmLiF8Y",
+                  "title": "처음 그 느낌처럼 (Just Like First Sight)"
                 }
               ],
               "children": []
