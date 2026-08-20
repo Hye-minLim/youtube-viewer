@@ -1699,22 +1699,23 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "cat-129",
+          "name": "S",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-128",
+              "name": "Sarah McLachlan",
+              "collapsed": true,
+              "videos": [],
+              "children": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "id": "cat-129",
-      "name": "S",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-128",
-      "name": "Sarah McLachlan",
-      "collapsed": true,
-      "videos": [],
-      "children": []
     }
   ]
 }
