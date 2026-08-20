@@ -2,13 +2,6 @@
   "categoryIdSeq": 181,
   "categories": [
     {
-      "id": "cat-180",
-      "name": "기",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-179",
       "name": "김재기",
       "collapsed": false,
