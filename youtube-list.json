@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 223,
+  "categoryIdSeq": 224,
   "categories": [
     {
       "id": "cat-218",
@@ -51,6 +51,13 @@
           "title": "처음 그 느낌처럼 (Just Like First Sight)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-223",
+      "name": "아스피린",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
