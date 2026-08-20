@@ -176,6 +176,10 @@
                 {
                   "videoId": "0r2HW-W2iD4",
                   "title": "너드커넥션 (NERD CONNECTION) - 타다 남은 별 (Official Music Video)"
+                },
+                {
+                  "videoId": "Sin4PK3lL5o",
+                  "title": "Nerd Connection (너드커넥션) - 대나무숲(Bamboo Forest) [Lyric Video]"
                 }
               ],
               "children": []
@@ -445,7 +449,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
