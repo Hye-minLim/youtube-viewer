@@ -1004,7 +1004,7 @@
             {
               "id": "cat-117",
               "name": "신인류",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "x1y4BraRy20",
@@ -1020,7 +1020,7 @@
             {
               "id": "cat-121",
               "name": "신지훈",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "zIrJFwvDfj4",
@@ -1032,7 +1032,7 @@
             {
               "id": "cat-18",
               "name": "신해철",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "_aiu6Elhki4",
