@@ -2,18 +2,6 @@
   "categoryIdSeq": 181,
   "categories": [
     {
-      "id": "cat-179",
-      "name": "김재기",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "DRZzYxl8pB4",
-          "title": "김재기 / 소나기"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -441,6 +429,18 @@
                 {
                   "videoId": "kM2Awgig7MU",
                   "title": "봄날은 간다 MV - 김윤아"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-179",
+              "name": "김재기",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "DRZzYxl8pB4",
+                  "title": "김재기 / 소나기"
                 }
               ],
               "children": []
@@ -1497,7 +1497,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1729,13 +1729,13 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-141",
               "name": "카더가든",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "XtIi8zZtbSo",
