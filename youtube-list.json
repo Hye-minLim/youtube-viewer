@@ -53,7 +53,12 @@
       "id": "cat-212",
       "name": "이예린",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Ugz2Pc1Y3z0",
+          "title": "늘 지금처럼 (늘 지금처럼)"
+        }
+      ],
       "children": []
     },
     {
