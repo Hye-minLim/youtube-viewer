@@ -1476,7 +1476,7 @@
             {
               "id": "cat-184",
               "name": "이선희",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "IAyMtl9FRHI",
@@ -1512,7 +1512,7 @@
             {
               "id": "cat-85",
               "name": "이승철",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "ntPjSDNTwu4",
