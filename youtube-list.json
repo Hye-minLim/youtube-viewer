@@ -89,7 +89,12 @@
       "id": "cat-209",
       "name": "현진영",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "6wMUCMGFXPo",
+          "title": "흐린 기억 속의 그대 You In Vague Memory (Original)"
+        }
+      ],
       "children": []
     },
     {
