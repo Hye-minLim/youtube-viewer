@@ -2176,13 +2176,13 @@
         {
           "id": "cat-140",
           "name": "B",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-139",
               "name": "Black Pumas",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "0G383538qzQ",
@@ -2268,7 +2268,7 @@
         {
           "id": "cat-195",
           "name": "L",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
