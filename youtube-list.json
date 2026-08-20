@@ -1132,13 +1132,13 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-112",
               "name": "카더가든",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": []
             },
