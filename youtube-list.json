@@ -22,7 +22,7 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -325,7 +325,7 @@
         {
           "id": "cat-12",
           "name": "ㅂ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -681,13 +681,13 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-126",
               "name": "아이비(IVY)",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "pEIkKxtRC3A",
@@ -1095,6 +1095,10 @@
                 {
                   "videoId": "YRJmLY3W1uk",
                   "title": "밤이나 낮이나"
+                },
+                {
+                  "videoId": "mxRZQdXDEN8",
+                  "title": "이오공감 - 사랑이 그리운 날들에 (1992年)"
                 }
               ],
               "children": []
