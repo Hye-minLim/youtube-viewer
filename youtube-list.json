@@ -2,22 +2,6 @@
   "categoryIdSeq": 153,
   "categories": [
     {
-      "id": "cat-145",
-      "name": "송솔나무",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "pNqSF4DYN4s",
-          "title": "송솔나무 앨범 - ROAD | 전곡듣기(Full Album)"
-        },
-        {
-          "videoId": "94XLqPTZR80",
-          "title": "Hometown 내 고향 - Solnamoo Song 송솔나무"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
@@ -64,6 +48,22 @@
             {
               "videoId": "4v0oHeJ8-2k",
               "title": "예수, 늘 함께 하시네 - 마커스워십 (Official) | Jesus, always with me"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-145",
+          "name": "송솔나무",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "pNqSF4DYN4s",
+              "title": "송솔나무 앨범 - ROAD | 전곡듣기(Full Album)"
+            },
+            {
+              "videoId": "94XLqPTZR80",
+              "title": "Hometown 내 고향 - Solnamoo Song 송솔나무"
             }
           ],
           "children": []
