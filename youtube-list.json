@@ -2,18 +2,6 @@
   "categoryIdSeq": 177,
   "categories": [
     {
-      "id": "cat-176",
-      "name": "남자 대탐험",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "k4D4rKkRdmw",
-          "title": "아름다운 세상을 찾아서 - 남자 대탐험 OST (1996年)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1943,7 +1931,7 @@
     {
       "id": "cat-46",
       "name": "OST",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -1954,6 +1942,18 @@
             {
               "videoId": "PPiMK96NuYY",
               "title": "이제서야 공개된 [8월의 크리스마스] 한석규 OST 뮤직비디오 공개♥"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cat-176",
+          "name": "남자 대탐험",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "k4D4rKkRdmw",
+              "title": "아름다운 세상을 찾아서 - 남자 대탐험 OST (1996年)"
             }
           ],
           "children": []
