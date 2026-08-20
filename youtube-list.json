@@ -4,7 +4,7 @@
     {
       "id": "cat-22",
       "name": "CCM",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -421,7 +421,7 @@
         {
           "id": "cat-4",
           "name": "ㄴ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
