@@ -1759,6 +1759,18 @@
                 }
               ],
               "children": []
+            },
+            {
+              "id": "cat-213",
+              "name": "R.ef",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "tytyOYSyRt8",
+                  "title": "Separation Formula (이별 공식)"
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2726,18 +2738,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-213",
-      "name": "R.ef",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "tytyOYSyRt8",
-          "title": "Separation Formula (이별 공식)"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-137",
