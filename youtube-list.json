@@ -5,12 +5,7 @@
       "id": "cat-22",
       "name": "CCM",
       "collapsed": false,
-      "videos": [
-        {
-          "videoId": "mRuE0P-M9EM",
-          "title": "임재 (하늘의 문을 여소서) by 시와그림 Come Holy Spirit Poem & Painting (Eng Sub)"
-        }
-      ],
+      "videos": [],
       "children": [
         {
           "id": "cat-148",
@@ -140,7 +135,12 @@
           "id": "cat-153",
           "name": "VA",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "mRuE0P-M9EM",
+              "title": "임재 (하늘의 문을 여소서) by 시와그림 Come Holy Spirit Poem & Painting (Eng Sub)"
+            }
+          ],
           "children": []
         }
       ]
