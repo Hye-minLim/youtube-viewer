@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 189,
+  "categoryIdSeq": 190,
   "categories": [
+    {
+      "id": "cat-189",
+      "name": "더 크로스(The Cross)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
