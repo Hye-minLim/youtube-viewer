@@ -16,7 +16,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -1332,13 +1332,13 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-141",
               "name": "카더가든",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "XtIi8zZtbSo",
