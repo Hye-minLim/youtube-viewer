@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 143,
+  "categoryIdSeq": 144,
   "categories": [
+    {
+      "id": "cat-143",
+      "name": "예람워십",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
