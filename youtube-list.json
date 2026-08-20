@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 146,
+  "categoryIdSeq": 147,
   "categories": [
     {
       "id": "cat-145",
@@ -43,6 +43,13 @@
           "title": "말씀하시면 / 예수로 나의 구주 삼고 When You Speak the Word / Blessed Assurance, Jesus is Mine 예람워십"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-146",
+      "name": "잔치공동체",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
