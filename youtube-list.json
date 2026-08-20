@@ -280,7 +280,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -1042,7 +1042,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1104,7 +1104,7 @@
             {
               "id": "cat-186",
               "name": "어반자카파",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "vANdEL9vpjw",
@@ -1280,7 +1280,7 @@
             {
               "id": "cat-49",
               "name": "유다은",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "UWVoZmZ9ZCM",
