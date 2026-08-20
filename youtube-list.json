@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 141,
+  "categoryIdSeq": 142,
   "categories": [
+    {
+      "id": "cat-141",
+      "name": "카더가든",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
