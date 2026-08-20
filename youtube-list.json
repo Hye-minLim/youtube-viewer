@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 219,
+  "categoryIdSeq": 220,
   "categories": [
     {
       "id": "cat-218",
@@ -464,6 +464,13 @@
           "children": []
         }
       ]
+    },
+    {
+      "id": "cat-219",
+      "name": "DJ DOC",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-2",
