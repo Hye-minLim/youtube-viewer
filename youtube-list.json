@@ -5,7 +5,12 @@
       "id": "cat-183",
       "name": "015B",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7Hzvwdp4vHA",
+          "title": "이젠안녕"
+        }
+      ],
       "children": []
     },
     {
