@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 150,
+  "categoryIdSeq": 151,
   "categories": [
     {
       "id": "cat-148",
@@ -15,6 +15,13 @@
           "title": "주품에 품으소서 by 김대환  \"STILL\" (ENG SUB)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-150",
+      "name": "러빔",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
