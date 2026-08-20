@@ -1007,7 +1007,7 @@
             {
               "id": "cat-118",
               "name": "이상은",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "CNOjcBxR4X4",
@@ -1043,7 +1043,7 @@
             {
               "id": "cat-85",
               "name": "이승철",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "-lcVA_rn-7s",
