@@ -1722,7 +1722,12 @@
               "id": "cat-131",
               "name": "Nothing But Thieves",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "v78PSm1R7bg",
+                  "title": "Lover, Please Stay"
+                }
+              ],
               "children": []
             }
           ]
