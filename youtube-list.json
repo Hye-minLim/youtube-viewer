@@ -1,9 +1,16 @@
 {
-  "categoryIdSeq": 136,
+  "categoryIdSeq": 137,
   "categories": [
     {
       "id": "cat-135",
       "name": "ㅇ",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-136",
+      "name": "예능",
       "collapsed": false,
       "videos": [],
       "children": []
