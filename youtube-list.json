@@ -427,7 +427,7 @@
             {
               "id": "cat-100",
               "name": "나얼",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "Q_YdBd05FJs",
