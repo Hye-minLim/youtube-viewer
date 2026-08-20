@@ -1304,7 +1304,7 @@
             {
               "id": "cat-41",
               "name": "윤도현",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "x127nwNpegQ",
@@ -1348,7 +1348,7 @@
             {
               "id": "cat-92",
               "name": "이기찬",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "cyhmU8YRu9c",
