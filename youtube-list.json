@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 126,
+  "categoryIdSeq": 127,
   "categories": [
+    {
+      "id": "cat-126",
+      "name": "아이비(IVY)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
