@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 158,
+  "categoryIdSeq": 159,
   "categories": [
     {
       "id": "cat-155",
@@ -11,6 +11,13 @@
           "title": "오벧 - ⌜주시는 이도 거두시는 이도⌝ Official Music Video"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-158",
+      "name": "위클레시아",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
