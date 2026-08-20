@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 128,
+  "categoryIdSeq": 129,
   "categories": [
     {
       "id": "cat-22",
@@ -1701,6 +1701,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-128",
+      "name": "Sarah McLachlan",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     }
   ]
 }
