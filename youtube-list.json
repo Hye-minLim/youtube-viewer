@@ -18,18 +18,6 @@
       "children": []
     },
     {
-      "id": "cat-150",
-      "name": "러빔",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "QkHKe6bPPE0",
-          "title": "러빔 - 하나님의 열심 M/V (Zeal of GOD 타이틀곡)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-145",
       "name": "송솔나무",
       "collapsed": false,
@@ -56,6 +44,18 @@
         }
       ],
       "children": [
+        {
+          "id": "cat-150",
+          "name": "러빔",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "QkHKe6bPPE0",
+              "title": "러빔 - 하나님의 열심 M/V (Zeal of GOD 타이틀곡)"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-152",
           "name": "마커스워십",
