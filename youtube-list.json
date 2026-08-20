@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 157,
+  "categoryIdSeq": 158,
   "categories": [
     {
       "id": "cat-155",
@@ -11,6 +11,13 @@
           "title": "오벧 - ⌜주시는 이도 거두시는 이도⌝ Official Music Video"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-157",
+      "name": "저스트지저스",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
