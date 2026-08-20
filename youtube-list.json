@@ -2,21 +2,9 @@
   "categoryIdSeq": 194,
   "categories": [
     {
-      "id": "cat-192",
-      "name": "김진호",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "cS-IiArGmcU",
-          "title": "김진호 - 가족사진 [불후의 명곡2].20140524"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-189",
       "name": "더 크로스(The Cross)",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "GfZi4n-YwtI",
@@ -334,7 +322,7 @@
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -501,6 +489,18 @@
                 {
                   "videoId": "DRZzYxl8pB4",
                   "title": "김재기 / 소나기"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-192",
+              "name": "김진호",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "cS-IiArGmcU",
+                  "title": "김진호 - 가족사진 [불후의 명곡2].20140524"
                 }
               ],
               "children": []
