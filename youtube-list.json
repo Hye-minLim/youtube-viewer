@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 214,
+  "categoryIdSeq": 215,
   "categories": [
     {
       "id": "cat-200",
@@ -99,6 +99,13 @@
           "title": "Bus 안에서"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-214",
+      "name": "터보",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
