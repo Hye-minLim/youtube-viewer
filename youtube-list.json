@@ -2,18 +2,6 @@
   "categoryIdSeq": 183,
   "categories": [
     {
-      "id": "cat-181",
-      "name": "태연",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "GondDmX-N9s",
-          "title": "들리나요..."
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1509,7 +1497,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1792,6 +1780,18 @@
           "collapsed": true,
           "videos": [],
           "children": [
+            {
+              "id": "cat-181",
+              "name": "태연",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "GondDmX-N9s",
+                  "title": "들리나요..."
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-95",
               "name": "토이",
