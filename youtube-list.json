@@ -994,7 +994,7 @@
         {
           "id": "cat-19",
           "name": "ㅇ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1012,7 +1012,7 @@
             {
               "id": "cat-66",
               "name": "알레프",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "XoKidx5kGoE",
@@ -1645,7 +1645,7 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
