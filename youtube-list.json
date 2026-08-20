@@ -524,7 +524,12 @@
               "id": "cat-117",
               "name": "신인류",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "pdb0iAoSmfg",
+                  "title": "[Official Audio] 신인류 (Shin In Ryu) - 날씨의 요정 (Fairy Castor)"
+                }
+              ],
               "children": []
             },
             {
