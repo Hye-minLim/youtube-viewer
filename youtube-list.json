@@ -1485,7 +1485,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1607,7 +1607,7 @@
             {
               "id": "cat-123",
               "name": "제이세라",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "RD84PrmLD8E",
@@ -1785,7 +1785,7 @@
         {
           "id": "cat-27",
           "name": "ㅍ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
