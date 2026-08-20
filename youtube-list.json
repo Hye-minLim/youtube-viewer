@@ -575,7 +575,7 @@
             {
               "id": "cat-75",
               "name": "모세",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "Daj54FQNbG8",
@@ -589,7 +589,7 @@
         {
           "id": "cat-12",
           "name": "ㅂ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
