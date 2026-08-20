@@ -2,13 +2,6 @@
   "categoryIdSeq": 161,
   "categories": [
     {
-      "id": "cat-160",
-      "name": "준",
-      "collapsed": true,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
