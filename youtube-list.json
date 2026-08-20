@@ -2,21 +2,9 @@
   "categoryIdSeq": 169,
   "categories": [
     {
-      "id": "cat-168",
-      "name": "서지원",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "8O7YbidkZnk",
-          "title": "서지원:  또 다른 시작"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-167",
       "name": "스텔라장",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "XtYGk-kvWP0",
@@ -810,7 +798,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -849,6 +837,18 @@
                 {
                   "videoId": "3fR9Uzt06WM",
                   "title": "서인국&정은지(Seo in guk& Jeong eun jee) - All For You(리메이크 곡)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-168",
+              "name": "서지원",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "8O7YbidkZnk",
+                  "title": "서지원:  또 다른 시작"
                 }
               ],
               "children": []
