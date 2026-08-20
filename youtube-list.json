@@ -186,26 +186,6 @@
       "children": []
     },
     {
-      "id": "cat-221",
-      "name": "클론",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "WelkK95sjeM",
-          "title": "도시탈출 (Getaway)"
-        },
-        {
-          "videoId": "Iq2dgA0TwzA",
-          "title": "초련 (初戀) (First Love) (Techno Mix Ver.)"
-        },
-        {
-          "videoId": "hhuGXMDJJWI",
-          "title": "Funky Tonight"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -2200,6 +2180,26 @@
                 {
                   "videoId": "bMbwRBR5PXI",
                   "title": "I Love You"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-221",
+              "name": "클론",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "WelkK95sjeM",
+                  "title": "도시탈출 (Getaway)"
+                },
+                {
+                  "videoId": "Iq2dgA0TwzA",
+                  "title": "초련 (初戀) (First Love) (Techno Mix Ver.)"
+                },
+                {
+                  "videoId": "hhuGXMDJJWI",
+                  "title": "Funky Tonight"
                 }
               ],
               "children": []
