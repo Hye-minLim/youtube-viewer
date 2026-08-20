@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 209,
+  "categoryIdSeq": 211,
   "categories": [
     {
       "id": "cat-200",
@@ -50,6 +50,13 @@
       "children": []
     },
     {
+      "id": "cat-210",
+      "name": "영",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
       "id": "cat-207",
       "name": "은",
       "collapsed": false,
@@ -90,6 +97,13 @@
           "title": "[DANCE] 포지션 - Summer Time | 가사 (Lyrics)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-209",
+      "name": "현진영",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
