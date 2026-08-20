@@ -798,7 +798,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1645,7 +1645,7 @@
         {
           "id": "cat-17",
           "name": "ㅋ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
