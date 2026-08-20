@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 117,
+  "categoryIdSeq": 118,
   "categories": [
+    {
+      "id": "cat-117",
+      "name": "신인류",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
