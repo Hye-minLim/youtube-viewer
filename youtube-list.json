@@ -134,18 +134,6 @@
       "children": []
     },
     {
-      "id": "cat-205",
-      "name": "자자",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "ElQOGND2EKw",
-          "title": "Bus 안에서"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1780,6 +1768,18 @@
           "collapsed": true,
           "videos": [],
           "children": [
+            {
+              "id": "cat-205",
+              "name": "자자",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "ElQOGND2EKw",
+                  "title": "Bus 안에서"
+                }
+              ],
+              "children": []
+            },
             {
               "id": "cat-169",
               "name": "잔나비",
