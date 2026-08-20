@@ -1607,7 +1607,7 @@
             {
               "id": "cat-123",
               "name": "제이세라",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "RD84PrmLD8E",
@@ -1631,7 +1631,7 @@
             {
               "id": "cat-48",
               "name": "조",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "jm7L8HNB43I",
