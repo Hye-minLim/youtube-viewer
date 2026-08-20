@@ -1436,7 +1436,7 @@
         {
           "id": "cat-109",
           "name": "A",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": []
         },
