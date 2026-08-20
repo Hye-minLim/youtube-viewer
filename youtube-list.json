@@ -534,22 +534,6 @@
       ]
     },
     {
-      "id": "cat-219",
-      "name": "DJ DOC",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "8-ms7bqVSoo",
-          "title": "DOC와 춤을"
-        },
-        {
-          "videoId": "pR5sDqm8Wys",
-          "title": "Run to You"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-2",
       "name": "KPOP",
       "collapsed": false,
@@ -834,7 +818,7 @@
         {
           "id": "cat-5",
           "name": "ㄷ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -885,6 +869,22 @@
                 {
                   "videoId": "WbxCVPjy2JU",
                   "title": "DANIEL - 은방울 (Lily of the Valley) [가사]"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-219",
+              "name": "DJ DOC",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "8-ms7bqVSoo",
+                  "title": "DOC와 춤을"
+                },
+                {
+                  "videoId": "pR5sDqm8Wys",
+                  "title": "Run to You"
                 }
               ],
               "children": []
