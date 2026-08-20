@@ -469,7 +469,12 @@
       "id": "cat-219",
       "name": "DJ DOC",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8-ms7bqVSoo",
+          "title": "DOC와 춤을"
+        }
+      ],
       "children": []
     },
     {
