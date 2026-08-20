@@ -16,19 +16,19 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-3",
           "name": "ㄱ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-52",
               "name": "검정치마",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "B5cvbwOmfY0",
@@ -37,6 +37,10 @@
                 {
                   "videoId": "OvoKItovXtw",
                   "title": "LP로 듣는 검정치마 - Hollywood"
+                },
+                {
+                  "videoId": "uuGtrxDsrws",
+                  "title": "The Black Skirts (검정치마) - Hollywood [MV] 2015"
                 }
               ],
               "children": []
@@ -1562,7 +1566,7 @@
     {
       "id": "cat-108",
       "name": "POP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
