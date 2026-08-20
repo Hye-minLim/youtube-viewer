@@ -113,18 +113,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "id": "cat-134",
-              "name": "텐션업",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "T9sz9QzsWXc",
-                  "title": "DDR Butterfly [FULL] with lyrics"
-                }
-              ],
-              "children": []
             }
           ]
         }
@@ -1769,6 +1757,18 @@
       "collapsed": false,
       "videos": [],
       "children": [
+        {
+          "id": "cat-134",
+          "name": "텐션업",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "T9sz9QzsWXc",
+              "title": "DDR Butterfly [FULL] with lyrics"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-57",
           "name": "AI",
