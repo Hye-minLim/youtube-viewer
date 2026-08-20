@@ -1434,7 +1434,12 @@
               "id": "cat-159",
               "name": "장범준",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "qKXMZPH6k18",
+                  "title": "장범준 - 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야 [멜로가 체질 OST] [가사/Lyrics]"
+                }
+              ],
               "children": []
             },
             {
