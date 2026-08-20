@@ -280,7 +280,7 @@
     {
       "id": "cat-2",
       "name": "KPOP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -1785,13 +1785,13 @@
         {
           "id": "cat-27",
           "name": "ㅍ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-120",
               "name": "파파야",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "N-zuZCCfX_U",
@@ -1803,7 +1803,7 @@
             {
               "id": "cat-161",
               "name": "풍락",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "pxfsytpe00k",
@@ -1815,7 +1815,7 @@
             {
               "id": "cat-28",
               "name": "피노키오",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "HLWx9Fr7ops",
