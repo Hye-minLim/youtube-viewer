@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 152,
+  "categoryIdSeq": 153,
   "categories": [
     {
       "id": "cat-148",
@@ -27,6 +27,13 @@
           "title": "러빔 - 하나님의 열심 M/V (Zeal of GOD 타이틀곡)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-152",
+      "name": "마커스워십",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
