@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 202,
+  "categoryIdSeq": 203,
   "categories": [
     {
       "id": "cat-200",
@@ -23,6 +23,13 @@
           "title": "처음 그 느낌처럼 (Just Like First Sight)"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-202",
+      "name": "언타이틀",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
