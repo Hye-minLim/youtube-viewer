@@ -2155,7 +2155,7 @@
             {
               "id": "cat-217",
               "name": "코요태",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "CHiizjoys1Q",
@@ -2171,7 +2171,7 @@
             {
               "id": "cat-16",
               "name": "쿨",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "YaAamXPpUgA",
