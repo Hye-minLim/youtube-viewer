@@ -2349,7 +2349,7 @@
         {
           "id": "cat-27",
           "name": "ㅍ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -2437,7 +2437,7 @@
         {
           "id": "cat-6",
           "name": "ㅎ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
