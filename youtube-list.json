@@ -1656,7 +1656,7 @@
             {
               "id": "cat-60",
               "name": "이수",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "3QU2Rr6pTz8",
@@ -1668,7 +1668,7 @@
             {
               "id": "cat-85",
               "name": "이승철",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "ntPjSDNTwu4",
