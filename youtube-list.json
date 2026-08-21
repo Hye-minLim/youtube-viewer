@@ -1975,7 +1975,7 @@
             {
               "id": "cat-123",
               "name": "제이세라",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "RD84PrmLD8E",
