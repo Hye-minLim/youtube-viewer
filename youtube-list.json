@@ -2395,7 +2395,7 @@
             {
               "id": "cat-161",
               "name": "풍락",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "pxfsytpe00k",
@@ -2419,7 +2419,7 @@
             {
               "id": "cat-72",
               "name": "Fly to the Sky",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "54vxYZKanOQ",
