@@ -1763,7 +1763,7 @@
             {
               "id": "cat-211",
               "name": "일기예보",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "-mZwFdTvAjo",
@@ -1775,7 +1775,7 @@
             {
               "id": "cat-215",
               "name": "임창정",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "I6PPPhcPdnU",
@@ -1787,7 +1787,7 @@
             {
               "id": "cat-91",
               "name": "임현정",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "fwNJdxUghcc",
