@@ -2818,7 +2818,7 @@
             {
               "id": "cat-188",
               "name": "기타",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "JbJibUmAvzk",
@@ -2842,7 +2842,7 @@
             {
               "id": "cat-37",
               "name": "싱어게인",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
