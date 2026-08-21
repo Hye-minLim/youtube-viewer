@@ -652,7 +652,7 @@
             {
               "id": "cat-200",
               "name": "듀스",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "z_F_tQ_GUtU",
@@ -668,7 +668,7 @@
             {
               "id": "cat-163",
               "name": "DANIEL",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "WbxCVPjy2JU",
@@ -680,7 +680,7 @@
             {
               "id": "cat-219",
               "name": "DJ DOC",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "8-ms7bqVSoo",
