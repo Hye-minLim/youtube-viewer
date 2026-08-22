@@ -1073,7 +1073,12 @@
               "id": "cat-226",
               "name": "소향",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "hl9EXRLRZlI",
+                  "title": "[MV] 소향 - '사의찬미 OST Part.1' - 가슴만 알죠 (He Hymn of Death OST)"
+                }
+              ],
               "children": []
             },
             {
