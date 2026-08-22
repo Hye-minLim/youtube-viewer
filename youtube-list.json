@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 226,
+  "categoryIdSeq": 227,
   "categories": [
+    {
+      "id": "cat-226",
+      "name": "소향",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
