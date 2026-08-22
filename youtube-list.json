@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 230,
+  "categoryIdSeq": 231,
   "categories": [
     {
       "id": "cat-22",
@@ -2845,6 +2845,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-230",
+      "name": "Study",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-137",
