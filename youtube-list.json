@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 227,
+  "categoryIdSeq": 228,
   "categories": [
+    {
+      "id": "cat-227",
+      "name": "싸이(PSY)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-22",
       "name": "CCM",
