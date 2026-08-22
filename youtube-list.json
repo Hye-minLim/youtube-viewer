@@ -2572,7 +2572,20 @@
       "name": "New Age",
       "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-122",
+          "name": "George Michael",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "eqjWfU2NWTc",
+              "title": "George Michael - You Have Been Loved"
+            }
+          ],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-46",
@@ -2713,18 +2726,6 @@
           "collapsed": false,
           "videos": [],
           "children": [
-            {
-              "id": "cat-122",
-              "name": "George Michael",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "eqjWfU2NWTc",
-                  "title": "George Michael - You Have Been Loved"
-                }
-              ],
-              "children": []
-            },
             {
               "id": "cat-228",
               "name": "George Winston",
