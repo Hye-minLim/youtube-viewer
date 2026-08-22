@@ -2542,6 +2542,26 @@
           ]
         },
         {
+          "id": "cat-229",
+          "name": "New Age",
+          "collapsed": true,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-228",
+              "name": "George Winston",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "Mc6vedDCclQ",
+                  "title": "George Winston - Longing/Love (Music Video)"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "id": "cat-137",
           "name": "VA",
           "collapsed": true,
@@ -2720,26 +2740,6 @@
               "children": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "cat-229",
-      "name": "New Age",
-      "collapsed": true,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-228",
-          "name": "George Winston",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "Mc6vedDCclQ",
-              "title": "George Winston - Longing/Love (Music Video)"
-            }
-          ],
-          "children": []
         }
       ]
     },
