@@ -2703,7 +2703,7 @@
         {
           "id": "cat-110",
           "name": "G",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -2719,6 +2719,13 @@
               "children": []
             },
             {
+              "id": "cat-228",
+              "name": "George Winston",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
+            {
               "id": "cat-105",
               "name": "Golden Earring",
               "collapsed": true,
@@ -2731,13 +2738,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "id": "cat-228",
-          "name": "George Winston",
-          "collapsed": false,
-          "videos": [],
-          "children": []
         },
         {
           "id": "cat-111",
