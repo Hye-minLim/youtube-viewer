@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 228,
+  "categoryIdSeq": 229,
   "categories": [
     {
       "id": "cat-22",
@@ -307,6 +307,13 @@
           "title": "ChatGPT 최고의 트릭 4개 명령어"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-228",
+      "name": "George Winston",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
