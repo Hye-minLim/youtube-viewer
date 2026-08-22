@@ -954,7 +954,7 @@
         {
           "id": "cat-14",
           "name": "ㅅ",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -988,7 +988,7 @@
             {
               "id": "cat-206",
               "name": "서영은",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "ZgIpOQ18Aj4",
@@ -1096,7 +1096,7 @@
             {
               "id": "cat-198",
               "name": "신승훈",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "x2PSGpkwyXk",
@@ -1144,7 +1144,7 @@
             {
               "id": "cat-18",
               "name": "신해철",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "_XGDMzIihCo",
@@ -1192,7 +1192,7 @@
             {
               "id": "cat-24",
               "name": "쌈디",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "Fgbvn3dsmrU",
@@ -1841,7 +1841,7 @@
         {
           "id": "cat-10",
           "name": "ㅈ",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
