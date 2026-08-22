@@ -2572,7 +2572,15 @@
       "name": "New Age",
       "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-228",
+          "name": "George Winston",
+          "collapsed": true,
+          "videos": [],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-46",
@@ -2657,7 +2665,7 @@
     {
       "id": "cat-108",
       "name": "POP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -2723,13 +2731,6 @@
                   "title": "George Michael - You Have Been Loved"
                 }
               ],
-              "children": []
-            },
-            {
-              "id": "cat-228",
-              "name": "George Winston",
-              "collapsed": true,
-              "videos": [],
               "children": []
             },
             {
