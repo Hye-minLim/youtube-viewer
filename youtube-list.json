@@ -2,13 +2,6 @@
   "categoryIdSeq": 228,
   "categories": [
     {
-      "id": "cat-227",
-      "name": "싸이(PSY)",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1163,7 +1156,7 @@
             {
               "id": "cat-18",
               "name": "신해철",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "_XGDMzIihCo",
@@ -1210,6 +1203,13 @@
                   "title": "[MV] 십센치(10CM) - 봄 to 러브(For Love) | 우리들의 블루스(Our Blues) OST Part 3"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-227",
+              "name": "싸이(PSY)",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
