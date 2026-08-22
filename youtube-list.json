@@ -4,7 +4,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -2642,6 +2642,185 @@
           ]
         },
         {
+          "id": "cat-108",
+          "name": "POP",
+          "collapsed": true,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-109",
+              "name": "A",
+              "collapsed": true,
+              "videos": [],
+              "children": []
+            },
+            {
+              "id": "cat-140",
+              "name": "B",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-139",
+                  "name": "Black Pumas",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "0G383538qzQ",
+                      "title": "Black Pumas - Colors (Official Live Session)"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-194",
+              "name": "E",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-190",
+                  "name": "Eric Clapton",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "fvVqPi92CcY",
+                      "title": "Eric Clapton[70] 11. Tears in Heaven"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-110",
+              "name": "G",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-122",
+                  "name": "George Michael",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "eqjWfU2NWTc",
+                      "title": "George Michael - You Have Been Loved"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-105",
+                  "name": "Golden Earring",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "HOuc0kuKRV4",
+                      "title": "Twilight Zone"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-111",
+              "name": "H",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-106",
+                  "name": "Heart",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "PeMvMNpvB5M",
+                      "title": "Heart - \"Barracuda\" (1977)"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-195",
+              "name": "L",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-193",
+                  "name": "Linkin Park",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "C7nExMmmOrc",
+                      "title": "Linkin Park - Numb (Live In Texas)"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-132",
+              "name": "N",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-131",
+                  "name": "Nothing But Thieves",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "v78PSm1R7bg",
+                      "title": "Lover, Please Stay"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-129",
+              "name": "S",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-128",
+                  "name": "Sarah McLachlan",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "VLZ9Ike2Geo",
+                      "title": "Angel"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-171",
+                  "name": "Sasha Alex Sloan",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "Qzc_aX8c8g4",
+                      "title": "Sasha Alex Sloan - Dancing With Your Ghost (Lyric Video)"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "cat-137",
           "name": "VA",
           "collapsed": true,
@@ -2815,185 +2994,6 @@
                 {
                   "videoId": "jeLlKfT0k-8",
                   "title": "그냥 틀어놓으려고 만든 플레이리스트 [Playlist]"
-                }
-              ],
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cat-108",
-      "name": "POP",
-      "collapsed": true,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-109",
-          "name": "A",
-          "collapsed": true,
-          "videos": [],
-          "children": []
-        },
-        {
-          "id": "cat-140",
-          "name": "B",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-139",
-              "name": "Black Pumas",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "0G383538qzQ",
-                  "title": "Black Pumas - Colors (Official Live Session)"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-194",
-          "name": "E",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-190",
-              "name": "Eric Clapton",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "fvVqPi92CcY",
-                  "title": "Eric Clapton[70] 11. Tears in Heaven"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-110",
-          "name": "G",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-122",
-              "name": "George Michael",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "eqjWfU2NWTc",
-                  "title": "George Michael - You Have Been Loved"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-105",
-              "name": "Golden Earring",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "HOuc0kuKRV4",
-                  "title": "Twilight Zone"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-111",
-          "name": "H",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-106",
-              "name": "Heart",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "PeMvMNpvB5M",
-                  "title": "Heart - \"Barracuda\" (1977)"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-195",
-          "name": "L",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-193",
-              "name": "Linkin Park",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "C7nExMmmOrc",
-                  "title": "Linkin Park - Numb (Live In Texas)"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-132",
-          "name": "N",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-131",
-              "name": "Nothing But Thieves",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "v78PSm1R7bg",
-                  "title": "Lover, Please Stay"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-129",
-          "name": "S",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-128",
-              "name": "Sarah McLachlan",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "VLZ9Ike2Geo",
-                  "title": "Angel"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-171",
-              "name": "Sasha Alex Sloan",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "Qzc_aX8c8g4",
-                  "title": "Sasha Alex Sloan - Dancing With Your Ghost (Lyric Video)"
                 }
               ],
               "children": []
