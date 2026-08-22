@@ -2,13 +2,6 @@
   "categoryIdSeq": 227,
   "categories": [
     {
-      "id": "cat-226",
-      "name": "소향",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-22",
       "name": "CCM",
       "collapsed": true,
@@ -1074,6 +1067,13 @@
                   "title": "[MV] SUNGHWI(성휘) _ I didn’t say my last goodbye yet(마지막 인사는 아직 못했는데요)"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-226",
+              "name": "소향",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
