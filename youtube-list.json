@@ -2576,8 +2576,13 @@
         {
           "id": "cat-228",
           "name": "George Winston",
-          "collapsed": true,
-          "videos": [],
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "Mc6vedDCclQ",
+              "title": "George Winston - Longing/Love (Music Video)"
+            }
+          ],
           "children": []
         }
       ]
