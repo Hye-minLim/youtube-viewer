@@ -310,13 +310,6 @@
       "children": []
     },
     {
-      "id": "cat-228",
-      "name": "George Winston",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-2",
       "name": "KPOP",
       "collapsed": true,
@@ -2657,7 +2650,7 @@
     {
       "id": "cat-108",
       "name": "POP",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -2738,6 +2731,13 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "cat-228",
+          "name": "George Winston",
+          "collapsed": false,
+          "videos": [],
+          "children": []
         },
         {
           "id": "cat-111",
