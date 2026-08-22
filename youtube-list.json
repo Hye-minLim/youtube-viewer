@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 229,
+  "categoryIdSeq": 230,
   "categories": [
     {
       "id": "cat-22",
@@ -2566,6 +2566,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-229",
+      "name": "New Age",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-46",
