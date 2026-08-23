@@ -554,7 +554,7 @@
                 {
                   "id": "cat-9",
                   "name": "NELL",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "83IfZhO4Pd0",
@@ -672,7 +672,7 @@
             {
               "id": "cat-25",
               "name": "ㄹ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
