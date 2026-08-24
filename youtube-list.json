@@ -3042,7 +3042,12 @@
               "id": "cat-236",
               "name": "Hi-Fi",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "ezDr4JKo2Tk",
+                  "title": "피아노 선율에 맡겨보는 머리와 마음. 듣자마자 빠져드는 피아노 연주곡 '청음샵에서는 어떤 음악을 틀어줄까?' #고음질 #audiophile #Playlis #popularmusic"
+                }
+              ],
               "children": []
             },
             {
