@@ -580,7 +580,7 @@
             {
               "id": "cat-5",
               "name": "ㄷ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -665,6 +665,13 @@
                       "title": "Run to You"
                     }
                   ],
+                  "children": []
+                },
+                {
+                  "id": "cat-235",
+                  "name": "SS501",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 }
               ]
@@ -3041,13 +3048,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-235",
-      "name": "SS501",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     },
     {
       "id": "cat-230",
