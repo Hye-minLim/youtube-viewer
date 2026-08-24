@@ -671,7 +671,12 @@
                   "id": "cat-235",
                   "name": "SS501",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "jibP8Rh7z08",
+                      "title": "(2008) SS501 - U R Man [싱크가사/Lyric Video]"
+                    }
+                  ],
                   "children": []
                 }
               ]
