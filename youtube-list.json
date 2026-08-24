@@ -2,13 +2,6 @@
   "categoryIdSeq": 237,
   "categories": [
     {
-      "id": "cat-236",
-      "name": "Hi-Fi",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -2888,7 +2881,7 @@
             {
               "id": "cat-136",
               "name": "예능",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3043,6 +3036,13 @@
                   "title": "쿨 – 작은 기다림 | 70s Soul & Motown Inspired Rework (AI Cover)"
                 }
               ],
+              "children": []
+            },
+            {
+              "id": "cat-236",
+              "name": "Hi-Fi",
+              "collapsed": false,
+              "videos": [],
               "children": []
             },
             {
