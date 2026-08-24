@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 236,
+  "categoryIdSeq": 237,
   "categories": [
+    {
+      "id": "cat-236",
+      "name": "Hi-Fi",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
