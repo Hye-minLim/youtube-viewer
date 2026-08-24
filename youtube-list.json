@@ -286,7 +286,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -580,7 +580,7 @@
             {
               "id": "cat-5",
               "name": "ㄷ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -752,7 +752,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -908,6 +908,10 @@
                   "name": "빅마마",
                   "collapsed": true,
                   "videos": [
+                    {
+                      "videoId": "cbnGXFZ6jJE",
+                      "title": "[Live] 내 눈을 보아도 _ 박민혜(빅마마) [임백천의 백 뮤직] | KBS 211117 방송"
+                    },
                     {
                       "videoId": "RkM8fYdaxqE",
                       "title": "내 눈을 보아도"
@@ -2875,7 +2879,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
