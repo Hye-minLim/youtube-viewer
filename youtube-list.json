@@ -1369,13 +1369,13 @@
                 {
                   "id": "cat-29",
                   "name": "오태호",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
                       "id": "cat-30",
                       "name": "1집",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [
                         {
                           "videoId": "0QNX9TJKWPs",
@@ -1494,6 +1494,13 @@
                           "title": "홀로서도 아름다운 것"
                         }
                       ],
+                      "children": []
+                    },
+                    {
+                      "id": "cat-232",
+                      "name": "VA",
+                      "collapsed": false,
+                      "videos": [],
                       "children": []
                     }
                   ]
@@ -1831,13 +1838,6 @@
                       "title": "Separation Formula (이별 공식)"
                     }
                   ],
-                  "children": []
-                },
-                {
-                  "id": "cat-232",
-                  "name": "VA",
-                  "collapsed": false,
-                  "videos": [],
                   "children": []
                 }
               ]
