@@ -2,21 +2,6 @@
   "categoryIdSeq": 235,
   "categories": [
     {
-      "id": "cat-234",
-      "name": "C",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-233",
-          "name": "Chet Baker",
-          "collapsed": false,
-          "videos": [],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -2705,6 +2690,21 @@
                       "title": "Black Pumas - Colors (Official Live Session)"
                     }
                   ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-234",
+              "name": "C",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-233",
+                  "name": "Chet Baker",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 }
               ]
