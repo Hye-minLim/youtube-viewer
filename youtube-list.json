@@ -1207,7 +1207,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1831,6 +1831,13 @@
                       "title": "Separation Formula (이별 공식)"
                     }
                   ],
+                  "children": []
+                },
+                {
+                  "id": "cat-232",
+                  "name": "VA",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 }
               ]
@@ -3041,13 +3048,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-232",
-      "name": "VA",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     }
   ]
 }
