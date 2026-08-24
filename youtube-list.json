@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 234,
+  "categoryIdSeq": 235,
   "categories": [
+    {
+      "id": "cat-234",
+      "name": "C",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-233",
       "name": "Chet Baker",
