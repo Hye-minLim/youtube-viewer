@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 235,
+  "categoryIdSeq": 236,
   "categories": [
     {
       "id": "cat-231",
@@ -3041,6 +3041,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-235",
+      "name": "SS501",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
