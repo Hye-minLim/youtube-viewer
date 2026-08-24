@@ -1500,7 +1500,12 @@
                       "id": "cat-232",
                       "name": "VA",
                       "collapsed": false,
-                      "videos": [],
+                      "videos": [
+                        {
+                          "videoId": "hGhtm2KropM",
+                          "title": "15 of 오태호가 만든 노래"
+                        }
+                      ],
                       "children": []
                     }
                   ]
