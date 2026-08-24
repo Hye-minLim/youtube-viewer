@@ -2704,7 +2704,12 @@
                   "id": "cat-233",
                   "name": "Chet Baker",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "_ZRJrAHprBM",
+                      "title": "I Fall In Love Too Easily"
+                    }
+                  ],
                   "children": []
                 }
               ]
