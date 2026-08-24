@@ -6,14 +6,15 @@
       "name": "C",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-233",
-      "name": "Chet Baker",
-      "collapsed": false,
-      "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-233",
+          "name": "Chet Baker",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-231",
