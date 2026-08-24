@@ -292,7 +292,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -672,7 +672,7 @@
             {
               "id": "cat-25",
               "name": "ㄹ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -928,7 +928,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
