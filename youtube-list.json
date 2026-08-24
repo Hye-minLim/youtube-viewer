@@ -1082,7 +1082,7 @@
                 {
                   "id": "cat-198",
                   "name": "신승훈",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "x2PSGpkwyXk",
@@ -1102,7 +1102,7 @@
                 {
                   "id": "cat-117",
                   "name": "신인류",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "x1y4BraRy20",
