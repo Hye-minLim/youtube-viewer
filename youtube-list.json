@@ -732,13 +732,13 @@
             {
               "id": "cat-76",
               "name": "ㅁ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-75",
                   "name": "모세",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "Daj54FQNbG8",
@@ -770,7 +770,7 @@
                 {
                   "id": "cat-98",
                   "name": "박보람",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "a61DKukZZos",
