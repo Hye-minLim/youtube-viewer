@@ -292,13 +292,13 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-183",
                   "name": "015B",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "8TOAwryBotE",
@@ -732,7 +732,7 @@
             {
               "id": "cat-76",
               "name": "ㅁ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
