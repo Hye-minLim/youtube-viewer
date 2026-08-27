@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 244,
+  "categoryIdSeq": 245,
   "categories": [
     {
       "id": "cat-240",
@@ -31,6 +31,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-244",
+      "name": "Composers",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-231",
