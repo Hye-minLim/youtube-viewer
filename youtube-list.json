@@ -76,13 +76,13 @@
     {
       "id": "cat-249",
       "name": "Jazz",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-250",
           "name": "Avant-garde",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
