@@ -54,6 +54,13 @@
                   "collapsed": false,
                   "videos": [],
                   "children": []
+                },
+                {
+                  "id": "cat-248",
+                  "name": "Rachmaninoff",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
                 }
               ]
             }
@@ -3173,13 +3180,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-248",
-      "name": "Rachmaninoff",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     },
     {
       "id": "cat-230",
