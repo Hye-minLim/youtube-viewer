@@ -2715,16 +2715,24 @@
               "children": []
             },
             {
-              "id": "cat-228",
-              "name": "George Winston",
-              "collapsed": true,
-              "videos": [
+              "id": "cat-251",
+              "name": "Piano",
+              "collapsed": false,
+              "videos": [],
+              "children": [
                 {
-                  "videoId": "Mc6vedDCclQ",
-                  "title": "George Winston - Longing/Love (Music Video)"
+                  "id": "cat-228",
+                  "name": "George Winston",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "Mc6vedDCclQ",
+                      "title": "George Winston - Longing/Love (Music Video)"
+                    }
+                  ],
+                  "children": []
                 }
-              ],
-              "children": []
+              ]
             }
           ]
         },
@@ -3204,13 +3212,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-251",
-      "name": "Piano",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     },
     {
       "id": "cat-230",
