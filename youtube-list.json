@@ -2,13 +2,6 @@
   "categoryIdSeq": 240,
   "categories": [
     {
-      "id": "cat-239",
-      "name": "CARLA BLEY",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -2611,9 +2604,16 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-239",
+              "name": "CARLA BLEY",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-228",
               "name": "George Winston",
