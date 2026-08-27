@@ -1857,7 +1857,12 @@
                   "id": "cat-237",
                   "name": "M.C The Max",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "MIOn_yEwvrk",
+                      "title": "Wind that Blows (그대가 분다)"
+                    }
+                  ],
                   "children": []
                 },
                 {
