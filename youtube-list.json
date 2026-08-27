@@ -74,13 +74,6 @@
       ]
     },
     {
-      "id": "cat-253",
-      "name": "Enya",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-249",
       "name": "Jazz",
       "collapsed": false,
@@ -2717,9 +2710,17 @@
             {
               "id": "cat-252",
               "name": "Ambient",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
-              "children": []
+              "children": [
+                {
+                  "id": "cat-253",
+                  "name": "Enya",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
+                }
+              ]
             },
             {
               "id": "cat-251",
