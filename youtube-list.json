@@ -9,13 +9,6 @@
       "children": []
     },
     {
-      "id": "cat-245",
-      "name": "Chopin",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": false,
@@ -47,7 +40,15 @@
               "name": "Composers",
               "collapsed": false,
               "videos": [],
-              "children": []
+              "children": [
+                {
+                  "id": "cat-245",
+                  "name": "Chopin",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
+                }
+              ]
             }
           ]
         }
