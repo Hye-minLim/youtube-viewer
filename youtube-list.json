@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 243,
+  "categoryIdSeq": 244,
   "categories": [
     {
       "id": "cat-242",
@@ -11,6 +11,13 @@
     {
       "id": "cat-240",
       "name": "Classical",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-243",
+      "name": "Lang Lang",
       "collapsed": false,
       "videos": [],
       "children": []
