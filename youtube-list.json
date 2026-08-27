@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 242,
+  "categoryIdSeq": 243,
   "categories": [
+    {
+      "id": "cat-242",
+      "name": "Artists",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
