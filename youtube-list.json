@@ -78,7 +78,20 @@
       "name": "Jazz",
       "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-239",
+          "name": "CARLA BLEY",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "Ys0q8ljjiY8",
+              "title": "Lawns"
+            }
+          ],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-231",
@@ -2686,18 +2699,6 @@
           "collapsed": false,
           "videos": [],
           "children": [
-            {
-              "id": "cat-239",
-              "name": "CARLA BLEY",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "Ys0q8ljjiY8",
-                  "title": "Lawns"
-                }
-              ],
-              "children": []
-            },
             {
               "id": "cat-228",
               "name": "George Winston",
