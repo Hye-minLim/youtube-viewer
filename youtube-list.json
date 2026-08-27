@@ -835,7 +835,12 @@
                   "id": "cat-238",
                   "name": "박희수",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "UGekLfJC15o",
+                      "title": "그 어느 겨울"
+                    }
+                  ],
                   "children": []
                 },
                 {
