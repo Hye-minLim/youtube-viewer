@@ -2,13 +2,6 @@
   "categoryIdSeq": 238,
   "categories": [
     {
-      "id": "cat-237",
-      "name": "M.C The Max",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -1230,7 +1223,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1858,6 +1851,13 @@
                       "title": "H.O.T. '행복 (Full Of Happiness)' MV"
                     }
                   ],
+                  "children": []
+                },
+                {
+                  "id": "cat-237",
+                  "name": "M.C The Max",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 },
                 {
