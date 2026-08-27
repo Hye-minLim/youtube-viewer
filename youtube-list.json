@@ -2739,6 +2739,13 @@
                     }
                   ],
                   "children": []
+                },
+                {
+                  "id": "cat-254",
+                  "name": "Yiruma",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
                 }
               ]
             }
@@ -3260,13 +3267,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-254",
-      "name": "Yiruma",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     }
   ]
 }
