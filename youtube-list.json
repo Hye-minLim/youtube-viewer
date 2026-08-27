@@ -2630,7 +2630,7 @@
             {
               "id": "cat-112",
               "name": "냉정과열정사이",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "VHYxL3UKJbk",
@@ -2654,7 +2654,7 @@
             {
               "id": "cat-166",
               "name": "스탠 바이 미 (Stand by Me , 1986)",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "MsGOSR6hVm4",
