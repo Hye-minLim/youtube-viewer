@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 249,
+  "categoryIdSeq": 250,
   "categories": [
     {
       "id": "cat-240",
@@ -72,6 +72,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-249",
+      "name": "Jazz",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-231",
