@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 245,
+  "categoryIdSeq": 246,
   "categories": [
+    {
+      "id": "cat-245",
+      "name": "Chopin",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
