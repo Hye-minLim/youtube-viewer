@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 250,
+  "categoryIdSeq": 251,
   "categories": [
+    {
+      "id": "cat-250",
+      "name": "Avant-garde",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
