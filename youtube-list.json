@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 252,
+  "categoryIdSeq": 253,
   "categories": [
+    {
+      "id": "cat-252",
+      "name": "Ambient",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
