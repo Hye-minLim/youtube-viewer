@@ -2,13 +2,6 @@
   "categoryIdSeq": 253,
   "categories": [
     {
-      "id": "cat-252",
-      "name": "Ambient",
-      "collapsed": true,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": true,
@@ -2714,6 +2707,13 @@
           "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-252",
+              "name": "Ambient",
+              "collapsed": true,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-228",
               "name": "George Winston",
