@@ -2,13 +2,6 @@
   "categoryIdSeq": 249,
   "categories": [
     {
-      "id": "cat-247",
-      "name": "Beethoven",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": false,
@@ -41,6 +34,13 @@
               "collapsed": false,
               "videos": [],
               "children": [
+                {
+                  "id": "cat-247",
+                  "name": "Beethoven",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
+                },
                 {
                   "id": "cat-245",
                   "name": "Chopin",
