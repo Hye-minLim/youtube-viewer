@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 237,
+  "categoryIdSeq": 238,
   "categories": [
+    {
+      "id": "cat-237",
+      "name": "M.C The Max",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
