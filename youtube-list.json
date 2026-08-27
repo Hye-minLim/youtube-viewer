@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 248,
+  "categoryIdSeq": 249,
   "categories": [
     {
       "id": "cat-247",
@@ -3172,6 +3172,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-248",
+      "name": "Rachmaninoff",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
