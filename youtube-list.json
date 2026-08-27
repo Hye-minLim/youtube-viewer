@@ -956,13 +956,13 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-142",
                   "name": "사비나앤드론즈",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "N6iAiG_gRoo",
@@ -2608,7 +2608,7 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
