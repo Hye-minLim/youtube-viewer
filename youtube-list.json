@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 238,
+  "categoryIdSeq": 239,
   "categories": [
+    {
+      "id": "cat-238",
+      "name": "박희수",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
@@ -1223,7 +1230,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
