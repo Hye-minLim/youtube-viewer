@@ -18,18 +18,19 @@
               "name": "Artists",
               "collapsed": false,
               "videos": [],
-              "children": []
+              "children": [
+                {
+                  "id": "cat-243",
+                  "name": "Lang Lang",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
+                }
+              ]
             }
           ]
         }
       ]
-    },
-    {
-      "id": "cat-243",
-      "name": "Lang Lang",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     },
     {
       "id": "cat-231",
