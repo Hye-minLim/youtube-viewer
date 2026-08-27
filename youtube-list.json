@@ -299,7 +299,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -759,7 +759,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
