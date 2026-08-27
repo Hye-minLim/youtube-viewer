@@ -2,13 +2,6 @@
   "categoryIdSeq": 251,
   "categories": [
     {
-      "id": "cat-250",
-      "name": "Avant-garde",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": true,
@@ -87,16 +80,24 @@
       "videos": [],
       "children": [
         {
-          "id": "cat-239",
-          "name": "CARLA BLEY",
-          "collapsed": true,
-          "videos": [
+          "id": "cat-250",
+          "name": "Avant-garde",
+          "collapsed": false,
+          "videos": [],
+          "children": [
             {
-              "videoId": "Ys0q8ljjiY8",
-              "title": "Lawns"
+              "id": "cat-239",
+              "name": "CARLA BLEY",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "Ys0q8ljjiY8",
+                  "title": "Lawns"
+                }
+              ],
+              "children": []
             }
-          ],
-          "children": []
+          ]
         }
       ]
     },
