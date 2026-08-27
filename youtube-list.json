@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 241,
+  "categoryIdSeq": 242,
   "categories": [
     {
       "id": "cat-240",
@@ -3120,6 +3120,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-241",
+      "name": "Piano",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
