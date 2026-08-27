@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 246,
+  "categoryIdSeq": 247,
   "categories": [
     {
       "id": "cat-245",
@@ -42,6 +42,13 @@
     {
       "id": "cat-244",
       "name": "Composers",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-246",
+      "name": "Liszt",
       "collapsed": false,
       "videos": [],
       "children": []
