@@ -102,13 +102,6 @@
       ]
     },
     {
-      "id": "cat-255",
-      "name": "Kitaro",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -2723,6 +2716,13 @@
                 {
                   "id": "cat-253",
                   "name": "Enya",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
+                },
+                {
+                  "id": "cat-255",
+                  "name": "Kitaro",
                   "collapsed": false,
                   "videos": [],
                   "children": []
