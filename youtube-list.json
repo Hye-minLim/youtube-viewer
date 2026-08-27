@@ -2,13 +2,6 @@
   "categoryIdSeq": 239,
   "categories": [
     {
-      "id": "cat-238",
-      "name": "박희수",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -759,7 +752,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -836,6 +829,13 @@
                       "title": "당신과의 키스를 세어보아요 (당신과의 키스를 세어보아요)"
                     }
                   ],
+                  "children": []
+                },
+                {
+                  "id": "cat-238",
+                  "name": "박희수",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 },
                 {
