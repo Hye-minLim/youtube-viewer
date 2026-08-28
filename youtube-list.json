@@ -2506,7 +2506,7 @@
             {
               "id": "cat-27",
               "name": "ㅍ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2841,13 +2841,13 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-109",
               "name": "A",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": []
             },
