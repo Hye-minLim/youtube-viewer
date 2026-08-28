@@ -3064,7 +3064,7 @@
                 {
                   "id": "cat-42",
                   "name": "신의목소리",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "e9NhmhazHgo",
@@ -3076,7 +3076,7 @@
                 {
                   "id": "cat-37",
                   "name": "싱어게인",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
