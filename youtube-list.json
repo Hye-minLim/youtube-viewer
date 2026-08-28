@@ -3046,7 +3046,7 @@
             {
               "id": "cat-136",
               "name": "예능",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -3064,7 +3064,7 @@
                 {
                   "id": "cat-42",
                   "name": "신의목소리",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "e9NhmhazHgo",
@@ -3194,7 +3194,7 @@
             {
               "id": "cat-57",
               "name": "AI",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "MA9L5GA7rUY",
