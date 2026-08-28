@@ -2512,7 +2512,7 @@
                 {
                   "id": "cat-120",
                   "name": "파파야",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "N-zuZCCfX_U",
@@ -2536,7 +2536,7 @@
                 {
                   "id": "cat-208",
                   "name": "포지션",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "GqlBI3sempA",
