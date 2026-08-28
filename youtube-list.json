@@ -3194,7 +3194,7 @@
             {
               "id": "cat-57",
               "name": "AI",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "MA9L5GA7rUY",
@@ -3222,7 +3222,7 @@
             {
               "id": "cat-115",
               "name": "work",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "c-OZnleHaek",
