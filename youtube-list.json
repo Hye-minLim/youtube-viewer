@@ -2,18 +2,6 @@
   "categoryIdSeq": 260,
   "categories": [
     {
-      "id": "cat-259",
-      "name": "여명",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "NHEV9uJuIWE",
-          "title": "Tình Nhạt Phai 一起走过的日子 • 黎明/Lê Minh MV"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": false,
@@ -1391,7 +1379,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1534,6 +1522,18 @@
                     {
                       "videoId": "Ok2heXkkvAw",
                       "title": "The last love (마지막 사랑)"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-259",
+                  "name": "여명",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "NHEV9uJuIWE",
+                      "title": "Tình Nhạt Phai 一起走过的日子 • 黎明/Lê Minh MV"
                     }
                   ],
                   "children": []
