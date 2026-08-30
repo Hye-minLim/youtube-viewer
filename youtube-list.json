@@ -14,22 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-280",
-      "name": "Lauren Daigle",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "nThnLyjQgbA",
-          "title": "Lauren Daigle - Remember (Audio)"
-        },
-        {
-          "videoId": "2hYTXmjf6GI",
-          "title": "Lauren Daigle - You Say (Piano/Vocal Version) (Audio)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-277",
       "name": "Lauren Spencer-Smith",
       "collapsed": true,
@@ -3286,9 +3270,25 @@
             {
               "id": "cat-195",
               "name": "L",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
+                {
+                  "id": "cat-280",
+                  "name": "Lauren Daigle",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "nThnLyjQgbA",
+                      "title": "Lauren Daigle - Remember (Audio)"
+                    },
+                    {
+                      "videoId": "2hYTXmjf6GI",
+                      "title": "Lauren Daigle - You Say (Piano/Vocal Version) (Audio)"
+                    }
+                  ],
+                  "children": []
+                },
                 {
                   "id": "cat-193",
                   "name": "Linkin Park",
