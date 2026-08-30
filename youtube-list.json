@@ -5,7 +5,12 @@
       "id": "cat-287",
       "name": "노을",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "pX_Nv6gG6SY",
+          "title": "전부 너였다 Everything was You"
+        }
+      ],
       "children": []
     },
     {
