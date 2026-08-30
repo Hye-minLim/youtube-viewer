@@ -852,7 +852,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1335,7 +1335,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
