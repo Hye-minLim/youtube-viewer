@@ -97,6 +97,18 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-272",
+              "name": "VA",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "fk-_QqmU584",
+                  "title": "2시간 연속 듣기 | Spring Rain | 432Hz | 빗소리와 함께 듣는 피아노 연주곡"
+                }
+              ],
+              "children": []
             }
           ]
         }
@@ -3543,18 +3555,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-272",
-      "name": "VA",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "fk-_QqmU584",
-          "title": "2시간 연속 듣기 | Spring Rain | 432Hz | 빗소리와 함께 듣는 피아노 연주곡"
-        }
-      ],
-      "children": []
     }
   ]
 }
