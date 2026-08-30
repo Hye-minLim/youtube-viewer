@@ -14,18 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-277",
-      "name": "Lauren Spencer-Smith",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "KvhTwDTRGoA",
-          "title": "Always Remember Us This Way"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -3101,7 +3089,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -3270,7 +3258,7 @@
             {
               "id": "cat-195",
               "name": "L",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3285,6 +3273,18 @@
                     {
                       "videoId": "2hYTXmjf6GI",
                       "title": "Lauren Daigle - You Say (Piano/Vocal Version) (Audio)"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-277",
+                  "name": "Lauren Spencer-Smith",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "KvhTwDTRGoA",
+                      "title": "Always Remember Us This Way"
                     }
                   ],
                   "children": []
@@ -3306,7 +3306,7 @@
             {
               "id": "cat-274",
               "name": "M",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3412,7 +3412,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
