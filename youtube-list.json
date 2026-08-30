@@ -187,25 +187,6 @@
       "children": []
     },
     {
-      "id": "cat-274",
-      "name": "M",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-267",
-      "name": "Minnie Riperton",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "KhaUnHJjS8A",
-          "title": "Lovin' You"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -3233,6 +3214,26 @@
                     {
                       "videoId": "C7nExMmmOrc",
                       "title": "Linkin Park - Numb (Live In Texas)"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-274",
+              "name": "M",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-267",
+                  "name": "Minnie Riperton",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "KhaUnHJjS8A",
+                      "title": "Lovin' You"
                     }
                   ],
                   "children": []
