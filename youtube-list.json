@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 257,
+  "categoryIdSeq": 258,
   "categories": [
+    {
+      "id": "cat-257",
+      "name": "이재훈",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
