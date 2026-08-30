@@ -3392,6 +3392,18 @@
                     }
                   ],
                   "children": []
+                },
+                {
+                  "id": "cat-279",
+                  "name": "Sting",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "dOjFcx3GJHg",
+                      "title": "Shape Of My Heart"
+                    }
+                  ],
+                  "children": []
                 }
               ]
             }
@@ -3614,18 +3626,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-279",
-      "name": "Sting",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "dOjFcx3GJHg",
-          "title": "Shape Of My Heart"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-230",
