@@ -3464,7 +3464,12 @@
       "id": "cat-268",
       "name": "Shye",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Jt409UeXWGw",
+          "title": "shye - love u"
+        }
+      ],
       "children": []
     },
     {
