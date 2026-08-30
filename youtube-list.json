@@ -3528,7 +3528,12 @@
       "id": "cat-270",
       "name": "Terrence Brewer",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "wVcZVl2cQlc",
+          "title": "What Are You Doing the Rest of Your Life"
+        }
+      ],
       "children": []
     }
   ]
