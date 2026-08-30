@@ -141,6 +141,13 @@
           ]
         },
         {
+          "id": "cat-271",
+          "name": "Straight-ahead Jazz",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
+        {
           "id": "cat-270",
           "name": "Terrence Brewer",
           "collapsed": true,
@@ -3494,13 +3501,6 @@
           "title": "shye - love u"
         }
       ],
-      "children": []
-    },
-    {
-      "id": "cat-271",
-      "name": "Straight-ahead Jazz",
-      "collapsed": false,
-      "videos": [],
       "children": []
     },
     {
