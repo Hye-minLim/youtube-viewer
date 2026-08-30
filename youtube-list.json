@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 260,
+  "categoryIdSeq": 261,
   "categories": [
+    {
+      "id": "cat-260",
+      "name": "김동률",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
