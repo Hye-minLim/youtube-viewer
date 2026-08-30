@@ -14,18 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-264",
-      "name": "효린",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "B5QqS2Fuy2k",
-          "title": "[LIVE] 'Rockabye (Acoustic ver.)' - Clean Bandit (feat. Sean Paul & Anne-Marie)ㅣHYOLYN(효린)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": true,
@@ -2803,7 +2791,7 @@
             {
               "id": "cat-6",
               "name": "ㅎ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2890,6 +2878,18 @@
                     {
                       "videoId": "TLY0lXIQ8eg",
                       "title": "환희 - 너를 위해 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 221224 방송"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-264",
+                  "name": "효린",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "B5QqS2Fuy2k",
+                      "title": "[LIVE] 'Rockabye (Acoustic ver.)' - Clean Bandit (feat. Sean Paul & Anne-Marie)ㅣHYOLYN(효린)"
                     }
                   ],
                   "children": []
