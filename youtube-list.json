@@ -2,29 +2,6 @@
   "categoryIdSeq": 284,
   "categories": [
     {
-      "id": "cat-281",
-      "name": "Cello",
-      "collapsed": true,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-282",
-          "name": "Composers",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-283",
-              "name": "J.S. Bach",
-              "collapsed": false,
-              "videos": [],
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "cat-278",
       "name": "Ed Sheeran",
       "collapsed": false,
@@ -364,6 +341,29 @@
           "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-281",
+              "name": "Cello",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-282",
+                  "name": "Composers",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": [
+                    {
+                      "id": "cat-283",
+                      "name": "J.S. Bach",
+                      "collapsed": false,
+                      "videos": [],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "id": "cat-241",
               "name": "Piano",
