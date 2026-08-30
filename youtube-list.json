@@ -145,19 +145,20 @@
           "name": "Straight-ahead Jazz",
           "collapsed": false,
           "videos": [],
-          "children": []
-        },
-        {
-          "id": "cat-270",
-          "name": "Terrence Brewer",
-          "collapsed": true,
-          "videos": [
+          "children": [
             {
-              "videoId": "wVcZVl2cQlc",
-              "title": "What Are You Doing the Rest of Your Life"
+              "id": "cat-270",
+              "name": "Terrence Brewer",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "wVcZVl2cQlc",
+                  "title": "What Are You Doing the Rest of Your Life"
+                }
+              ],
+              "children": []
             }
-          ],
-          "children": []
+          ]
         }
       ]
     },
