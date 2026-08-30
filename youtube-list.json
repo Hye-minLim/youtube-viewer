@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 265,
+  "categoryIdSeq": 266,
   "categories": [
+    {
+      "id": "cat-265",
+      "name": "박효신",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-264",
       "name": "효린",
