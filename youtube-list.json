@@ -2,143 +2,6 @@
   "categoryIdSeq": 276,
   "categories": [
     {
-      "id": "cat-240",
-      "name": "Classical",
-      "collapsed": true,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-241",
-          "name": "Piano",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-242",
-              "name": "Artists",
-              "collapsed": true,
-              "videos": [],
-              "children": [
-                {
-                  "id": "cat-243",
-                  "name": "Lang Lang",
-                  "collapsed": false,
-                  "videos": [
-                    {
-                      "videoId": "Dk3MLRgFQPE",
-                      "title": "RUNTAH MEDLEY BULEUD - LANGLANG PIANO COVER ( live parody )"
-                    }
-                  ],
-                  "children": []
-                }
-              ]
-            },
-            {
-              "id": "cat-244",
-              "name": "Composers",
-              "collapsed": true,
-              "videos": [],
-              "children": [
-                {
-                  "id": "cat-247",
-                  "name": "Beethoven",
-                  "collapsed": true,
-                  "videos": [],
-                  "children": []
-                },
-                {
-                  "id": "cat-245",
-                  "name": "Chopin",
-                  "collapsed": false,
-                  "videos": [
-                    {
-                      "videoId": "9E6b3swbnWg",
-                      "title": "Chopin - Nocturne op.9 No.2"
-                    }
-                  ],
-                  "children": []
-                },
-                {
-                  "id": "cat-246",
-                  "name": "Liszt",
-                  "collapsed": false,
-                  "videos": [],
-                  "children": []
-                },
-                {
-                  "id": "cat-248",
-                  "name": "Rachmaninoff",
-                  "collapsed": false,
-                  "videos": [],
-                  "children": []
-                }
-              ]
-            },
-            {
-              "id": "cat-272",
-              "name": "VA",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "fk-_QqmU584",
-                  "title": "2시간 연속 듣기 | Spring Rain | 432Hz | 빗소리와 함께 듣는 피아노 연주곡"
-                }
-              ],
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cat-249",
-      "name": "Jazz",
-      "collapsed": true,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-250",
-          "name": "Avant-garde",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-239",
-              "name": "CARLA BLEY",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "Ys0q8ljjiY8",
-                  "title": "Lawns"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "cat-271",
-          "name": "Straight-ahead Jazz",
-          "collapsed": false,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-270",
-              "name": "Terrence Brewer",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "wVcZVl2cQlc",
-                  "title": "What Are You Doing the Rest of Your Life"
-                }
-              ],
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -421,9 +284,146 @@
           ]
         },
         {
+          "id": "cat-240",
+          "name": "Classical",
+          "collapsed": true,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-241",
+              "name": "Piano",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-242",
+                  "name": "Artists",
+                  "collapsed": true,
+                  "videos": [],
+                  "children": [
+                    {
+                      "id": "cat-243",
+                      "name": "Lang Lang",
+                      "collapsed": false,
+                      "videos": [
+                        {
+                          "videoId": "Dk3MLRgFQPE",
+                          "title": "RUNTAH MEDLEY BULEUD - LANGLANG PIANO COVER ( live parody )"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "cat-244",
+                  "name": "Composers",
+                  "collapsed": true,
+                  "videos": [],
+                  "children": [
+                    {
+                      "id": "cat-247",
+                      "name": "Beethoven",
+                      "collapsed": true,
+                      "videos": [],
+                      "children": []
+                    },
+                    {
+                      "id": "cat-245",
+                      "name": "Chopin",
+                      "collapsed": false,
+                      "videos": [
+                        {
+                          "videoId": "9E6b3swbnWg",
+                          "title": "Chopin - Nocturne op.9 No.2"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "id": "cat-246",
+                      "name": "Liszt",
+                      "collapsed": false,
+                      "videos": [],
+                      "children": []
+                    },
+                    {
+                      "id": "cat-248",
+                      "name": "Rachmaninoff",
+                      "collapsed": false,
+                      "videos": [],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "cat-272",
+                  "name": "VA",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "fk-_QqmU584",
+                      "title": "2시간 연속 듣기 | Spring Rain | 432Hz | 빗소리와 함께 듣는 피아노 연주곡"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cat-249",
+          "name": "Jazz",
+          "collapsed": true,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-250",
+              "name": "Avant-garde",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-239",
+                  "name": "CARLA BLEY",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "Ys0q8ljjiY8",
+                      "title": "Lawns"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-271",
+              "name": "Straight-ahead Jazz",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-270",
+                  "name": "Terrence Brewer",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "wVcZVl2cQlc",
+                      "title": "What Are You Doing the Rest of Your Life"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
