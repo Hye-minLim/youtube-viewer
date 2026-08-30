@@ -1359,7 +1359,7 @@
                 {
                   "id": "cat-15",
                   "name": "성시경",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "_kr3bOs5s8U",
@@ -1387,7 +1387,7 @@
                 {
                   "id": "cat-54",
                   "name": "성휘",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "osW9zwWRRNA",
