@@ -2,13 +2,6 @@
   "categoryIdSeq": 286,
   "categories": [
     {
-      "id": "cat-285",
-      "name": "Jacqueline du Pré",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -307,7 +300,15 @@
                   "name": "Artists",
                   "collapsed": false,
                   "videos": [],
-                  "children": []
+                  "children": [
+                    {
+                      "id": "cat-285",
+                      "name": "Jacqueline du Pré",
+                      "collapsed": false,
+                      "videos": [],
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "id": "cat-282",
