@@ -2,18 +2,6 @@
   "categoryIdSeq": 276,
   "categories": [
     {
-      "id": "cat-265",
-      "name": "박효신",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "zcnANJebBbM",
-          "title": "[풀버전] 박효신(Park hyo shin)x정재일(Jung jae il)， 한층 깊어진 감성 ′야생화′♪ 너의 노래는(Your Song) 1회"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": true,
@@ -1036,6 +1024,18 @@
                     {
                       "videoId": "RlfwEyNQRWg",
                       "title": "당신과의 키스를 세어보아요 (당신과의 키스를 세어보아요)"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-265",
+                  "name": "박효신",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "zcnANJebBbM",
+                      "title": "[풀버전] 박효신(Park hyo shin)x정재일(Jung jae il)， 한층 깊어진 감성 ′야생화′♪ 너의 노래는(Your Song) 1회"
                     }
                   ],
                   "children": []
