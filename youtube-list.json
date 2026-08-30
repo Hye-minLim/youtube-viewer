@@ -145,7 +145,7 @@
     {
       "id": "cat-266",
       "name": "Jess Benko",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "4LQZyvbVMD4",
@@ -157,7 +157,7 @@
     {
       "id": "cat-267",
       "name": "Minnie Riperton",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "KhaUnHJjS8A",
@@ -169,7 +169,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
