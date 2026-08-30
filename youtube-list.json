@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 269,
+  "categoryIdSeq": 270,
   "categories": [
     {
       "id": "cat-265",
@@ -101,6 +101,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-269",
+      "name": "Ellie Goulding",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-249",
