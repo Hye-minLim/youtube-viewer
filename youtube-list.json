@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 267,
+  "categoryIdSeq": 268,
   "categories": [
     {
       "id": "cat-265",
@@ -140,6 +140,13 @@
           "title": "Jess Benko - A Soulmate Who Wasn't Meant to Be"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-267",
+      "name": "Minnie Riperton",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
