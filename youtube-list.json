@@ -3418,7 +3418,7 @@
             {
               "id": "cat-136",
               "name": "예능",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -3578,7 +3578,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "s_O7q9RIep4",
