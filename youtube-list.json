@@ -2,13 +2,6 @@
   "categoryIdSeq": 285,
   "categories": [
     {
-      "id": "cat-284",
-      "name": "Artists",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -302,6 +295,13 @@
               "collapsed": false,
               "videos": [],
               "children": [
+                {
+                  "id": "cat-284",
+                  "name": "Artists",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
+                },
                 {
                   "id": "cat-282",
                   "name": "Composers",
