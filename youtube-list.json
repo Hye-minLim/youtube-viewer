@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 271,
+  "categoryIdSeq": 272,
   "categories": [
     {
       "id": "cat-265",
@@ -3494,6 +3494,13 @@
           "title": "shye - love u"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-271",
+      "name": "Straight-ahead Jazz",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
