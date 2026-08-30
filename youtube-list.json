@@ -945,7 +945,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -975,7 +975,7 @@
                 {
                   "id": "cat-127",
                   "name": "박정현",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "JTQNiwkT_QY",
@@ -2791,7 +2791,7 @@
             {
               "id": "cat-6",
               "name": "ㅎ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
