@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 264,
+  "categoryIdSeq": 265,
   "categories": [
+    {
+      "id": "cat-264",
+      "name": "효린",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
