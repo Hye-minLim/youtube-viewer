@@ -10,7 +10,7 @@
         {
           "id": "cat-241",
           "name": "Piano",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -49,7 +49,7 @@
                 {
                   "id": "cat-245",
                   "name": "Chopin",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": []
                 },
