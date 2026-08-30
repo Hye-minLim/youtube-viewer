@@ -882,7 +882,7 @@
                 {
                   "id": "cat-127",
                   "name": "박정현",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "1IrUGrZs7OM",
@@ -938,7 +938,7 @@
                 {
                   "id": "cat-238",
                   "name": "박희수",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "UGekLfJC15o",
