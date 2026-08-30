@@ -3396,7 +3396,12 @@
       "id": "cat-263",
       "name": "Roland Faunte",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ofNPHLwSYXQ",
+          "title": "Roland Faunte - Hand Over Hand (Official Lyric Video)"
+        }
+      ],
       "children": []
     },
     {
