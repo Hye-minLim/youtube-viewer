@@ -29,7 +29,12 @@
       "id": "cat-280",
       "name": "Lauren Daigle",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "nThnLyjQgbA",
+          "title": "Lauren Daigle - Remember (Audio)"
+        }
+      ],
       "children": []
     },
     {
