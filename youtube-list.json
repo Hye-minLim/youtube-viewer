@@ -344,7 +344,7 @@
             {
               "id": "cat-281",
               "name": "Cello",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -367,7 +367,7 @@
             {
               "id": "cat-241",
               "name": "Piano",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
