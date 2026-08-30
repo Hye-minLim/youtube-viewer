@@ -2309,7 +2309,12 @@
                   "id": "cat-258",
                   "name": "지아",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "IoszUlePZz4",
+                      "title": "[고화질원본] 라이브 미쳤다...😲 지아의 '술 한잔해요' | 케전드 | KBS 121012 방송"
+                    }
+                  ],
                   "children": []
                 }
               ]
