@@ -117,7 +117,7 @@
     {
       "id": "cat-249",
       "name": "Jazz",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -139,6 +139,18 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "cat-270",
+          "name": "Terrence Brewer",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "wVcZVl2cQlc",
+              "title": "What Are You Doing the Rest of Your Life"
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -3523,18 +3535,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-270",
-      "name": "Terrence Brewer",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "wVcZVl2cQlc",
-          "title": "What Are You Doing the Rest of Your Life"
-        }
-      ],
-      "children": []
     }
   ]
 }
