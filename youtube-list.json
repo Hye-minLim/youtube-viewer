@@ -608,7 +608,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -671,6 +671,10 @@
                     {
                       "videoId": "AyQ2g0t8y1A",
                       "title": "넬(NELL) 'Deep Inside' Official MV"
+                    },
+                    {
+                      "videoId": "455gnlrK26k",
+                      "title": "넬(NELL) ‘Don't say you love me’ Official Lyric Video"
                     }
                   ],
                   "children": []
@@ -852,7 +856,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
