@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 279,
+  "categoryIdSeq": 280,
   "categories": [
     {
       "id": "cat-278",
@@ -3575,6 +3575,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-279",
+      "name": "Sting",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
