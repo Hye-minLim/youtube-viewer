@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 287,
+  "categoryIdSeq": 288,
   "categories": [
+    {
+      "id": "cat-287",
+      "name": "노을",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
