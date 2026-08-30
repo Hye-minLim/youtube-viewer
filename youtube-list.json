@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 281,
+  "categoryIdSeq": 282,
   "categories": [
+    {
+      "id": "cat-281",
+      "name": "Cello",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-278",
       "name": "Ed Sheeran",
