@@ -631,7 +631,7 @@
                 {
                   "id": "cat-260",
                   "name": "김동률",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "L-smW5aa0vE",
@@ -723,7 +723,7 @@
                 {
                   "id": "cat-256",
                   "name": "김필",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "xa7-BrOzvIQ",
