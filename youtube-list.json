@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 276,
+  "categoryIdSeq": 277,
   "categories": [
+    {
+      "id": "cat-276",
+      "name": "KPopStar",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
