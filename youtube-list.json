@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 261,
+  "categoryIdSeq": 262,
   "categories": [
     {
       "id": "cat-260",
@@ -11,6 +11,13 @@
           "title": "Although We Say I Love You (사랑한다 말해도 (Feat. 이소라))"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-261",
+      "name": "아이유",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
