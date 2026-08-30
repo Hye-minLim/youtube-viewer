@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 259,
+  "categoryIdSeq": 260,
   "categories": [
+    {
+      "id": "cat-259",
+      "name": "여명",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
