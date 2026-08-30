@@ -34,7 +34,7 @@
         {
           "id": "cat-241",
           "name": "Piano",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -60,7 +60,7 @@
             {
               "id": "cat-244",
               "name": "Composers",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
