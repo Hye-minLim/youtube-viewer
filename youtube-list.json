@@ -16,7 +16,7 @@
     {
       "id": "cat-240",
       "name": "Classical",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -54,7 +54,7 @@
                 {
                   "id": "cat-247",
                   "name": "Beethoven",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": []
                 },
