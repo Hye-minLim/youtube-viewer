@@ -146,7 +146,12 @@
       "id": "cat-267",
       "name": "Minnie Riperton",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "KhaUnHJjS8A",
+          "title": "Lovin' You"
+        }
+      ],
       "children": []
     },
     {
