@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 258,
+  "categoryIdSeq": 259,
   "categories": [
+    {
+      "id": "cat-258",
+      "name": "지아",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
