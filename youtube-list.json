@@ -298,7 +298,7 @@
                 {
                   "id": "cat-284",
                   "name": "Artists",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": [
                     {
@@ -322,7 +322,7 @@
                 {
                   "id": "cat-282",
                   "name": "Composers",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": [
                     {
@@ -338,6 +338,13 @@
                       "children": []
                     }
                   ]
+                },
+                {
+                  "id": "cat-286",
+                  "name": "VA",
+                  "collapsed": false,
+                  "videos": [],
+                  "children": []
                 }
               ]
             },
@@ -3695,13 +3702,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-286",
-      "name": "VA",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     }
   ]
 }
