@@ -2,18 +2,6 @@
   "categoryIdSeq": 284,
   "categories": [
     {
-      "id": "cat-278",
-      "name": "Ed Sheeran",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "JGwWNGJdvx8",
-          "title": "Ed Sheeran - Shape of You (Official Music Video)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-276",
       "name": "KPopStar",
       "collapsed": true,
@@ -3185,6 +3173,18 @@
               "collapsed": false,
               "videos": [],
               "children": [
+                {
+                  "id": "cat-278",
+                  "name": "Ed Sheeran",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "JGwWNGJdvx8",
+                      "title": "Ed Sheeran - Shape of You (Official Music Video)"
+                    }
+                  ],
+                  "children": []
+                },
                 {
                   "id": "cat-269",
                   "name": "Ellie Goulding",
