@@ -2,13 +2,6 @@
   "categoryIdSeq": 257,
   "categories": [
     {
-      "id": "cat-256",
-      "name": "김필",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": true,
@@ -596,6 +589,13 @@
                       "title": "김진호 - 가족사진 [불후의 명곡2].20140524"
                     }
                   ],
+                  "children": []
+                },
+                {
+                  "id": "cat-256",
+                  "name": "김필",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 },
                 {
