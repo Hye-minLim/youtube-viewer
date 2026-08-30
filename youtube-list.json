@@ -2,13 +2,6 @@
   "categoryIdSeq": 259,
   "categories": [
     {
-      "id": "cat-258",
-      "name": "지아",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-240",
       "name": "Classical",
       "collapsed": true,
@@ -2061,7 +2054,7 @@
             {
               "id": "cat-10",
               "name": "ㅈ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2310,6 +2303,13 @@
                       "title": "말해줘 (Tell Me)"
                     }
                   ],
+                  "children": []
+                },
+                {
+                  "id": "cat-258",
+                  "name": "지아",
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 }
               ]
