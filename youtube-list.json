@@ -22,13 +22,13 @@
         {
           "id": "cat-241",
           "name": "Piano",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-242",
               "name": "Artists",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
