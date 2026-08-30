@@ -2,18 +2,6 @@
   "categoryIdSeq": 264,
   "categories": [
     {
-      "id": "cat-260",
-      "name": "김동률",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "L-smW5aa0vE",
-          "title": "Although We Say I Love You (사랑한다 말해도 (Feat. 이소라))"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-261",
       "name": "아이유",
       "collapsed": true,
@@ -433,7 +421,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -560,6 +548,18 @@
                     {
                       "videoId": "AKSg5cOqf8M",
                       "title": "김광진 (Kim Kwang Jin) - 편지 LIVE"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-260",
+                  "name": "김동률",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "L-smW5aa0vE",
+                      "title": "Although We Say I Love You (사랑한다 말해도 (Feat. 이소라))"
                     }
                   ],
                   "children": []
