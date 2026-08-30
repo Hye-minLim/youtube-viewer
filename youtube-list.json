@@ -131,7 +131,20 @@
       "name": "J",
       "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-266",
+          "name": "Jess Benko",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "4LQZyvbVMD4",
+              "title": "Jess Benko - A Soulmate Who Wasn't Meant to Be"
+            }
+          ],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-249",
@@ -180,18 +193,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-266",
-      "name": "Jess Benko",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "4LQZyvbVMD4",
-          "title": "Jess Benko - A Soulmate Who Wasn't Meant to Be"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-231",
