@@ -1555,7 +1555,7 @@
                     {
                       "id": "cat-32",
                       "name": "2집",
-                      "collapsed": true,
+                      "collapsed": false,
                       "videos": [
                         {
                           "videoId": "0bc9vS7Uhxg",
@@ -1635,7 +1635,7 @@
                     {
                       "id": "cat-232",
                       "name": "VA",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [
                         {
                           "videoId": "hGhtm2KropM",
