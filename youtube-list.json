@@ -2,18 +2,6 @@
   "categoryIdSeq": 264,
   "categories": [
     {
-      "id": "cat-261",
-      "name": "아이유",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "kj71jzO5U8k",
-          "title": "[풀버전] 아름답고 슬픈 노래.... 정재일(Jung jae il)x아이유(IU) ′개여울′♪ 너의 노래는(Your Song) 2회"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-262",
       "name": "폴킴",
       "collapsed": true,
@@ -1428,7 +1416,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1451,6 +1439,18 @@
                     {
                       "videoId": "pEIkKxtRC3A",
                       "title": "아이비(IVY) - 아름다운 아픔 [불후의명곡 레전드/Immortal Songs Legend] | KBS 130216 방송"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-261",
+                  "name": "아이유",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "kj71jzO5U8k",
+                      "title": "[풀버전] 아름답고 슬픈 노래.... 정재일(Jung jae il)x아이유(IU) ′개여울′♪ 너의 노래는(Your Song) 2회"
                     }
                   ],
                   "children": []
