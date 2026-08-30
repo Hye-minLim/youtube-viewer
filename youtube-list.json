@@ -29,7 +29,12 @@
       "id": "cat-262",
       "name": "폴킴",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Tz59LZIPs2I",
+          "title": "[폴킴 Playlist] 흩날리던 이슬비가 멈추면, 그때 그 자리에서"
+        }
+      ],
       "children": []
     },
     {
