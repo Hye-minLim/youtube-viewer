@@ -4,7 +4,7 @@
     {
       "id": "cat-278",
       "name": "Ed Sheeran",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "JGwWNGJdvx8",
@@ -16,7 +16,7 @@
     {
       "id": "cat-276",
       "name": "KPopStar",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "ewGygwTgfh8",
@@ -28,7 +28,7 @@
     {
       "id": "cat-280",
       "name": "Lauren Daigle",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "nThnLyjQgbA",
