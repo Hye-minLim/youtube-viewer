@@ -5,7 +5,12 @@
       "id": "cat-278",
       "name": "Ed Sheeran",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "JGwWNGJdvx8",
+          "title": "Ed Sheeran - Shape of You (Official Music Video)"
+        }
+      ],
       "children": []
     },
     {
