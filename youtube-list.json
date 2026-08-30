@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 256,
+  "categoryIdSeq": 257,
   "categories": [
+    {
+      "id": "cat-256",
+      "name": "김필",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-240",
       "name": "Classical",
