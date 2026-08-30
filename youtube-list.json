@@ -2,18 +2,6 @@
   "categoryIdSeq": 288,
   "categories": [
     {
-      "id": "cat-287",
-      "name": "노을",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "pX_Nv6gG6SY",
-          "title": "전부 너였다 Everything was You"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -832,6 +820,18 @@
                     {
                       "videoId": "Sin4PK3lL5o",
                       "title": "Nerd Connection (너드커넥션) - 대나무숲(Bamboo Forest) [Lyric Video]"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-287",
+                  "name": "노을",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "pX_Nv6gG6SY",
+                      "title": "전부 너였다 Everything was You"
                     }
                   ],
                   "children": []
