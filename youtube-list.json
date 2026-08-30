@@ -781,7 +781,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -1273,13 +1273,13 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-142",
                   "name": "사비나앤드론즈",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "u3yT_DEtF8k",
@@ -1376,6 +1376,10 @@
                     {
                       "videoId": "tZ1wqHKv-EI",
                       "title": "혜화동"
+                    },
+                    {
+                      "videoId": "WpfWKRpWD6g",
+                      "title": "Farewell Once Again (한번 더 이별)"
                     }
                   ],
                   "children": []
