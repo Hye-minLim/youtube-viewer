@@ -50,7 +50,12 @@
                   "id": "cat-245",
                   "name": "Chopin",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "9E6b3swbnWg",
+                      "title": "Chopin - Nocturne op.9 No.2"
+                    }
+                  ],
                   "children": []
                 },
                 {
