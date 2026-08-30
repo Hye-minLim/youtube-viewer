@@ -1937,7 +1937,12 @@
                   "id": "cat-257",
                   "name": "이재훈",
                   "collapsed": false,
-                  "videos": [],
+                  "videos": [
+                    {
+                      "videoId": "vH3iVfeoW-Q",
+                      "title": "[DC이재훈갤러리]이재훈 공연 가면 생기는 일 쿨 아로하 이재훈 라이브"
+                    }
+                  ],
                   "children": []
                 },
                 {
