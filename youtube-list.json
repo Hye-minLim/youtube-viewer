@@ -127,26 +127,6 @@
       "children": []
     },
     {
-      "id": "cat-275",
-      "name": "J",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-266",
-          "name": "Jess Benko",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "4LQZyvbVMD4",
-              "title": "Jess Benko - A Soulmate Who Wasn't Meant to Be"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-249",
       "name": "Jazz",
       "collapsed": true,
@@ -3202,6 +3182,26 @@
                     {
                       "videoId": "PeMvMNpvB5M",
                       "title": "Heart - \"Barracuda\" (1977)"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-275",
+              "name": "J",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-266",
+                  "name": "Jess Benko",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "4LQZyvbVMD4",
+                      "title": "Jess Benko - A Soulmate Who Wasn't Meant to Be"
                     }
                   ],
                   "children": []
