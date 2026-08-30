@@ -286,7 +286,7 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -305,7 +305,12 @@
                       "id": "cat-283",
                       "name": "J.S. Bach",
                       "collapsed": false,
-                      "videos": [],
+                      "videos": [
+                        {
+                          "videoId": "NZuRB6YYd18",
+                          "title": "J.S. Bach: Cello Suite No. 1 in G Major, BWV 1007: II. Allemande"
+                        }
+                      ],
                       "children": []
                     }
                   ]
