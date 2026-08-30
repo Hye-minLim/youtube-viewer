@@ -12,7 +12,15 @@
           "name": "Composers",
           "collapsed": false,
           "videos": [],
-          "children": []
+          "children": [
+            {
+              "id": "cat-283",
+              "name": "J.S. Bach",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -26,13 +34,6 @@
           "title": "Ed Sheeran - Shape of You (Official Music Video)"
         }
       ],
-      "children": []
-    },
-    {
-      "id": "cat-283",
-      "name": "J.S. Bach",
-      "collapsed": false,
-      "videos": [],
       "children": []
     },
     {
