@@ -3580,7 +3580,12 @@
       "id": "cat-279",
       "name": "Sting",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "dOjFcx3GJHg",
+          "title": "Shape Of My Heart"
+        }
+      ],
       "children": []
     },
     {
