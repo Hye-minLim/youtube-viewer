@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 278,
+  "categoryIdSeq": 279,
   "categories": [
+    {
+      "id": "cat-278",
+      "name": "Ed Sheeran",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-276",
       "name": "KPopStar",
