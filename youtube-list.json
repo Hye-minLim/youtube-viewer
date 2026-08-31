@@ -503,7 +503,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1305,7 +1305,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -1543,7 +1543,7 @@
                 {
                   "id": "cat-18",
                   "name": "신해철",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "_XGDMzIihCo",
@@ -3246,7 +3246,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
