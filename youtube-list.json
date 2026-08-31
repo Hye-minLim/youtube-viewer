@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 298,
+  "categoryIdSeq": 299,
   "categories": [
+    {
+      "id": "cat-298",
+      "name": "EverOldies",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
