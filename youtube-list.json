@@ -3841,19 +3841,20 @@
       "name": "O",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-296",
-      "name": "oofforoom",
-      "collapsed": false,
-      "videos": [
+      "children": [
         {
-          "videoId": "KEpp9cInMEk",
-          "title": "Shining Like That Summer"
+          "id": "cat-296",
+          "name": "oofforoom",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "KEpp9cInMEk",
+              "title": "Shining Like That Summer"
+            }
+          ],
+          "children": []
         }
-      ],
-      "children": []
+      ]
     },
     {
       "id": "cat-230",
