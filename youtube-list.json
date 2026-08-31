@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 302,
+  "categoryIdSeq": 303,
   "categories": [
     {
       "id": "cat-301",
@@ -3959,6 +3959,13 @@
           "children": []
         }
       ]
+    },
+    {
+      "id": "cat-302",
+      "name": "The Rebellions",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     }
   ]
 }
