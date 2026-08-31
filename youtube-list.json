@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 299,
+  "categoryIdSeq": 300,
   "categories": [
+    {
+      "id": "cat-299",
+      "name": "머무르(MEOMURU)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
