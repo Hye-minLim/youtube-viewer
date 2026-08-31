@@ -509,7 +509,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -643,7 +643,7 @@
                 {
                   "id": "cat-260",
                   "name": "김동률",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "BGBdzQhn2CM",
@@ -755,7 +755,7 @@
                 {
                   "id": "cat-256",
                   "name": "김필",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "g2cHIA_aWcA",
@@ -2343,7 +2343,7 @@
             {
               "id": "cat-10",
               "name": "ㅈ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
