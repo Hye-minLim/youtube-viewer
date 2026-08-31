@@ -2,18 +2,6 @@
   "categoryIdSeq": 295,
   "categories": [
     {
-      "id": "cat-291",
-      "name": "장기하와 얼굴들",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "QVezQA9h_L0",
-          "title": "유희열의 스케치북 - 장기하와 얼굴들 - 그러게 왜 그랬어. 20161126"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-294",
       "name": "demonflyingfox",
       "collapsed": false,
@@ -527,7 +515,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -2363,7 +2351,7 @@
             {
               "id": "cat-10",
               "name": "ㅈ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2386,6 +2374,18 @@
                     {
                       "videoId": "Kx8pJzPodsY",
                       "title": "Summer (뜨거운 여름밤은 가고 남은 건 볼품없지만)"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-291",
+                  "name": "장기하와 얼굴들",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "QVezQA9h_L0",
+                      "title": "유희열의 스케치북 - 장기하와 얼굴들 - 그러게 왜 그랬어. 20161126"
                     }
                   ],
                   "children": []
@@ -3250,7 +3250,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
