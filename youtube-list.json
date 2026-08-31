@@ -3043,7 +3043,7 @@
             {
               "id": "cat-252",
               "name": "Ambient",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3065,7 +3065,7 @@
             {
               "id": "cat-251",
               "name": "Piano",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
