@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 301,
+  "categoryIdSeq": 302,
   "categories": [
+    {
+      "id": "cat-301",
+      "name": "김나영",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-300",
       "name": "달빛정원",
