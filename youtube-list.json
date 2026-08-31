@@ -509,7 +509,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -1305,13 +1305,13 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-142",
                   "name": "사비나앤드론즈",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "u3yT_DEtF8k",
@@ -1359,7 +1359,7 @@
                 {
                   "id": "cat-288",
                   "name": "서영주",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "gW5rI8NGSxE",
@@ -1407,7 +1407,7 @@
                 {
                   "id": "cat-15",
                   "name": "성시경",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "_kr3bOs5s8U",
@@ -1455,7 +1455,7 @@
                 {
                   "id": "cat-226",
                   "name": "소향",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "hl9EXRLRZlI",
@@ -1479,8 +1479,12 @@
                 {
                   "id": "cat-167",
                   "name": "스텔라장",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
+                    {
+                      "videoId": "7vOI5ngFvbM",
+                      "title": "[Official MV] 스텔라장(Stella Jang) - 워크맨(WALKMAN)"
+                    },
                     {
                       "videoId": "XtYGk-kvWP0",
                       "title": "L’Amour, Les Baguettes, Paris"
