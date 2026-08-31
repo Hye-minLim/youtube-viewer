@@ -2,26 +2,6 @@
   "categoryIdSeq": 296,
   "categories": [
     {
-      "id": "cat-295",
-      "name": "D",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-294",
-          "name": "demonflyingfox",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "PUKa7tHbrFA",
-              "title": "Canadian Resistance Army - Lake Ontario (Official Music Video)"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -3302,6 +3282,26 @@
                     {
                       "videoId": "_ZRJrAHprBM",
                       "title": "I Fall In Love Too Easily"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "cat-295",
+              "name": "D",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-294",
+                  "name": "demonflyingfox",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "PUKa7tHbrFA",
+                      "title": "Canadian Resistance Army - Lake Ontario (Official Music Video)"
                     }
                   ],
                   "children": []
