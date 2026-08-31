@@ -4,7 +4,7 @@
     {
       "id": "cat-301",
       "name": "김나영",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "rQm7I3d9OOs",
@@ -16,7 +16,7 @@
     {
       "id": "cat-300",
       "name": "달빛정원",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "cTVxT61ooQI",
@@ -28,7 +28,7 @@
     {
       "id": "cat-299",
       "name": "머무르(MEOMURU)",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "GxChUrrY4bc",
@@ -40,7 +40,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
