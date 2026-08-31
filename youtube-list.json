@@ -2,18 +2,6 @@
   "categoryIdSeq": 290,
   "categories": [
     {
-      "id": "cat-288",
-      "name": "서영주",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "gW5rI8NGSxE",
-          "title": "[MV] Seo Youngju(서영주 of 너드커넥션) - Parallel Night(나란한 밤)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -1328,6 +1316,18 @@
                     {
                       "videoId": "ZgIpOQ18Aj4",
                       "title": "[BALLAD] 서영은 - 비오는 거리"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-288",
+                  "name": "서영주",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "gW5rI8NGSxE",
+                      "title": "[MV] Seo Youngju(서영주 of 너드커넥션) - Parallel Night(나란한 밤)"
                     }
                   ],
                   "children": []
