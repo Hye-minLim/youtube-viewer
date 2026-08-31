@@ -491,7 +491,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -3513,7 +3513,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3707,7 +3707,7 @@
             {
               "id": "cat-115",
               "name": "work",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "HfaIcB4Ogxk",
