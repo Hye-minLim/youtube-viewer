@@ -3964,7 +3964,12 @@
       "id": "cat-302",
       "name": "The Rebellions",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "iW9cR3DGMyw",
+          "title": "All This Time"
+        }
+      ],
       "children": []
     }
   ]
