@@ -286,7 +286,7 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3037,13 +3037,13 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-252",
               "name": "Ambient",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -3065,13 +3065,13 @@
             {
               "id": "cat-251",
               "name": "Piano",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
                   "id": "cat-228",
                   "name": "George Winston",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "_4wR-j2VV0E",
@@ -3087,7 +3087,7 @@
                 {
                   "id": "cat-254",
                   "name": "Yiruma",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": []
                 }
