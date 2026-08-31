@@ -2,18 +2,6 @@
   "categoryIdSeq": 299,
   "categories": [
     {
-      "id": "cat-298",
-      "name": "EverOldies",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "61A1-w2FgOA",
-          "title": "You Were My Everything"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -3331,7 +3319,7 @@
             {
               "id": "cat-194",
               "name": "E",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -3366,6 +3354,18 @@
                     {
                       "videoId": "fvVqPi92CcY",
                       "title": "Eric Clapton[70] 11. Tears in Heaven"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-298",
+                  "name": "EverOldies",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "61A1-w2FgOA",
+                      "title": "You Were My Everything"
                     }
                   ],
                   "children": []
