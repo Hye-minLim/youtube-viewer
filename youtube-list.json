@@ -5,7 +5,12 @@
       "id": "cat-298",
       "name": "EverOldies",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "61A1-w2FgOA",
+          "title": "You Were My Everything"
+        }
+      ],
       "children": []
     },
     {
