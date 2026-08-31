@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 290,
+  "categoryIdSeq": 291,
   "categories": [
+    {
+      "id": "cat-290",
+      "name": "DOHU(도후)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
