@@ -539,7 +539,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1341,7 +1341,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1452,6 +1452,10 @@
                     {
                       "videoId": "oEQTh959YDg",
                       "title": "[MV] Sung Si Kyung(성시경) _ Day dream(나의 하루처럼) (Sung Si Kyung(성시경) Ver.)"
+                    },
+                    {
+                      "videoId": "V1n8THAPJ1c",
+                      "title": "가사가 사람 마음 후벼 파네😭 이별 후 체념까지 담담하게 노래하는 성시경 #성시경의고막남친 ㅣ KBS 260814 방송"
                     },
                     {
                       "videoId": "yPzSRKbjnCw",
@@ -3282,7 +3286,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
