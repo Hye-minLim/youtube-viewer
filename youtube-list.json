@@ -298,7 +298,7 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -515,7 +515,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -805,7 +805,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -827,7 +827,7 @@
                 {
                   "id": "cat-8",
                   "name": "너드커넥션",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "x6OjMYWh4O0",
@@ -1309,7 +1309,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
