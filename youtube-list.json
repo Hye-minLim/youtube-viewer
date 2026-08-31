@@ -381,7 +381,12 @@
                       "id": "cat-293",
                       "name": "Hideyuki Hashimoto",
                       "collapsed": false,
-                      "videos": [],
+                      "videos": [
+                        {
+                          "videoId": "rF55AFrpOQA",
+                          "title": "spring - Hideyuki Hashimoto (Solo at Fluss)"
+                        }
+                      ],
                       "children": []
                     },
                     {
