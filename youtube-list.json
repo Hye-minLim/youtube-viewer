@@ -805,7 +805,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3744,6 +3744,10 @@
                 {
                   "videoId": "a27SFyC-g24",
                   "title": "❝감성 충전 100%❞ | 감성 인디 발라드 | 어쿠스틱 미친 감성보컬 | 🎶 가끔은 그리움"
+                },
+                {
+                  "videoId": "YnCqvSfdxX8",
+                  "title": "❝감성 충전 100%❞ | 감성 인디 발라드 | 어쿠스틱 미친 감성보컬 | 🎶기억은 거짓말을 한다"
                 },
                 {
                   "videoId": "MA9L5GA7rUY",
