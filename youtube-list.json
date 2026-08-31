@@ -322,7 +322,7 @@
                 {
                   "id": "cat-282",
                   "name": "Composers",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
@@ -342,7 +342,7 @@
                 {
                   "id": "cat-286",
                   "name": "VA",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "XVnsgxuEZaA",
