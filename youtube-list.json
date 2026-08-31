@@ -2,18 +2,6 @@
   "categoryIdSeq": 291,
   "categories": [
     {
-      "id": "cat-290",
-      "name": "DOHU(도후)",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "x2eAHeooyIk",
-          "title": "DOHU (도후) - 나쁜 날 MV"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -969,6 +957,18 @@
                   "children": []
                 },
                 {
+                  "id": "cat-290",
+                  "name": "DOHU(도후)",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "x2eAHeooyIk",
+                      "title": "DOHU (도후) - 나쁜 날 MV"
+                    }
+                  ],
+                  "children": []
+                },
+                {
                   "id": "cat-235",
                   "name": "SS501",
                   "collapsed": false,
@@ -1285,7 +1285,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -2323,7 +2323,7 @@
             {
               "id": "cat-10",
               "name": "ㅈ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
