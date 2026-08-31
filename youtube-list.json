@@ -3965,19 +3965,20 @@
       "name": "T",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-302",
-      "name": "The Rebellions",
-      "collapsed": true,
-      "videos": [
+      "children": [
         {
-          "videoId": "iW9cR3DGMyw",
-          "title": "All This Time"
+          "id": "cat-302",
+          "name": "The Rebellions",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "iW9cR3DGMyw",
+              "title": "All This Time"
+            }
+          ],
+          "children": []
         }
-      ],
-      "children": []
+      ]
     }
   ]
 }
