@@ -5,7 +5,12 @@
       "id": "cat-300",
       "name": "달빛정원",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "cTVxT61ooQI",
+          "title": "Autumn breeze"
+        }
+      ],
       "children": []
     },
     {
