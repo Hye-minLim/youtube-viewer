@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 291,
+  "categoryIdSeq": 293,
   "categories": [
+    {
+      "id": "cat-292",
+      "name": "들",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-291",
+      "name": "장기하와 얼굴들",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-231",
       "name": "Music",
