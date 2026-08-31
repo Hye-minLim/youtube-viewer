@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 300,
+  "categoryIdSeq": 301,
   "categories": [
+    {
+      "id": "cat-300",
+      "name": "달빛정원",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-299",
       "name": "머무르(MEOMURU)",
