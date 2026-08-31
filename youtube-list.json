@@ -503,7 +503,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -757,6 +757,10 @@
                   "name": "김필",
                   "collapsed": true,
                   "videos": [
+                    {
+                      "videoId": "g2cHIA_aWcA",
+                      "title": "[FEEL 秀 LIVE] 김필 (KIM FEEL) | '너에게' (원곡: 김광석)"
+                    },
                     {
                       "videoId": "xa7-BrOzvIQ",
                       "title": "🎤(ENG SUB) 김필 - '그날들' (원곡: 김광석) | 전설의 무대 아카이브K (7회. '대학로 소극장 학전' 편)"
@@ -3238,7 +3242,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
