@@ -3521,6 +3521,26 @@
               ]
             },
             {
+              "id": "cat-297",
+              "name": "O",
+              "collapsed": true,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-296",
+                  "name": "oofforoom",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "KEpp9cInMEk",
+                      "title": "Shining Like That Summer"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
               "id": "cat-273",
               "name": "R",
               "collapsed": true,
@@ -3833,26 +3853,6 @@
               "children": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "cat-297",
-      "name": "O",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-296",
-          "name": "oofforoom",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "KEpp9cInMEk",
-              "title": "Shining Like That Summer"
-            }
-          ],
-          "children": []
         }
       ]
     },
