@@ -6,19 +6,20 @@
       "name": "D",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-294",
-      "name": "demonflyingfox",
-      "collapsed": false,
-      "videos": [
+      "children": [
         {
-          "videoId": "PUKa7tHbrFA",
-          "title": "Canadian Resistance Army - Lake Ontario (Official Music Video)"
+          "id": "cat-294",
+          "name": "demonflyingfox",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "PUKa7tHbrFA",
+              "title": "Canadian Resistance Army - Lake Ontario (Official Music Video)"
+            }
+          ],
+          "children": []
         }
-      ],
-      "children": []
+      ]
     },
     {
       "id": "cat-231",
