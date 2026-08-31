@@ -3671,6 +3671,26 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-303",
+              "name": "T",
+              "collapsed": false,
+              "videos": [],
+              "children": [
+                {
+                  "id": "cat-302",
+                  "name": "The Rebellions",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "iW9cR3DGMyw",
+                      "title": "All This Time"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -3954,26 +3974,6 @@
             {
               "videoId": "Jf7c9evXccY",
               "title": "ChatGPT 최고의 트릭 4개 명령어"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": "cat-303",
-      "name": "T",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-302",
-          "name": "The Rebellions",
-          "collapsed": true,
-          "videos": [
-            {
-              "videoId": "iW9cR3DGMyw",
-              "title": "All This Time"
             }
           ],
           "children": []
