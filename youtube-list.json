@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 293,
+  "categoryIdSeq": 294,
   "categories": [
     {
       "id": "cat-291",
@@ -11,6 +11,13 @@
           "title": "유희열의 스케치북 - 장기하와 얼굴들 - 그러게 왜 그랬어. 20161126"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-293",
+      "name": "Hideyuki Hashimoto",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
