@@ -3513,7 +3513,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3691,7 +3691,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "s_O7q9RIep4",
@@ -3712,6 +3712,10 @@
                 {
                   "videoId": "HfaIcB4Ogxk",
                   "title": "[Playlist] 일하면서 틀어 놓기 좋은 잔잔한 8시간 재즈 플레이리스트 | Jazz 노래모음 카페 공부 독서 재택 코딩"
+                },
+                {
+                  "videoId": "S7q45IuSf1g",
+                  "title": "🌧️𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭ㅣ비가 내리는 계절ㅣ일본 영화 속 여름 이야기ㅣ일본영화 ost, jpop"
                 },
                 {
                   "videoId": "c-OZnleHaek",
