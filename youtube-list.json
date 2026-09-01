@@ -545,7 +545,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -579,7 +579,7 @@
                 {
                   "id": "cat-52",
                   "name": "검정치마",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "fQhGgzYLM4I",
@@ -603,7 +603,7 @@
                 {
                   "id": "cat-43",
                   "name": "공기남",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "RJYv0yyZfag",
@@ -679,7 +679,7 @@
                 {
                   "id": "cat-260",
                   "name": "김동률",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "BGBdzQhn2CM",
