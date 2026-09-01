@@ -40,7 +40,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -3932,6 +3932,10 @@
                 {
                   "videoId": "tfJf5G7QTjo",
                   "title": "Audiophile Best Voice Collection 2022 - Hi Res Audiophile 24 Bit"
+                },
+                {
+                  "videoId": "m-ksA2obnGc",
+                  "title": "Best of Chillstep 2025 | Cosmic Hippo | Coding Session"
                 }
               ],
               "children": []
