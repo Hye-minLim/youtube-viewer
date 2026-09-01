@@ -3863,7 +3863,7 @@
             {
               "id": "cat-57",
               "name": "AI",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "a27SFyC-g24",
@@ -3891,7 +3891,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "s_O7q9RIep4",
