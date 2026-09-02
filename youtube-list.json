@@ -3679,7 +3679,7 @@
             {
               "id": "cat-297",
               "name": "O",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3699,13 +3699,13 @@
             {
               "id": "cat-273",
               "name": "R",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-263",
                   "name": "Roland Faunte",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "ofNPHLwSYXQ",
