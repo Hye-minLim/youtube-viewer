@@ -2,18 +2,6 @@
   "categoryIdSeq": 304,
   "categories": [
     {
-      "id": "cat-300",
-      "name": "달빛정원",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "cTVxT61ooQI",
-          "title": "Autumn breeze"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-299",
       "name": "머무르(MEOMURU)",
       "collapsed": true,
@@ -1029,9 +1017,21 @@
             {
               "id": "cat-5",
               "name": "ㄷ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
+                {
+                  "id": "cat-300",
+                  "name": "달빛정원",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "cTVxT61ooQI",
+                      "title": "Autumn breeze"
+                    }
+                  ],
+                  "children": []
+                },
                 {
                   "id": "cat-189",
                   "name": "더 크로스(The Cross)",
