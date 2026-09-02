@@ -2,18 +2,6 @@
   "categoryIdSeq": 304,
   "categories": [
     {
-      "id": "cat-299",
-      "name": "머무르(MEOMURU)",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "GxChUrrY4bc",
-          "title": "꿈꾸던 어른이 되었나요?"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-231",
       "name": "Music",
       "collapsed": false,
@@ -1196,6 +1184,18 @@
               "collapsed": true,
               "videos": [],
               "children": [
+                {
+                  "id": "cat-299",
+                  "name": "머무르(MEOMURU)",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "GxChUrrY4bc",
+                      "title": "꿈꾸던 어른이 되었나요?"
+                    }
+                  ],
+                  "children": []
+                },
                 {
                   "id": "cat-75",
                   "name": "모세",
