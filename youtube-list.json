@@ -286,7 +286,7 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3797,7 +3797,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
