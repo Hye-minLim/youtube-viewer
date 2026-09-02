@@ -4,7 +4,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -3797,7 +3797,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
