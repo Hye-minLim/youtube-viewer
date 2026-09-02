@@ -2,18 +2,6 @@
   "categoryIdSeq": 304,
   "categories": [
     {
-      "id": "cat-301",
-      "name": "김나영",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "rQm7I3d9OOs",
-          "title": "먼데이 키즈 이진성을 울려버린 김나영의 라이브 ‘봄 내음보다 너를’ | 먼키의 발자국 Live Clip"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-300",
       "name": "달빛정원",
       "collapsed": true,
@@ -545,7 +533,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -704,6 +692,18 @@
                     {
                       "videoId": "AKSg5cOqf8M",
                       "title": "김광진 (Kim Kwang Jin) - 편지 LIVE"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-301",
+                  "name": "김나영",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "rQm7I3d9OOs",
+                      "title": "먼데이 키즈 이진성을 울려버린 김나영의 라이브 ‘봄 내음보다 너를’ | 먼키의 발자국 Live Clip"
                     }
                   ],
                   "children": []
