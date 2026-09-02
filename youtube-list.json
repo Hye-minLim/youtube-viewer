@@ -10,13 +10,13 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-153",
               "name": "기타CCM",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "Hy-zRZQo79Q",
