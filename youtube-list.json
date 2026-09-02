@@ -362,13 +362,13 @@
                 {
                   "id": "cat-242",
                   "name": "Artists",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": [
                     {
                       "id": "cat-293",
                       "name": "Hideyuki Hashimoto",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [
                         {
                           "videoId": "rF55AFrpOQA",
