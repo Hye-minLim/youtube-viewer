@@ -466,7 +466,7 @@
             {
               "id": "cat-250",
               "name": "Avant-garde",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -486,7 +486,7 @@
             {
               "id": "cat-271",
               "name": "Straight-ahead Jazz",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
