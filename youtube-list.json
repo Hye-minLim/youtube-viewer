@@ -502,6 +502,13 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-304",
+              "name": "VA",
+              "collapsed": false,
+              "videos": [],
+              "children": []
             }
           ]
         },
@@ -4092,13 +4099,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-304",
-      "name": "VA",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     }
   ]
 }
