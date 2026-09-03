@@ -4,8 +4,13 @@
     {
       "id": "cat-305",
       "name": "Movie",
-      "collapsed": true,
-      "videos": [],
+      "collapsed": false,
+      "videos": [
+        {
+          "videoId": "s8Aze7DxPDE",
+          "title": "단 10분 만에 많은 생각 들게 하는 여운 지리는 인생작 명작 애니..🔥 [결말포함]"
+        }
+      ],
       "children": [
         {
           "id": "cat-306",
@@ -28,7 +33,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
