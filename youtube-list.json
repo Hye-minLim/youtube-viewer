@@ -2,22 +2,6 @@
   "categoryIdSeq": 311,
   "categories": [
     {
-      "id": "cat-307",
-      "name": "임재범",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "v3YBe7UImPw",
-          "title": "[임재범 공식채널]임재범 100 minutes, 20 songs BEST 20곡 연속듣기 고음질 Live ver. YIMJAEBEUM PALYLIST 베스트 노래모음"
-        },
-        {
-          "videoId": "9XyO-2y-xCg",
-          "title": "[K-POP Yjb] 임재범 - Shape of my heart"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -44,7 +28,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -575,7 +559,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -1836,7 +1820,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2470,6 +2454,22 @@
                     {
                       "videoId": "-mZwFdTvAjo",
                       "title": "[Official Audio] 일기예보 - 좋아좋아"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-307",
+                  "name": "임재범",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "v3YBe7UImPw",
+                      "title": "[임재범 공식채널]임재범 100 minutes, 20 songs BEST 20곡 연속듣기 고음질 Live ver. YIMJAEBEUM PALYLIST 베스트 노래모음"
+                    },
+                    {
+                      "videoId": "9XyO-2y-xCg",
+                      "title": "[K-POP Yjb] 임재범 - Shape of my heart"
                     }
                   ],
                   "children": []
