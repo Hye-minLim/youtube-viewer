@@ -3503,7 +3503,7 @@
             {
               "id": "cat-194",
               "name": "E",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -3743,7 +3743,7 @@
             {
               "id": "cat-273",
               "name": "R",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
