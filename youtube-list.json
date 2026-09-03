@@ -2,20 +2,6 @@
   "categoryIdSeq": 313,
   "categories": [
     {
-      "id": "cat-312",
-      "name": "브",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-311",
-      "name": "서브",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -4185,9 +4171,17 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-311",
+          "name": "서브",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        }
+      ]
     }
   ]
 }
