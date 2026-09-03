@@ -20,13 +20,13 @@
     {
       "id": "cat-308",
       "name": "J-POP",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
           "id": "cat-309",
           "name": "이노우에 요스이 × 다마키 코지 (안전지대 보컬)",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "5Xmvke1L58E",
