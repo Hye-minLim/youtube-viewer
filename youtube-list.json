@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 309,
+  "categoryIdSeq": 310,
   "categories": [
+    {
+      "id": "cat-309",
+      "name": "이노우에 요스이 × 다마키 코지 (안전지대 보컬)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-307",
       "name": "임재범",
