@@ -2,20 +2,6 @@
   "categoryIdSeq": 316,
   "categories": [
     {
-      "id": "cat-313",
-      "name": "Backhand",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-314",
-      "name": "Forehand",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -4188,6 +4174,20 @@
       "collapsed": false,
       "videos": [],
       "children": [
+        {
+          "id": "cat-313",
+          "name": "Backhand",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
+        {
+          "id": "cat-314",
+          "name": "Forehand",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
         {
           "id": "cat-311",
           "name": "Serve",
