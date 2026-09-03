@@ -10,7 +10,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -100,7 +100,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "sF6wGi6oh84",
@@ -455,8 +455,13 @@
         {
           "id": "cat-249",
           "name": "Jazz",
-          "collapsed": true,
-          "videos": [],
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "XPKpOBGsoOs",
+              "title": "[Playlist] A Collection of Jazz from Haruki Murakami's 'Norwegian Wood’"
+            }
+          ],
           "children": [
             {
               "id": "cat-250",
