@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 308,
+  "categoryIdSeq": 309,
   "categories": [
     {
       "id": "cat-307",
@@ -15,6 +15,13 @@
           "title": "[K-POP Yjb] 임재범 - Shape of my heart"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-308",
+      "name": "J-POP",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
