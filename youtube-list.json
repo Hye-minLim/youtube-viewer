@@ -456,12 +456,7 @@
           "id": "cat-249",
           "name": "Jazz",
           "collapsed": false,
-          "videos": [
-            {
-              "videoId": "XPKpOBGsoOs",
-              "title": "[Playlist] A Collection of Jazz from Haruki Murakami's 'Norwegian Wood’"
-            }
-          ],
+          "videos": [],
           "children": [
             {
               "id": "cat-250",
@@ -507,7 +502,12 @@
               "id": "cat-304",
               "name": "VA",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "XPKpOBGsoOs",
+                  "title": "[Playlist] A Collection of Jazz from Haruki Murakami's 'Norwegian Wood’"
+                }
+              ],
               "children": []
             }
           ]
