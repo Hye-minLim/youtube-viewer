@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 317,
+  "categoryIdSeq": 318,
   "categories": [
+    {
+      "id": "cat-317",
+      "name": "Japan",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
