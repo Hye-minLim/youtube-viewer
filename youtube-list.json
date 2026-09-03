@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 307,
+  "categoryIdSeq": 308,
   "categories": [
+    {
+      "id": "cat-307",
+      "name": "임재범",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
