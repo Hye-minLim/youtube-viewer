@@ -1,9 +1,16 @@
 {
-  "categoryIdSeq": 314,
+  "categoryIdSeq": 315,
   "categories": [
     {
       "id": "cat-313",
       "name": "Backhand",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-314",
+      "name": "Forehand",
       "collapsed": false,
       "videos": [],
       "children": []
