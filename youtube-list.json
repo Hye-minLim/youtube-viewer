@@ -3322,17 +3322,21 @@
         {
           "id": "cat-46",
           "name": "OST",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-125",
               "name": "8월의 크리스마스",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "PPiMK96NuYY",
                   "title": "이제서야 공개된 [8월의 크리스마스] 한석규 OST 뮤직비디오 공개♥"
+                },
+                {
+                  "videoId": "AX3q9UzlUu4",
+                  "title": "혼자 남은 밤 - 김광석 (ft. 8월의 크리스마스)"
                 }
               ],
               "children": []
