@@ -4156,7 +4156,12 @@
       "id": "cat-230",
       "name": "Study",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Y4N1R33lzKU",
+          "title": "(무료 배포) 제안서 2주 → 20분으로 단축! RFP 넣으면 PPT 자동 완성 | 입찰 제안서 AI 에이전트"
+        }
+      ],
       "children": [
         {
           "id": "cat-225",
