@@ -2,13 +2,6 @@
   "categoryIdSeq": 330,
   "categories": [
     {
-      "id": "cat-329",
-      "name": "다큐",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -4270,6 +4263,13 @@
         }
       ],
       "children": [
+        {
+          "id": "cat-329",
+          "name": "다큐",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
         {
           "id": "cat-328",
           "name": "독서",
