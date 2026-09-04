@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 319,
+  "categoryIdSeq": 320,
   "categories": [
     {
       "id": "cat-318",
@@ -4266,6 +4266,13 @@
           "children": []
         }
       ]
+    },
+    {
+      "id": "cat-319",
+      "name": "X-Japan",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     }
   ]
 }
