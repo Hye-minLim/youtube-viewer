@@ -17,20 +17,7 @@
               "title": "단 10분 만에 많은 생각 들게 하는 여운 지리는 인생작 명작 애니..🔥 [결말포함]"
             }
           ],
-          "children": [
-            {
-              "id": "cat-319",
-              "name": "X-Japan",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "ZRaQ17bpzKI",
-                  "title": "X JAPAN - Say Anything"
-                }
-              ],
-              "children": []
-            }
-          ]
+          "children": []
         },
         {
           "id": "cat-306",
@@ -504,7 +491,7 @@
         {
           "id": "cat-308",
           "name": "J-POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -515,6 +502,18 @@
                 {
                   "videoId": "5Xmvke1L58E",
                   "title": "☀️다시 오지 않을 그 여름을 사랑했어🌊 ｜ 夏の終りのハーモニー 나츠노 오와리노 하모니📻 [가사해석]"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-319",
+              "name": "X-Japan",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "ZRaQ17bpzKI",
+                  "title": "X JAPAN - Say Anything"
                 }
               ],
               "children": []
