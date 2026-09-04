@@ -5,7 +5,12 @@
       "id": "cat-321",
       "name": "김나영",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "YTi7pjVcUoo",
+          "title": "사랑이 다른 사랑으로 잊혀지네"
+        }
+      ],
       "children": []
     },
     {
