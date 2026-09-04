@@ -1,6 +1,20 @@
 {
-  "categoryIdSeq": 326,
+  "categoryIdSeq": 328,
   "categories": [
+    {
+      "id": "cat-326",
+      "name": "노브레인",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-327",
+      "name": "인",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
