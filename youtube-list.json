@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 320,
+  "categoryIdSeq": 321,
   "categories": [
+    {
+      "id": "cat-320",
+      "name": "변진섭",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
