@@ -2,18 +2,6 @@
   "categoryIdSeq": 320,
   "categories": [
     {
-      "id": "cat-318",
-      "name": "Apple",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "yFrxjJhX6II",
-          "title": "돈 더 안써도 됩니다😲 꽉 찬 아이클라우드 용량  + 아이폰 사진 관리! 새로운 해결 방법이 있습니다"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": false,
@@ -4183,6 +4171,18 @@
         }
       ],
       "children": [
+        {
+          "id": "cat-318",
+          "name": "Apple",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "yFrxjJhX6II",
+              "title": "돈 더 안써도 됩니다😲 꽉 찬 아이클라우드 용량  + 아이폰 사진 관리! 새로운 해결 방법이 있습니다"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-225",
           "name": "Claude",
