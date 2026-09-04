@@ -4254,10 +4254,6 @@
       "collapsed": false,
       "videos": [
         {
-          "videoId": "VEq_V5USmRg",
-          "title": "'보기만 해도 피가되고 살이된다' EBS 레전드 명작 주식의 시대, 돈의 얼굴, 자본주의 핵심 몰아보기｜다큐프라임｜#골라듄다큐"
-        },
-        {
           "videoId": "Y4N1R33lzKU",
           "title": "(무료 배포) 제안서 2주 → 20분으로 단축! RFP 넣으면 PPT 자동 완성 | 입찰 제안서 AI 에이전트"
         }
@@ -4267,7 +4263,12 @@
           "id": "cat-329",
           "name": "다큐",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "VEq_V5USmRg",
+              "title": "'보기만 해도 피가되고 살이된다' EBS 레전드 명작 주식의 시대, 돈의 얼굴, 자본주의 핵심 몰아보기｜다큐프라임｜#골라듄다큐"
+            }
+          ],
           "children": []
         },
         {
