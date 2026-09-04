@@ -26,18 +26,6 @@
       "children": []
     },
     {
-      "id": "cat-322",
-      "name": "JK김동욱",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "ZRW5XI67TUE",
-          "title": "오늘 그댈 사랑 합니다"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -2655,7 +2643,7 @@
             {
               "id": "cat-10",
               "name": "ㅈ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2926,6 +2914,18 @@
                     {
                       "videoId": "IoszUlePZz4",
                       "title": "[고화질원본] 라이브 미쳤다...😲 지아의 '술 한잔해요' | 케전드 | KBS 121012 방송"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-322",
+                  "name": "JK김동욱",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "ZRW5XI67TUE",
+                      "title": "오늘 그댈 사랑 합니다"
                     }
                   ],
                   "children": []
