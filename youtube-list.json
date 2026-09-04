@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 322,
+  "categoryIdSeq": 323,
   "categories": [
     {
       "id": "cat-321",
@@ -23,6 +23,13 @@
           "title": "변진섭, 그대 내게 다시 │ 월간 더 스테이지 [230930]"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-322",
+      "name": "JK김동욱",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
