@@ -4260,10 +4260,6 @@
         {
           "videoId": "Y4N1R33lzKU",
           "title": "(무료 배포) 제안서 2주 → 20분으로 단축! RFP 넣으면 PPT 자동 완성 | 입찰 제안서 AI 에이전트"
-        },
-        {
-          "videoId": "DFO4S14aTs4",
-          "title": "책을 제대로 읽으려면 이렇게 해야 합니다 | 서울대 최나야 교수 | 샤로잡다 시즌2 (ENG CC)"
         }
       ],
       "children": [
@@ -4271,7 +4267,12 @@
           "id": "cat-328",
           "name": "독서",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "DFO4S14aTs4",
+              "title": "책을 제대로 읽으려면 이렇게 해야 합니다 | 서울대 최나야 교수 | 샤로잡다 시즌2 (ENG CC)"
+            }
+          ],
           "children": []
         },
         {
