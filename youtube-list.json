@@ -2,18 +2,6 @@
   "categoryIdSeq": 326,
   "categories": [
     {
-      "id": "cat-324",
-      "name": "영어",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "8BDqe2Mlv-E",
-          "title": "영어가 늘기 시작한 건 이 방법을 알고부터였습니다"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -4251,7 +4239,7 @@
     {
       "id": "cat-230",
       "name": "Study",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [
         {
           "videoId": "VEq_V5USmRg",
@@ -4263,6 +4251,18 @@
         }
       ],
       "children": [
+        {
+          "id": "cat-324",
+          "name": "영어",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "8BDqe2Mlv-E",
+              "title": "영어가 늘기 시작한 건 이 방법을 알고부터였습니다"
+            }
+          ],
+          "children": []
+        },
         {
           "id": "cat-318",
           "name": "Apple",
