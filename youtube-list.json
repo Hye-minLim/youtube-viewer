@@ -4,7 +4,7 @@
     {
       "id": "cat-325",
       "name": "어",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": []
     },
@@ -12,7 +12,12 @@
       "id": "cat-324",
       "name": "영어",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8BDqe2Mlv-E",
+          "title": "영어가 늘기 시작한 건 이 방법을 알고부터였습니다"
+        }
+      ],
       "children": []
     },
     {
