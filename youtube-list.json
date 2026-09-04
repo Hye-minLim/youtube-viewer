@@ -4266,7 +4266,7 @@
         {
           "id": "cat-328",
           "name": "독서",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "DFO4S14aTs4",
@@ -4278,7 +4278,7 @@
         {
           "id": "cat-324",
           "name": "영어",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "8BDqe2Mlv-E",
@@ -4290,7 +4290,7 @@
         {
           "id": "cat-318",
           "name": "Apple",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "yFrxjJhX6II",
