@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 321,
+  "categoryIdSeq": 322,
   "categories": [
+    {
+      "id": "cat-321",
+      "name": "김나영",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-320",
       "name": "변진섭",
