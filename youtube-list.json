@@ -627,7 +627,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1041,7 +1041,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
