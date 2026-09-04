@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 318,
+  "categoryIdSeq": 319,
   "categories": [
+    {
+      "id": "cat-318",
+      "name": "Apple",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
