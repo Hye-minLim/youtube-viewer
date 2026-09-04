@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 323,
+  "categoryIdSeq": 324,
   "categories": [
     {
       "id": "cat-321",
@@ -23,6 +23,13 @@
           "title": "변진섭, 그대 내게 다시 │ 월간 더 스테이지 [230930]"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-323",
+      "name": "엔니오 모리코네",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
