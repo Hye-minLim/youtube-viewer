@@ -2,18 +2,6 @@
   "categoryIdSeq": 324,
   "categories": [
     {
-      "id": "cat-321",
-      "name": "김나영",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "YTi7pjVcUoo",
-          "title": "사랑이 다른 사랑으로 잊혀지네"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -52,7 +40,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -609,7 +597,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -780,6 +768,18 @@
                     {
                       "videoId": "rQm7I3d9OOs",
                       "title": "먼데이 키즈 이진성을 울려버린 김나영의 라이브 ‘봄 내음보다 너를’ | 먼키의 발자국 Live Clip"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-321",
+                  "name": "김나영",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "YTi7pjVcUoo",
+                      "title": "사랑이 다른 사랑으로 잊혀지네"
                     }
                   ],
                   "children": []
