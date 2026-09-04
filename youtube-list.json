@@ -17,7 +17,20 @@
               "title": "단 10분 만에 많은 생각 들게 하는 여운 지리는 인생작 명작 애니..🔥 [결말포함]"
             }
           ],
-          "children": []
+          "children": [
+            {
+              "id": "cat-319",
+              "name": "X-Japan",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "ZRaQ17bpzKI",
+                  "title": "X JAPAN - Say Anything"
+                }
+              ],
+              "children": []
+            }
+          ]
         },
         {
           "id": "cat-306",
@@ -4266,18 +4279,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-319",
-      "name": "X-Japan",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "ZRaQ17bpzKI",
-          "title": "X JAPAN - Say Anything"
-        }
-      ],
-      "children": []
     }
   ]
 }
