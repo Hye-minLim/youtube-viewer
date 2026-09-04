@@ -2,18 +2,6 @@
   "categoryIdSeq": 328,
   "categories": [
     {
-      "id": "cat-326",
-      "name": "노브레인",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "8kev1AlZDpU",
-          "title": "우리가 바로 조선의 펑크다🔥 30년째 세상과 싸우는 노브레인의 록 인생🤘#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.358 | tvN 260902 방송"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -1029,7 +1017,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1051,7 +1039,7 @@
                 {
                   "id": "cat-8",
                   "name": "너드커넥션",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "x6OjMYWh4O0",
@@ -1076,6 +1064,18 @@
                     {
                       "videoId": "Sin4PK3lL5o",
                       "title": "Nerd Connection (너드커넥션) - 대나무숲(Bamboo Forest) [Lyric Video]"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-326",
+                  "name": "노브레인",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "8kev1AlZDpU",
+                      "title": "우리가 바로 조선의 펑크다🔥 30년째 세상과 싸우는 노브레인의 록 인생🤘#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.358 | tvN 260902 방송"
                     }
                   ],
                   "children": []
