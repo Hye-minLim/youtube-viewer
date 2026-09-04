@@ -4,7 +4,7 @@
     {
       "id": "cat-321",
       "name": "김나영",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "YTi7pjVcUoo",
@@ -16,7 +16,7 @@
     {
       "id": "cat-320",
       "name": "변진섭",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "7_vv54LYvZo",
@@ -35,7 +35,7 @@
     {
       "id": "cat-322",
       "name": "JK김동욱",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "ZRW5XI67TUE",
