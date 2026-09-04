@@ -14,18 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-320",
-      "name": "변진섭",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "7_vv54LYvZo",
-          "title": "변진섭, 그대 내게 다시 │ 월간 더 스테이지 [230930]"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -1333,7 +1321,7 @@
             {
               "id": "cat-12",
               "name": "ㅂ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1460,6 +1448,18 @@
                     {
                       "videoId": "eqQWHE-4_F4",
                       "title": "어디로 모셔드릴까요 - 백아 [더 시즌즈-최정훈의 밤의공원] | KBS 230721 방송"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-320",
+                  "name": "변진섭",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "7_vv54LYvZo",
+                      "title": "변진섭, 그대 내게 다시 │ 월간 더 스테이지 [230930]"
                     }
                   ],
                   "children": []
