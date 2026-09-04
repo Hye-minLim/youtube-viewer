@@ -4271,7 +4271,12 @@
       "id": "cat-319",
       "name": "X-Japan",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ZRaQ17bpzKI",
+          "title": "X JAPAN - Say Anything"
+        }
+      ],
       "children": []
     }
   ]
