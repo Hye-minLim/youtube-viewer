@@ -40,7 +40,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -491,7 +491,7 @@
         {
           "id": "cat-308",
           "name": "J-POP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -591,7 +591,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
