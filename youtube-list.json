@@ -52,7 +52,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -4251,7 +4251,7 @@
     {
       "id": "cat-230",
       "name": "Study",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "VEq_V5USmRg",
