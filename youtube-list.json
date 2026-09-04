@@ -2,13 +2,6 @@
   "categoryIdSeq": 326,
   "categories": [
     {
-      "id": "cat-325",
-      "name": "어",
-      "collapsed": true,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-324",
       "name": "영어",
       "collapsed": false,
