@@ -29,7 +29,12 @@
       "id": "cat-323",
       "name": "엔니오 모리코네",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "lAeGsutpuVo",
+          "title": "lAeGsutpuVo"
+        }
+      ],
       "children": []
     },
     {
