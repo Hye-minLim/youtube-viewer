@@ -3981,13 +3981,13 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-136",
               "name": "예능",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
