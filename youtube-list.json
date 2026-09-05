@@ -3993,13 +3993,13 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-136",
               "name": "예능",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -4073,7 +4073,7 @@
                 {
                   "id": "cat-35",
                   "name": "해피투게더",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "uPUqjzjjnxw",
