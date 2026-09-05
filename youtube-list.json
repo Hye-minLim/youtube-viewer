@@ -3993,7 +3993,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -4086,6 +4086,10 @@
                     {
                       "videoId": "5c3XFvFWPhU",
                       "title": "마감요정 - Golden  I [해피투게더🍀혼자가 아니어서 좋아] | KBS 260904 방송"
+                    },
+                    {
+                      "videoId": "g2nVvWGDNrY",
+                      "title": "썸데이 - 고백 I [해피투게더🍀혼자가 아니어서 좋아] | KBS 260904 방송"
                     },
                     {
                       "videoId": "HSlgwVItwkQ",
@@ -4251,7 +4255,7 @@
     {
       "id": "cat-230",
       "name": "Study",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "Y4N1R33lzKU",
