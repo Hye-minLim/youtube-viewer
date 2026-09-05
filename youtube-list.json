@@ -4352,7 +4352,7 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -4404,6 +4404,13 @@
           "children": []
         },
         {
+          "id": "cat-330",
+          "name": "UnitTurn",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
+        {
           "id": "cat-315",
           "name": "Volley",
           "collapsed": false,
@@ -4411,13 +4418,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-330",
-      "name": "UnitTurn",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     }
   ]
 }
