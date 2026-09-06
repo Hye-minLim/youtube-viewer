@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 331,
+  "categoryIdSeq": 332,
   "categories": [
     {
       "id": "cat-305",
@@ -4255,6 +4255,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-331",
+      "name": "Split step",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
