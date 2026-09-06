@@ -4374,11 +4374,15 @@
         {
           "id": "cat-314",
           "name": "Forehand",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "Gdq5c48lBBg",
               "title": "[테니스 포핸드] 스윙의 시작 유닛턴"
+            },
+            {
+              "videoId": "duR1YwLmy1Y",
+              "title": "🎾높은공 처리, 이게 핵심이네… #테니스 #tennis"
             },
             {
               "videoId": "0Hli7GS4i4c",
