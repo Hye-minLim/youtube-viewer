@@ -4419,7 +4419,12 @@
           "id": "cat-331",
           "name": "Split step",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "JbKH96L16JI",
+              "title": "테린이 99%가 모르는 올바른 스플릿스텝 타이밍 찾기!"
+            }
+          ],
           "children": []
         },
         {
