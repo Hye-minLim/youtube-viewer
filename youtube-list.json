@@ -4257,13 +4257,6 @@
       ]
     },
     {
-      "id": "cat-331",
-      "name": "Split step",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-230",
       "name": "Study",
       "collapsed": true,
@@ -4420,6 +4413,13 @@
               "title": "카타랭킹1위 동호인슈퍼 서브슬로모션"
             }
           ],
+          "children": []
+        },
+        {
+          "id": "cat-331",
+          "name": "Split step",
+          "collapsed": false,
+          "videos": [],
           "children": []
         },
         {
