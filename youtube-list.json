@@ -46,7 +46,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -136,7 +136,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "sF6wGi6oh84",
@@ -164,7 +164,7 @@
             {
               "id": "cat-143",
               "name": "예람워십",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "9ypxWDqUNL4",
@@ -1071,7 +1071,7 @@
                 {
                   "id": "cat-326",
                   "name": "노브레인",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "8kev1AlZDpU",
@@ -1083,7 +1083,7 @@
                 {
                   "id": "cat-287",
                   "name": "노을",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "pX_Nv6gG6SY",
@@ -4167,7 +4167,7 @@
             {
               "id": "cat-57",
               "name": "AI",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "a27SFyC-g24",
@@ -4215,7 +4215,7 @@
             {
               "id": "cat-115",
               "name": "work",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "HfaIcB4Ogxk",
