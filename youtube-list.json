@@ -46,7 +46,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -136,7 +136,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "sF6wGi6oh84",
