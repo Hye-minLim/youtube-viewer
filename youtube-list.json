@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 336,
+  "categoryIdSeq": 337,
   "categories": [
+    {
+      "id": "cat-336",
+      "name": "레비스탕스",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-335",
       "name": "우미쉘",
