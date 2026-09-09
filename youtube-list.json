@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 335,
+  "categoryIdSeq": 336,
   "categories": [
+    {
+      "id": "cat-335",
+      "name": "우미쉘",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
