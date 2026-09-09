@@ -3465,13 +3465,13 @@
             {
               "id": "cat-251",
               "name": "Piano",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-228",
                   "name": "George Winston",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "_4wR-j2VV0E",
