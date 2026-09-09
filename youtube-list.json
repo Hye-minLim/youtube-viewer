@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 333,
+  "categoryIdSeq": 334,
   "categories": [
+    {
+      "id": "cat-333",
+      "name": "염평안",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
