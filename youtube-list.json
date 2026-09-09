@@ -53,7 +53,12 @@
               "id": "cat-334",
               "name": "강중현",
               "collapsed": false,
-              "videos": [],
+              "videos": [
+                {
+                  "videoId": "GhALgYC_r10",
+                  "title": "송축해 내 영혼(10,000 Reasons) by 강중현"
+                }
+              ],
               "children": []
             },
             {
