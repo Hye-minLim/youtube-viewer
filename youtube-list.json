@@ -599,7 +599,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -1936,7 +1936,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2126,7 +2126,7 @@
                 {
                   "id": "cat-333",
                   "name": "염평안",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "rNHRynF2354",
@@ -2286,7 +2286,7 @@
                 {
                   "id": "cat-332",
                   "name": "유다빈밴드",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "i2IK99Kli4E",
