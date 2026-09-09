@@ -2,13 +2,6 @@
   "categoryIdSeq": 335,
   "categories": [
     {
-      "id": "cat-334",
-      "name": "강중현",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -56,6 +49,13 @@
           "collapsed": false,
           "videos": [],
           "children": [
+            {
+              "id": "cat-334",
+              "name": "강중현",
+              "collapsed": false,
+              "videos": [],
+              "children": []
+            },
             {
               "id": "cat-153",
               "name": "기타CCM",
