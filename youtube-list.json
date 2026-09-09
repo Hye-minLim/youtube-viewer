@@ -2,18 +2,6 @@
   "categoryIdSeq": 333,
   "categories": [
     {
-      "id": "cat-332",
-      "name": "유다빈밴드",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "i2IK99Kli4E",
-          "title": "유다빈밴드 - 좋지 아니한가 [더 시즌즈-이영지의 레인보우] | KBS 250207 방송"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -1920,7 +1908,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2254,6 +2242,18 @@
                       "children": []
                     }
                   ]
+                },
+                {
+                  "id": "cat-332",
+                  "name": "유다빈밴드",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "i2IK99Kli4E",
+                      "title": "유다빈밴드 - 좋지 아니한가 [더 시즌즈-이영지의 레인보우] | KBS 250207 방송"
+                    }
+                  ],
+                  "children": []
                 },
                 {
                   "id": "cat-49",
