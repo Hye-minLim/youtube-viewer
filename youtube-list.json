@@ -2,18 +2,6 @@
   "categoryIdSeq": 337,
   "categories": [
     {
-      "id": "cat-335",
-      "name": "우미쉘",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "G9OMG1bL5m8",
-          "title": "하나님의 열심 - 우미쉘"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -281,6 +269,18 @@
                 {
                   "videoId": "vZn5ZP64VGU",
                   "title": "오벧 - ⌜주시는 이도 거두시는 이도⌝ Official Music Video"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-335",
+              "name": "우미쉘",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "G9OMG1bL5m8",
+                  "title": "하나님의 열심 - 우미쉘"
                 }
               ],
               "children": []
