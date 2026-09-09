@@ -597,7 +597,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1577,7 +1577,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -1679,7 +1679,7 @@
                 {
                   "id": "cat-15",
                   "name": "성시경",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "_kr3bOs5s8U",
