@@ -2,18 +2,6 @@
   "categoryIdSeq": 337,
   "categories": [
     {
-      "id": "cat-336",
-      "name": "레비스탕스",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "YjoOcljc_fQ",
-          "title": "주님 다시 오실 때까지 (Till The Lord Comes Back)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-335",
       "name": "우미쉘",
       "collapsed": false,
@@ -161,6 +149,18 @@
                 {
                   "videoId": "QkHKe6bPPE0",
                   "title": "러빔 - 하나님의 열심 M/V (Zeal of GOD 타이틀곡)"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-336",
+              "name": "레비스탕스",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "YjoOcljc_fQ",
+                  "title": "주님 다시 오실 때까지 (Till The Lord Comes Back)"
                 }
               ],
               "children": []
