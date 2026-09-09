@@ -2,18 +2,6 @@
   "categoryIdSeq": 334,
   "categories": [
     {
-      "id": "cat-333",
-      "name": "염평안",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "rNHRynF2354",
-          "title": "염평안 - 슬프다(feat.김은주) Official Music Video"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -2103,6 +2091,18 @@
                     {
                       "videoId": "micwaspzNoo",
                       "title": "스피드왕 번개 OST ‘우린 달려간다’ cover by TULA"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-333",
+                  "name": "염평안",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "rNHRynF2354",
+                      "title": "염평안 - 슬프다(feat.김은주) Official Music Video"
                     }
                   ],
                   "children": []
