@@ -276,7 +276,7 @@
             {
               "id": "cat-335",
               "name": "우미쉘",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "G9OMG1bL5m8",
@@ -288,7 +288,7 @@
             {
               "id": "cat-158",
               "name": "위클레시아",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "A8LQ6dICDVE",
