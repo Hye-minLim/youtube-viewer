@@ -2202,7 +2202,7 @@
                 {
                   "id": "cat-333",
                   "name": "염평안",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "rNHRynF2354",
@@ -2214,7 +2214,7 @@
                 {
                   "id": "cat-29",
                   "name": "오태호",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
