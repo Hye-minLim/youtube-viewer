@@ -88,7 +88,7 @@
             {
               "id": "cat-148",
               "name": "김대환",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "LJ0GD1ThDTo",
@@ -176,7 +176,7 @@
             {
               "id": "cat-145",
               "name": "송솔나무",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "pNqSF4DYN4s",
@@ -276,7 +276,7 @@
             {
               "id": "cat-335",
               "name": "우미쉘",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "G9OMG1bL5m8",
