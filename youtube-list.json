@@ -2,13 +2,6 @@
   "categoryIdSeq": 338,
   "categories": [
     {
-      "id": "cat-337",
-      "name": "스트레칭",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -4494,6 +4487,13 @@
       "collapsed": false,
       "videos": [],
       "children": [
+        {
+          "id": "cat-337",
+          "name": "스트레칭",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
         {
           "id": "cat-313",
           "name": "Backhand",
