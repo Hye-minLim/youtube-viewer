@@ -13,6 +13,13 @@
       ],
       "children": [
         {
+          "id": "cat-340",
+          "name": "foreign",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        },
+        {
           "id": "cat-317",
           "name": "Japan",
           "collapsed": true,
@@ -4558,13 +4565,6 @@
               "title": "Topspin Forehand"
             }
           ],
-          "children": []
-        },
-        {
-          "id": "cat-340",
-          "name": "foreign",
-          "collapsed": false,
-          "videos": [],
           "children": []
         },
         {
