@@ -681,7 +681,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3569,7 +3569,7 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
