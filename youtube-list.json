@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 339,
+  "categoryIdSeq": 340,
   "categories": [
     {
       "id": "cat-305",
@@ -4404,6 +4404,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-339",
+      "name": "Stretching",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
