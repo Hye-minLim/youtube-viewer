@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 338,
+  "categoryIdSeq": 339,
   "categories": [
+    {
+      "id": "cat-338",
+      "name": "권진아",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
