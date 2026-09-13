@@ -2,18 +2,6 @@
   "categoryIdSeq": 339,
   "categories": [
     {
-      "id": "cat-338",
-      "name": "권진아",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "KBmtrePxMC4",
-          "title": "[선공개] 권진아 - 외로움이라는 건 | 들어봐! 유리의 숲2 EP.08 권진아 편"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": false,
@@ -692,13 +680,13 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -833,6 +821,18 @@
                     {
                       "videoId": "CfwQ2fe7LH0",
                       "title": "250706 권은비 KWONEUNBI 'Crazy in Love' 4K 60P 직캠 @워터밤 by DaftTaengk"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-338",
+                  "name": "권진아",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "KBmtrePxMC4",
+                      "title": "[선공개] 권진아 - 외로움이라는 건 | 들어봐! 유리의 숲2 EP.08 권진아 편"
                     }
                   ],
                   "children": []
