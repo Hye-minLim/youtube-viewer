@@ -3630,13 +3630,13 @@
         {
           "id": "cat-46",
           "name": "OST",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-125",
               "name": "8월의 크리스마스",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "PPiMK96NuYY",
