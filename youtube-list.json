@@ -4,19 +4,19 @@
     {
       "id": "cat-305",
       "name": "Movie",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "r-5ev7fpk9E",
-          "title": "삶의 의미를 어른의 시선으로 바라본 명작 영화"
-        }
-      ],
+      "collapsed": true,
+      "videos": [],
       "children": [
         {
           "id": "cat-340",
-          "name": "foreign",
-          "collapsed": false,
-          "videos": [],
+          "name": "Foreign",
+          "collapsed": true,
+          "videos": [
+            {
+              "videoId": "r-5ev7fpk9E",
+              "title": "삶의 의미를 어른의 시선으로 바라본 명작 영화"
+            }
+          ],
           "children": []
         },
         {
@@ -52,7 +52,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -4508,7 +4508,7 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
