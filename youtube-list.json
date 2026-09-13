@@ -27,7 +27,7 @@
         {
           "id": "cat-317",
           "name": "Japan",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "s8Aze7DxPDE",
@@ -39,7 +39,7 @@
         {
           "id": "cat-306",
           "name": "KOREA",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "C0-Gghp-HAo",
