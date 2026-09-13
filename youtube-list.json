@@ -172,7 +172,7 @@
             {
               "id": "cat-145",
               "name": "송솔나무",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "pNqSF4DYN4s",
@@ -188,7 +188,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "sF6wGi6oh84",
@@ -216,7 +216,7 @@
             {
               "id": "cat-143",
               "name": "예람워십",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "9ypxWDqUNL4",
