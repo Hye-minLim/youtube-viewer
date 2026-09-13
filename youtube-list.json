@@ -16,8 +16,13 @@
     {
       "id": "cat-305",
       "name": "Movie",
-      "collapsed": true,
-      "videos": [],
+      "collapsed": false,
+      "videos": [
+        {
+          "videoId": "r-5ev7fpk9E",
+          "title": "삶의 의미를 어른의 시선으로 바라본 명작 영화"
+        }
+      ],
       "children": [
         {
           "id": "cat-317",
