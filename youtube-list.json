@@ -4501,13 +4501,13 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-337",
           "name": "스트레칭",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "Qn7NHoyDiuA",
