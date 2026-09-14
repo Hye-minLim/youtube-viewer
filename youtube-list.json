@@ -418,25 +418,25 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-281",
               "name": "Cello",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
                   "id": "cat-284",
                   "name": "Artists",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": [
                     {
                       "id": "cat-285",
                       "name": "Jacqueline du Pré",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [
                         {
                           "videoId": "llB7NaWLUc4",
@@ -488,7 +488,7 @@
             {
               "id": "cat-241",
               "name": "Piano",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3654,7 +3654,7 @@
         {
           "id": "cat-46",
           "name": "OST",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
