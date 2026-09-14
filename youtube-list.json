@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 341,
+  "categoryIdSeq": 342,
   "categories": [
+    {
+      "id": "cat-341",
+      "name": "Lofi Jazz",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
