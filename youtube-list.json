@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 342,
+  "categoryIdSeq": 341,
   "categories": [
     {
       "id": "cat-305",
@@ -58,7 +58,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -651,18 +651,6 @@
               ]
             },
             {
-              "id": "cat-341",
-              "name": "Lofi Jazz",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "nv_2rz5BFDA",
-                  "title": "Just Thinking...Retro Jazz"
-                }
-              ],
-              "children": []
-            },
-            {
               "id": "cat-271",
               "name": "Straight-ahead Jazz",
               "collapsed": true,
@@ -705,7 +693,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -847,7 +835,7 @@
                 {
                   "id": "cat-338",
                   "name": "권진아",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "KBmtrePxMC4",
@@ -859,7 +847,7 @@
                 {
                   "id": "cat-130",
                   "name": "그_냥(J_ust)",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "7y1ZtplLd0I",
@@ -1145,7 +1133,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1153,10 +1141,6 @@
                   "name": "나얼",
                   "collapsed": true,
                   "videos": [
-                    {
-                      "videoId": "LMlUxWKYuZM",
-                      "title": "[VOICE MV]나얼(NAUL) -걸음을 멈추는 날(2026 Remastered Ver.)-"
-                    },
                     {
                       "videoId": "Q_YdBd05FJs",
                       "title": "나얼 (NAUL) - 같은 시간 속의 너 MV"
@@ -2052,7 +2036,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -2244,10 +2228,6 @@
                   "name": "염평안",
                   "collapsed": false,
                   "videos": [
-                    {
-                      "videoId": "ofVCopUDnuY",
-                      "title": "염평안 - 삶은 기다림이어서(feat.정상원) Official Music Video"
-                    },
                     {
                       "videoId": "rNHRynF2354",
                       "title": "염평안 - 슬프다(feat.김은주) Official Music Video"
@@ -2468,10 +2448,6 @@
                   "name": "윤미래",
                   "collapsed": true,
                   "videos": [
-                    {
-                      "videoId": "7oLB2DnZmBA",
-                      "title": "\"23만View\" 시간이 흐른 뒤 - 윤미래 x 로제 / Modern Pop R&B [AI Edit]"
-                    },
                     {
                       "videoId": "zGgIzbahCZ0",
                       "title": "As Time Goes by"
@@ -3679,12 +3655,7 @@
           "id": "cat-46",
           "name": "OST",
           "collapsed": true,
-          "videos": [
-            {
-              "videoId": "IpRFEeds0_w",
-              "title": "[HD] Johnny Depp in Iconic Cameo Scene | \"Creep\" by Radiohead | Happily Ever After (2004)"
-            }
-          ],
+          "videos": [],
           "children": [
             {
               "id": "cat-125",
@@ -3767,7 +3738,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -4433,14 +4404,6 @@
                 {
                   "videoId": "ydTWqRoIjjQ",
                   "title": "Headphones On, World Off • Grind & Groove x Cosmic Hippo | Hyperfocus"
-                },
-                {
-                  "videoId": "PB8ZrGinWi0",
-                  "title": "Monk Mode  | Lock in focus  ( Music 174 Hz)"
-                },
-                {
-                  "videoId": "wEj7xYyj9n4",
-                  "title": "Ólafur Arnalds, Nanna - Particles (Island Songs VI)"
                 }
               ],
               "children": []
@@ -4522,10 +4485,6 @@
               "title": "[한영자막] 꼭 봐야할 데미스 하사비스의 60분 AI 강연"
             },
             {
-              "videoId": "5asHxWq929s",
-              "title": "상위1%의 메모앱, ‘옵시디언 기초 6분 가이드’"
-            },
-            {
               "videoId": "hv-sjN65p4U",
               "title": "클로드 프롬프트 300개 바로 복사해 가세요. 카테고리별로 정리했습니다 #클로드 #프롬프트 #claude #prompt"
             },
@@ -4550,16 +4509,7 @@
       "id": "cat-310",
       "name": "Tennis",
       "collapsed": true,
-      "videos": [
-        {
-          "videoId": "ZNkIj_jA3WI",
-          "title": "[키키홀릭 헌정영상] 이 세상 최고의 테니스 경기를 원한다면 '윔블던 2008 페더러 vs 나달'"
-        },
-        {
-          "videoId": "q5CsdG9xFOk",
-          "title": "스매시에도 다양한 종류가 있다!? 테니스 레전드가 알려주는 실전용 스매시 비법! [ENG SUB]"
-        }
-      ],
+      "videos": [],
       "children": [
         {
           "id": "cat-313",
@@ -4613,10 +4563,6 @@
             {
               "videoId": "M-tpTJKq5yA",
               "title": "포핸드가 안 느는 근본적인 이유 3가지"
-            },
-            {
-              "videoId": "UiC01A2L1KQ",
-              "title": "Federer footwork and Swing."
             },
             {
               "videoId": "6-Wf3sVgOo8",
