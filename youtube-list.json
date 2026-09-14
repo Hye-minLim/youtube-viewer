@@ -2,18 +2,6 @@
   "categoryIdSeq": 342,
   "categories": [
     {
-      "id": "cat-341",
-      "name": "Lofi Jazz",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "nv_2rz5BFDA",
-          "title": "Just Thinking...Retro Jazz"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -663,6 +651,18 @@
               ]
             },
             {
+              "id": "cat-341",
+              "name": "Lofi Jazz",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "nv_2rz5BFDA",
+                  "title": "Just Thinking...Retro Jazz"
+                }
+              ],
+              "children": []
+            },
+            {
               "id": "cat-271",
               "name": "Straight-ahead Jazz",
               "collapsed": true,
@@ -699,7 +699,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3750,7 +3750,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
