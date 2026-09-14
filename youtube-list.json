@@ -3654,13 +3654,13 @@
         {
           "id": "cat-46",
           "name": "OST",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-125",
               "name": "8월의 크리스마스",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "PPiMK96NuYY",
@@ -3738,7 +3738,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3751,7 +3751,7 @@
             {
               "id": "cat-140",
               "name": "B",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
