@@ -4521,7 +4521,12 @@
       "id": "cat-310",
       "name": "Tennis",
       "collapsed": true,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "q5CsdG9xFOk",
+          "title": "스매시에도 다양한 종류가 있다!? 테니스 레전드가 알려주는 실전용 스매시 비법! [ENG SUB]"
+        }
+      ],
       "children": [
         {
           "id": "cat-313",
