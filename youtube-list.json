@@ -5,7 +5,12 @@
       "id": "cat-341",
       "name": "Lofi Jazz",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "nv_2rz5BFDA",
+          "title": "Just Thinking...Retro Jazz"
+        }
+      ],
       "children": []
     },
     {
