@@ -1075,7 +1075,7 @@
                 {
                   "id": "cat-256",
                   "name": "김필",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "Xx_AK0mbEiU",
@@ -1133,7 +1133,7 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1155,7 +1155,7 @@
                 {
                   "id": "cat-8",
                   "name": "너드커넥션",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "x6OjMYWh4O0",
