@@ -4,13 +4,13 @@
     {
       "id": "cat-305",
       "name": "Movie",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
           "id": "cat-340",
           "name": "Foreign",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "r-5ev7fpk9E",
