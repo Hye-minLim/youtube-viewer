@@ -751,7 +751,7 @@
                 {
                   "id": "cat-52",
                   "name": "검정치마",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "fQhGgzYLM4I",
@@ -775,7 +775,7 @@
                 {
                   "id": "cat-43",
                   "name": "공기남",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "RJYv0yyZfag",
@@ -835,7 +835,7 @@
                 {
                   "id": "cat-65",
                   "name": "곽태풍",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "eX8LLlxk090",
