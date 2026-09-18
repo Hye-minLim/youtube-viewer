@@ -1159,7 +1159,7 @@
                 {
                   "id": "cat-100",
                   "name": "나얼",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "Q_YdBd05FJs",
@@ -1175,7 +1175,7 @@
                 {
                   "id": "cat-8",
                   "name": "너드커넥션",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "x6OjMYWh4O0",
@@ -1207,7 +1207,7 @@
                 {
                   "id": "cat-326",
                   "name": "노브레인",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "8kev1AlZDpU",
