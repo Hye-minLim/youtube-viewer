@@ -907,7 +907,7 @@
                 {
                   "id": "cat-321",
                   "name": "김나영",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "YTi7pjVcUoo",
@@ -919,7 +919,7 @@
                 {
                   "id": "cat-260",
                   "name": "김동률",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "BGBdzQhn2CM",
@@ -959,7 +959,7 @@
                 {
                   "id": "cat-45",
                   "name": "김동희",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "h-hRKYjPYlU",
