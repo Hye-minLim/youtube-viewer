@@ -456,7 +456,7 @@
                     {
                       "id": "cat-285",
                       "name": "Jacqueline du Pré",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [
                         {
                           "videoId": "llB7NaWLUc4",
@@ -474,7 +474,7 @@
                 {
                   "id": "cat-282",
                   "name": "Composers",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
