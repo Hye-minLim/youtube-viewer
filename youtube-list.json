@@ -3613,7 +3613,7 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3632,7 +3632,7 @@
                 {
                   "id": "cat-255",
                   "name": "Kitaro",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": []
                 }
