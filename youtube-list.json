@@ -1153,13 +1153,13 @@
             {
               "id": "cat-4",
               "name": "ㄴ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
                   "id": "cat-100",
                   "name": "나얼",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "Q_YdBd05FJs",
@@ -1261,7 +1261,7 @@
             {
               "id": "cat-5",
               "name": "ㄷ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1407,7 +1407,7 @@
                 {
                   "id": "cat-99",
                   "name": "류민희",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "MJilENf7JN0",
