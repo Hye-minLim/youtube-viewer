@@ -895,7 +895,7 @@
                 {
                   "id": "cat-321",
                   "name": "김나영",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "rQm7I3d9OOs",
@@ -979,7 +979,7 @@
                 {
                   "id": "cat-196",
                   "name": "김성재",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "By2b_Lu4Yzw",
@@ -991,7 +991,7 @@
                 {
                   "id": "cat-74",
                   "name": "김연우",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "EOkDBP1c_ak",
