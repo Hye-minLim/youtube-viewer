@@ -895,7 +895,7 @@
                 {
                   "id": "cat-301",
                   "name": "김나영",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "rQm7I3d9OOs",
@@ -907,7 +907,7 @@
                 {
                   "id": "cat-321",
                   "name": "김나영",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "YTi7pjVcUoo",
