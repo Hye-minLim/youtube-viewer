@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 343,
+  "categoryIdSeq": 344,
   "categories": [
+    {
+      "id": "cat-343",
+      "name": "소연(SOYEON)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-342",
       "name": "에피톤 프로젝트",
