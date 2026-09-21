@@ -1,10 +1,10 @@
 {
-  "categoryIdSeq": 344,
+  "categoryIdSeq": 345,
   "categories": [
     {
       "id": "cat-341",
       "name": "A",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "K9z9TKPSmkg",
@@ -4699,6 +4699,13 @@
           "children": []
         }
       ]
+    },
+    {
+      "id": "cat-344",
+      "name": "WELOVE",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     }
   ]
 }
