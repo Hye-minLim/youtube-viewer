@@ -86,7 +86,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -256,7 +256,7 @@
             {
               "id": "cat-143",
               "name": "예람워십",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "9ypxWDqUNL4",
@@ -4221,7 +4221,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
