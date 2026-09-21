@@ -2218,7 +2218,7 @@
                 {
                   "id": "cat-259",
                   "name": "여명",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "NHEV9uJuIWE",
@@ -2254,7 +2254,7 @@
                 {
                   "id": "cat-29",
                   "name": "오태호",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": [
                     {
