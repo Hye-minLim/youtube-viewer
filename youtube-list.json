@@ -14,18 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-342",
-      "name": "에피톤 프로젝트",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "1vAZRYq8-Ns",
-          "title": "에피톤 프로젝트 (Epitone Project) - 첫사랑 Official M/V"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-341",
       "name": "A",
       "collapsed": true,
@@ -2235,6 +2223,18 @@
                     {
                       "videoId": "Ok2heXkkvAw",
                       "title": "The last love (마지막 사랑)"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-342",
+                  "name": "에피톤 프로젝트",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "1vAZRYq8-Ns",
+                      "title": "에피톤 프로젝트 (Epitone Project) - 첫사랑 Official M/V"
                     }
                   ],
                   "children": []
