@@ -80,7 +80,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -4703,7 +4703,7 @@
     {
       "id": "cat-344",
       "name": "WELOVE",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": []
     }
