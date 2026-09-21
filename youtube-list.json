@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 345,
+  "categoryIdSeq": 346,
   "categories": [
+    {
+      "id": "cat-345",
+      "name": "뉴엘(newl)",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-341",
       "name": "A",
