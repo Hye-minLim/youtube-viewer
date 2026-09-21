@@ -32,7 +32,7 @@
     {
       "id": "cat-305",
       "name": "Movie",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
