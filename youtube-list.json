@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 342,
+  "categoryIdSeq": 343,
   "categories": [
+    {
+      "id": "cat-342",
+      "name": "에피톤 프로젝트",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-341",
       "name": "A",
