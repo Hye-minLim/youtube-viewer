@@ -2,18 +2,6 @@
   "categoryIdSeq": 344,
   "categories": [
     {
-      "id": "cat-343",
-      "name": "소연(SOYEON)",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "PG7e-u7PjiU",
-          "title": "'퇴사할게여' 부르고 '신데렐라'까지 😱 무대에서 훨훨 나는 이팔청춘 전소연 #성시경의고막남친 ㅣ KBS 260918 방송"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-341",
       "name": "A",
       "collapsed": true,
@@ -1721,7 +1709,7 @@
             {
               "id": "cat-14",
               "name": "ㅅ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -1888,6 +1876,18 @@
                     {
                       "videoId": "osW9zwWRRNA",
                       "title": "[MV] SUNGHWI(성휘) _ I didn’t say my last goodbye yet(마지막 인사는 아직 못했는데요)"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-343",
+                  "name": "소연(SOYEON)",
+                  "collapsed": false,
+                  "videos": [
+                    {
+                      "videoId": "PG7e-u7PjiU",
+                      "title": "'퇴사할게여' 부르고 '신데렐라'까지 😱 무대에서 훨훨 나는 이팔청춘 전소연 #성시경의고막남친 ㅣ KBS 260918 방송"
                     }
                   ],
                   "children": []
