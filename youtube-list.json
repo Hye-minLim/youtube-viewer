@@ -448,6 +448,22 @@
                 }
               ],
               "children": []
+            },
+            {
+              "id": "cat-344",
+              "name": "WELOVE",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "4jH3MqokNMw",
+                  "title": "WELOVE - 공감하시네 (God, He Shares Our Pain/Eng Sub)"
+                },
+                {
+                  "videoId": "yhiCeCJ2zbU",
+                  "title": "WELOVE - 낮은 곳으로 (To the Lowest Place/Eng, CHN Sub)"
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -4699,22 +4715,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "id": "cat-344",
-      "name": "WELOVE",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "4jH3MqokNMw",
-          "title": "WELOVE - 공감하시네 (God, He Shares Our Pain/Eng Sub)"
-        },
-        {
-          "videoId": "yhiCeCJ2zbU",
-          "title": "WELOVE - 낮은 곳으로 (To the Lowest Place/Eng, CHN Sub)"
-        }
-      ],
-      "children": []
     }
   ]
 }
