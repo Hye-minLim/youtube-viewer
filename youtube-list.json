@@ -5,7 +5,12 @@
       "id": "cat-345",
       "name": "뉴엘(newl)",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "LwOPcwPag2Q",
+          "title": "모두 다 내게 맡겨라 - 뉴엘(newl)"
+        }
+      ],
       "children": []
     },
     {
