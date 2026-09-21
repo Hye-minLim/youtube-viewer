@@ -4704,7 +4704,12 @@
       "id": "cat-344",
       "name": "WELOVE",
       "collapsed": true,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "yhiCeCJ2zbU",
+          "title": "WELOVE - 낮은 곳으로 (To the Lowest Place/Eng, CHN Sub)"
+        }
+      ],
       "children": []
     }
   ]
