@@ -57,7 +57,12 @@
       "id": "cat-346",
       "name": "ETC",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "NHiDv1XV3xg",
+          "title": "[테알남 테니스] 혼자서 몰래 테니스실력 100% 늘리는 셀프 연습 방법( 벽치기연습)"
+        }
+      ],
       "children": []
     },
     {
