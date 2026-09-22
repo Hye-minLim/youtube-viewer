@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 346,
+  "categoryIdSeq": 347,
   "categories": [
     {
       "id": "cat-345",
@@ -51,6 +51,13 @@
           "title": "wudubeam - green thoughts"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-346",
+      "name": "ETC",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
