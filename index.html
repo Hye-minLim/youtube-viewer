@@ -22,8 +22,23 @@
     max-width: 45%;
     background: #1f1f1f;
     color: #eee;
-    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
     border-right: 3px solid #444;
+  }
+  .list-scroll {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+  }
+  /* 최하단: 주소 바로 재생 폼 */
+  .direct-form {
+    border-top: 1px solid #333;
+    border-bottom: none;
+  }
+  .direct-form + .add-error {
+    padding-top: 0;
+    background: #111;
   }
   .list-pane h2 {
     font-size: 16px;
@@ -233,6 +248,7 @@
 <div class="container">
   <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
   <div class="list-pane">
+    <div class="list-scroll">
     <h2>유튜브 목록</h2>
 
     <div class="add-form category-form">
@@ -254,6 +270,14 @@
     </div>
 
     <ul class="tree" id="videoTree"></ul>
+    </div>
+
+    <!-- 최하단: 주소 입력 시 오른쪽 화면에 바로 재생 -->
+    <div class="add-form direct-form">
+      <input type="text" id="directUrlInput" placeholder="유튜브 주소 입력 후 바로 보기">
+      <button id="directPlayBtn">보기</button>
+    </div>
+    <div class="add-error" id="directError"></div>
   </div>
 
   <!-- 우클릭 컨텍스트 메뉴 -->
@@ -706,6 +730,27 @@
   addBtn.addEventListener('click', handleAdd);
   urlInput.addEventListener('keydown', function (e) {
     if (e.key === 'Enter') handleAdd();
+  });
+
+  // ---- 주소 바로 재생 (목록에 추가하지 않고 오른쪽 화면에 출력) ----
+  const directUrlInput = document.getElementById('directUrlInput');
+  const directPlayBtn = document.getElementById('directPlayBtn');
+  const directError = document.getElementById('directError');
+
+  function handleDirectPlay() {
+    const videoId = extractVideoId(directUrlInput.value.trim());
+    if (!videoId) {
+      directError.textContent = '올바른 유튜브 주소를 입력하세요.';
+      directError.style.display = 'block';
+      return;
+    }
+    directError.style.display = 'none';
+    playVideo(videoId, null);
+  }
+
+  directPlayBtn.addEventListener('click', handleDirectPlay);
+  directUrlInput.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') handleDirectPlay();
   });
 
   // ---- 저장 / 불러오기 (하위 카테고리까지 재귀적으로 처리) ----
