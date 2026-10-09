@@ -269,6 +269,19 @@
       <input type="file" id="importFile" accept="application/json" style="display:none">
     </div>
 
+    <div class="add-form">
+      <input type="password" id="ghToken" placeholder="GitHub 토큰 (이 저장소 전용 Fine-grained PAT)">
+    </div>
+    <div class="add-form">
+      <input type="text" id="ghOwner" placeholder="GitHub 계정명">
+      <input type="text" id="ghRepo" placeholder="저장소 이름">
+    </div>
+    <div class="add-form io-form">
+      <button id="ghSaveBtn">GitHub에 저장</button>
+      <button id="ghLoadBtn">GitHub에서 불러오기</button>
+    </div>
+    <div class="add-error" id="ghError"></div>
+
     <ul class="tree" id="videoTree"></ul>
     </div>
 
@@ -304,9 +317,17 @@
   const exportBtn = document.getElementById('exportBtn');
   const importBtn = document.getElementById('importBtn');
   const importFile = document.getElementById('importFile');
+  const ghToken = document.getElementById('ghToken');
+  const ghOwner = document.getElementById('ghOwner');
+  const ghRepo = document.getElementById('ghRepo');
+  const ghSaveBtn = document.getElementById('ghSaveBtn');
+  const ghLoadBtn = document.getElementById('ghLoadBtn');
+  const ghError = document.getElementById('ghError');
 
   let categoryIdSeq = 1;
   const STORAGE_KEY = 'youtubeViewerData';
+  const GH_CONFIG_KEY = 'ghSyncConfig';
+  const GH_FILE_PATH = 'youtube-list.json';
 
   function extractVideoId(url) {
     const patterns = [
@@ -786,6 +807,7 @@
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(serializeState()));
     } catch (e) {}
+    scheduleGithubPush();
   }
 
   function buildCategoryTree(cat, parentUl) {
@@ -858,6 +880,146 @@
       this.value = '';
     }
   });
+
+  // ---- GitHub 동기화 (Contents API로 저장소의 youtube-list.json을 직접 읽고 씀) ----
+  function getGhConfig() {
+    try {
+      return JSON.parse(localStorage.getItem(GH_CONFIG_KEY));
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function loadGhConfig() {
+    const cfg = getGhConfig();
+    if (cfg) {
+      ghToken.value = cfg.token || '';
+      ghOwner.value = cfg.owner || '';
+      ghRepo.value = cfg.repo || '';
+    }
+    return cfg;
+  }
+
+  function saveGhConfig() {
+    const cfg = {
+      token: ghToken.value.trim(),
+      owner: ghOwner.value.trim(),
+      repo: ghRepo.value.trim()
+    };
+    try { localStorage.setItem(GH_CONFIG_KEY, JSON.stringify(cfg)); } catch (e) {}
+    return cfg;
+  }
+
+  function utf8ToBase64(str) {
+    return btoa(unescape(encodeURIComponent(str)));
+  }
+
+  function base64ToUtf8(b64) {
+    return decodeURIComponent(escape(atob(b64)));
+  }
+
+  function showGhError(msg) {
+    ghError.textContent = msg;
+    ghError.style.display = 'block';
+  }
+
+  function hideGhError() {
+    ghError.style.display = 'none';
+  }
+
+  async function githubSave(silent) {
+    const cfg = saveGhConfig();
+    if (!cfg.token || !cfg.owner || !cfg.repo) {
+      if (!silent) showGhError('토큰, 계정명, 저장소 이름을 모두 입력하세요.');
+      return;
+    }
+    hideGhError();
+
+    const apiUrl = 'https://api.github.com/repos/' + cfg.owner + '/' + cfg.repo + '/contents/' + GH_FILE_PATH;
+    try {
+      let sha = null;
+      const getRes = await fetch(apiUrl, {
+        headers: { Authorization: 'token ' + cfg.token, Accept: 'application/vnd.github+json' }
+      });
+      if (getRes.ok) {
+        const getData = await getRes.json();
+        sha = getData.sha;
+      } else if (getRes.status !== 404) {
+        const errData = await getRes.json().catch(function () { return {}; });
+        throw new Error(errData.message || ('GET 실패: ' + getRes.status));
+      }
+
+      const body = {
+        message: 'Update youtube list',
+        content: utf8ToBase64(JSON.stringify(serializeState(), null, 2))
+      };
+      if (sha) body.sha = sha;
+
+      const putRes = await fetch(apiUrl, {
+        method: 'PUT',
+        headers: {
+          Authorization: 'token ' + cfg.token,
+          Accept: 'application/vnd.github+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(body)
+      });
+      if (!putRes.ok) {
+        const errData = await putRes.json().catch(function () { return {}; });
+        throw new Error(errData.message || ('저장 실패: ' + putRes.status));
+      }
+      if (!silent) alert('GitHub에 저장했습니다.');
+    } catch (err) {
+      showGhError('GitHub 저장 오류: ' + err.message);
+    }
+  }
+
+  async function githubLoad() {
+    const cfg = saveGhConfig();
+    if (!cfg.token || !cfg.owner || !cfg.repo) {
+      showGhError('토큰, 계정명, 저장소 이름을 모두 입력하세요.');
+      return;
+    }
+    hideGhError();
+
+    const apiUrl = 'https://api.github.com/repos/' + cfg.owner + '/' + cfg.repo + '/contents/' + GH_FILE_PATH;
+    try {
+      const res = await fetch(apiUrl, {
+        headers: { Authorization: 'token ' + cfg.token, Accept: 'application/vnd.github+json' }
+      });
+      if (!res.ok) {
+        const errData = await res.json().catch(function () { return {}; });
+        throw new Error(errData.message || ('불러오기 실패: ' + res.status));
+      }
+      const fileData = await res.json();
+      const jsonStr = base64ToUtf8(fileData.content.replace(/\n/g, ''));
+      const data = JSON.parse(jsonStr);
+      if (!data || !Array.isArray(data.categories)) {
+        throw new Error('올바른 목록 파일이 아닙니다.');
+      }
+      if (!confirm('현재 목록을 GitHub의 목록으로 덮어씁니다. 계속하시겠습니까?')) return;
+
+      videoTree.innerHTML = '';
+      data.categories.forEach(function (cat) { buildCategoryTree(cat, videoTree); });
+      categoryIdSeq = data.categoryIdSeq || categoryIdSeq;
+      refreshCategorySelect();
+      saveState();
+    } catch (err) {
+      showGhError('GitHub 불러오기 오류: ' + err.message);
+    }
+  }
+
+  let ghPushTimer = null;
+  function scheduleGithubPush() {
+    const cfg = getGhConfig();
+    if (!cfg || !cfg.token || !cfg.owner || !cfg.repo) return;
+    clearTimeout(ghPushTimer);
+    ghPushTimer = setTimeout(function () { githubSave(true); }, 1500);
+  }
+
+  ghSaveBtn.addEventListener('click', function () { githubSave(false); });
+  ghLoadBtn.addEventListener('click', githubLoad);
+  loadGhConfig();
 
   // 저장된 목록 불러오기 (없으면 기본 카테고리 생성)
   loadState();
