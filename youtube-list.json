@@ -2,30 +2,6 @@
   "categoryIdSeq": 347,
   "categories": [
     {
-      "id": "cat-345",
-      "name": "뉴엘(newl)",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "LwOPcwPag2Q",
-          "title": "모두 다 내게 맡겨라 - 뉴엘(newl)"
-        },
-        {
-          "videoId": "VEz0NivyZcg",
-          "title": "주 알기원하네 - 뉴엘워십"
-        },
-        {
-          "videoId": "-YeL481lk4o",
-          "title": "주 은혜 잊지 않으리 - 뉴엘워십(newl worship)"
-        },
-        {
-          "videoId": "FcnnU50TUbU",
-          "title": "주님을 더욱 사랑하는 일 - 뉴엘워십"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-341",
       "name": "A",
       "collapsed": true,
@@ -104,7 +80,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -185,6 +161,30 @@
                 {
                   "videoId": "IKqgbOI0kXI",
                   "title": "하나님은 실수하지 않으신다네 by 김대환"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-345",
+              "name": "뉴엘(newl)",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "LwOPcwPag2Q",
+                  "title": "모두 다 내게 맡겨라 - 뉴엘(newl)"
+                },
+                {
+                  "videoId": "VEz0NivyZcg",
+                  "title": "주 알기원하네 - 뉴엘워십"
+                },
+                {
+                  "videoId": "-YeL481lk4o",
+                  "title": "주 은혜 잊지 않으리 - 뉴엘워십(newl worship)"
+                },
+                {
+                  "videoId": "FcnnU50TUbU",
+                  "title": "주님을 더욱 사랑하는 일 - 뉴엘워십"
                 }
               ],
               "children": []
