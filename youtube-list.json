@@ -104,7 +104,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
@@ -775,7 +775,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
