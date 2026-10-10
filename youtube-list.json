@@ -502,6 +502,18 @@
               "children": []
             },
             {
+              "id": "cat-348",
+              "name": "Soaking Worship",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "ged4PqO2FAU",
+                  "title": "Soaking Worship Music // Peace"
+                }
+              ],
+              "children": []
+            },
+            {
               "id": "cat-344",
               "name": "WELOVE",
               "collapsed": true,
@@ -4539,18 +4551,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-348",
-      "name": "Soaking Worship",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "ged4PqO2FAU",
-          "title": "Soaking Worship Music // Peace"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-230",
