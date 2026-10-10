@@ -1,6 +1,34 @@
 {
-  "categoryIdSeq": 352,
+  "categoryIdSeq": 347,
   "categories": [
+    {
+      "id": "cat-341",
+      "name": "A",
+      "collapsed": true,
+      "videos": [
+        {
+          "videoId": "K9z9TKPSmkg",
+          "title": "알고리즘에 선택받은 ‘빗 속에서’의 주인공✨ 체육 선생님의 낭만있는 목소리에 빠져든다..💚 #해피투게더ㅣKBS 260904 방송"
+        },
+        {
+          "videoId": "6ANWCQBMSJs",
+          "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
+        },
+        {
+          "videoId": "LMvCbrng0Qw",
+          "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
+        },
+        {
+          "videoId": "ged4PqO2FAU",
+          "title": "Soaking Worship Music // Peace"
+        },
+        {
+          "videoId": "kbzJcmYf90E",
+          "title": "wudubeam - green thoughts"
+        }
+      ],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
@@ -52,45 +80,13 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
-          "id": "cat-349",
-          "name": "Ambient",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-350",
-              "name": "Environmental",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "kbzJcmYf90E",
-                  "title": "wudubeam - green thoughts"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-351",
-              "name": "naturewave",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "LMvCbrng0Qw",
-                  "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -256,7 +252,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "8_iT1D-_G0w",
@@ -485,30 +481,6 @@
                 {
                   "videoId": "JdO7ccZFvh8",
                   "title": "JdO7ccZFvh8"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-347",
-              "name": "GIFTED",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "6ANWCQBMSJs",
-                  "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-348",
-              "name": "Soaking Worship",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "ged4PqO2FAU",
-                  "title": "Soaking Worship Music // Peace"
                 }
               ],
               "children": []
@@ -4380,10 +4352,6 @@
                       "title": "썸데이 - 고백 I [해피투게더🍀혼자가 아니어서 좋아] | KBS 260904 방송"
                     },
                     {
-                      "videoId": "K9z9TKPSmkg",
-                      "title": "알고리즘에 선택받은 ‘빗 속에서’의 주인공✨ 체육 선생님의 낭만있는 목소리에 빠져든다..💚 #해피투게더ㅣKBS 260904 방송"
-                    },
-                    {
                       "videoId": "HSlgwVItwkQ",
                       "title": "조아해 - 소중한 너  [해피투게더🍀혼자가 아니어서 좋아] | KBS 260807 방송"
                     },
@@ -4487,7 +4455,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "gwdb2BR-t8Q",
@@ -4746,7 +4714,7 @@
         {
           "id": "cat-331",
           "name": "Split step",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "JW2fObK4Ojo",
