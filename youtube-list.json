@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 350,
+  "categoryIdSeq": 351,
   "categories": [
     {
       "id": "cat-341",
@@ -20,6 +20,13 @@
     {
       "id": "cat-349",
       "name": "Ambient",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-350",
+      "name": "Environmental",
       "collapsed": false,
       "videos": [],
       "children": []
