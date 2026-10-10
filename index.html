@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>유튜브 목록 뷰어 v1.3</title>
+<title>유튜브 목록 뷰어 v1.4</title>
 <style>
   * { box-sizing: border-box; }
   html, body {
@@ -249,7 +249,7 @@
   <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
   <div class="list-pane">
     <div class="list-scroll">
-    <h2>유튜브 목록 v1.3</h2>
+    <h2>유튜브 목록 v1.4</h2>
 
     <div class="add-form category-form">
       <input type="text" id="categoryInput" placeholder="새 카테고리 이름">
@@ -927,7 +927,27 @@
     ghError.style.display = 'none';
   }
 
+  let ghSaveInProgress = false;
+  let ghSavePending = false;
+
   async function githubSave(silent) {
+    if (ghSaveInProgress) {
+      ghSavePending = true;
+      return;
+    }
+    ghSaveInProgress = true;
+    try {
+      await performGithubSave(silent, false);
+    } finally {
+      ghSaveInProgress = false;
+      if (ghSavePending) {
+        ghSavePending = false;
+        githubSave(true);
+      }
+    }
+  }
+
+  async function performGithubSave(silent, isRetry) {
     const cfg = saveGhConfig();
     if (!cfg.token || !cfg.owner || !cfg.repo) {
       if (!silent) showGhError('토큰, 계정명, 저장소 이름을 모두 입력하세요.');
@@ -966,6 +986,9 @@
       });
       if (!putRes.ok) {
         const errData = await putRes.json().catch(function () { return {}; });
+        if (putRes.status === 409 && !isRetry) {
+          return performGithubSave(silent, true);
+        }
         throw new Error(errData.message || ('저장 실패: ' + putRes.status));
       }
       if (!silent) alert('GitHub에 저장했습니다.');
