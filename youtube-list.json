@@ -9,10 +9,6 @@
         {
           "videoId": "LMvCbrng0Qw",
           "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
-        },
-        {
-          "videoId": "kbzJcmYf90E",
-          "title": "wudubeam - green thoughts"
         }
       ],
       "children": []
@@ -22,14 +18,20 @@
       "name": "Ambient",
       "collapsed": false,
       "videos": [],
-      "children": []
-    },
-    {
-      "id": "cat-350",
-      "name": "Environmental",
-      "collapsed": false,
-      "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-350",
+          "name": "Environmental",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "kbzJcmYf90E",
+              "title": "wudubeam - green thoughts"
+            }
+          ],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-305",
