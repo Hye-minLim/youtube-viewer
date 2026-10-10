@@ -2,13 +2,6 @@
   "categoryIdSeq": 348,
   "categories": [
     {
-      "id": "cat-347",
-      "name": "소향",
-      "collapsed": false,
-      "videos": [],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -212,6 +205,18 @@
                 {
                   "videoId": "4v0oHeJ8-2k",
                   "title": "예수, 늘 함께 하시네 - 마커스워십 (Official) | Jesus, always with me"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-347",
+              "name": "소향",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "B_U8CtpBIyA",
+                  "title": "주님 다시 오실 때까지 - 소향 | 힐링유"
                 }
               ],
               "children": []
