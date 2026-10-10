@@ -14,26 +14,6 @@
       "children": []
     },
     {
-      "id": "cat-349",
-      "name": "Ambient",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-350",
-          "name": "Environmental",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "kbzJcmYf90E",
-              "title": "wudubeam - green thoughts"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -87,6 +67,26 @@
       "collapsed": false,
       "videos": [],
       "children": [
+        {
+          "id": "cat-349",
+          "name": "Ambient",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-350",
+              "name": "Environmental",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "kbzJcmYf90E",
+                  "title": "wudubeam - green thoughts"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
         {
           "id": "cat-22",
           "name": "CCM",
