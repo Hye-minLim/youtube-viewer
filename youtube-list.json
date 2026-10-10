@@ -15,10 +15,6 @@
           "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
         },
         {
-          "videoId": "ged4PqO2FAU",
-          "title": "Soaking Worship Music // Peace"
-        },
-        {
           "videoId": "kbzJcmYf90E",
           "title": "wudubeam - green thoughts"
         }
@@ -4532,7 +4528,12 @@
       "id": "cat-348",
       "name": "Soaking Worship",
       "collapsed": false,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ged4PqO2FAU",
+          "title": "Soaking Worship Music // Peace"
+        }
+      ],
       "children": []
     },
     {
