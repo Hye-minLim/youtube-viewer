@@ -4648,7 +4648,7 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -4746,7 +4746,7 @@
         {
           "id": "cat-331",
           "name": "Split step",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "JW2fObK4Ojo",
