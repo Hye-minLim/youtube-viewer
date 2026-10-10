@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 347,
+  "categoryIdSeq": 348,
   "categories": [
+    {
+      "id": "cat-347",
+      "name": "소향",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
