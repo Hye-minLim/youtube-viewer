@@ -22,18 +22,6 @@
       "children": []
     },
     {
-      "id": "cat-347",
-      "name": "GIFTED",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "6ANWCQBMSJs",
-          "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -256,7 +244,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "8_iT1D-_G0w",
@@ -485,6 +473,18 @@
                 {
                   "videoId": "JdO7ccZFvh8",
                   "title": "JdO7ccZFvh8"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-347",
+              "name": "GIFTED",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "6ANWCQBMSJs",
+                  "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
                 }
               ],
               "children": []
