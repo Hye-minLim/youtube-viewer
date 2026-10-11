@@ -428,7 +428,7 @@
             {
               "id": "cat-157",
               "name": "저스트지저스",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "WcGx34QiPyg",
@@ -480,7 +480,7 @@
             {
               "id": "cat-149",
               "name": "F.I.A",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "koIoFkynB1M",
