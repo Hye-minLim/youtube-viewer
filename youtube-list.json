@@ -58,13 +58,13 @@
         {
           "id": "cat-349",
           "name": "Ambient",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-350",
               "name": "Environmental",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "kbzJcmYf90E",
@@ -76,7 +76,7 @@
             {
               "id": "cat-351",
               "name": "naturewave",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "LMvCbrng0Qw",
