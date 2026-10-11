@@ -534,7 +534,7 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -3786,7 +3786,7 @@
         {
           "id": "cat-46",
           "name": "OST",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
