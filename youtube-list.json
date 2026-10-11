@@ -2,18 +2,6 @@
   "categoryIdSeq": 354,
   "categories": [
     {
-      "id": "cat-353",
-      "name": "Matilda Mann",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "nllIaf2LNOA",
-          "title": "Matilda Mann - Nothing At All (ft. Lucy Lu) [Official Audio]"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -3902,7 +3890,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -4171,6 +4159,18 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "id": "cat-353",
+              "name": "Matilda Mann",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "nllIaf2LNOA",
+                  "title": "Matilda Mann - Nothing At All (ft. Lucy Lu) [Official Audio]"
+                }
+              ],
+              "children": []
             },
             {
               "id": "cat-132",
