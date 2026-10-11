@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 352,
+  "categoryIdSeq": 353,
   "categories": [
+    {
+      "id": "cat-352",
+      "name": "김범수",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
