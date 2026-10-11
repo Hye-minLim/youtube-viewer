@@ -52,7 +52,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -1705,6 +1705,10 @@
                   "name": "브라운아이드소울",
                   "collapsed": true,
                   "videos": [
+                    {
+                      "videoId": "zEAZlsk6ezs",
+                      "title": "[MV] 브라운아이드소울(Brown Eyed Soul) - 어쩌면 너는 이렇게도"
+                    },
                     {
                       "videoId": "bMyl7q233yY",
                       "title": "[MV] 브라운아이드소울(Brown Eyed Soul) - 우리들의 순간"
