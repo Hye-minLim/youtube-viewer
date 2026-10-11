@@ -1,34 +1,6 @@
 {
-  "categoryIdSeq": 347,
+  "categoryIdSeq": 352,
   "categories": [
-    {
-      "id": "cat-341",
-      "name": "A",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "K9z9TKPSmkg",
-          "title": "알고리즘에 선택받은 ‘빗 속에서’의 주인공✨ 체육 선생님의 낭만있는 목소리에 빠져든다..💚 #해피투게더ㅣKBS 260904 방송"
-        },
-        {
-          "videoId": "6ANWCQBMSJs",
-          "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
-        },
-        {
-          "videoId": "LMvCbrng0Qw",
-          "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
-        },
-        {
-          "videoId": "ged4PqO2FAU",
-          "title": "Soaking Worship Music // Peace"
-        },
-        {
-          "videoId": "kbzJcmYf90E",
-          "title": "wudubeam - green thoughts"
-        }
-      ],
-      "children": []
-    },
     {
       "id": "cat-305",
       "name": "Movie",
@@ -83,6 +55,38 @@
       "collapsed": true,
       "videos": [],
       "children": [
+        {
+          "id": "cat-349",
+          "name": "Ambient",
+          "collapsed": true,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-350",
+              "name": "Environmental",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "kbzJcmYf90E",
+                  "title": "wudubeam - green thoughts"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-351",
+              "name": "naturewave",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "LMvCbrng0Qw",
+                  "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
         {
           "id": "cat-22",
           "name": "CCM",
@@ -486,9 +490,33 @@
               "children": []
             },
             {
+              "id": "cat-347",
+              "name": "GIFTED",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "6ANWCQBMSJs",
+                  "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-348",
+              "name": "Soaking Worship",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "ged4PqO2FAU",
+                  "title": "Soaking Worship Music // Peace"
+                }
+              ],
+              "children": []
+            },
+            {
               "id": "cat-344",
               "name": "WELOVE",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "4jH3MqokNMw",
@@ -588,7 +616,7 @@
                     {
                       "id": "cat-293",
                       "name": "Hideyuki Hashimoto",
-                      "collapsed": true,
+                      "collapsed": false,
                       "videos": [
                         {
                           "videoId": "rF55AFrpOQA",
@@ -721,13 +749,13 @@
             {
               "id": "cat-250",
               "name": "Avant-garde",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-239",
                   "name": "CARLA BLEY",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "Ys0q8ljjiY8",
@@ -3709,14 +3737,14 @@
                 {
                   "id": "cat-253",
                   "name": "Enya",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": []
                 },
                 {
                   "id": "cat-255",
                   "name": "Kitaro",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": []
                 }
@@ -3764,7 +3792,7 @@
             {
               "id": "cat-125",
               "name": "8월의 크리스마스",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "PPiMK96NuYY",
@@ -4352,6 +4380,10 @@
                       "title": "썸데이 - 고백 I [해피투게더🍀혼자가 아니어서 좋아] | KBS 260904 방송"
                     },
                     {
+                      "videoId": "K9z9TKPSmkg",
+                      "title": "알고리즘에 선택받은 ‘빗 속에서’의 주인공✨ 체육 선생님의 낭만있는 목소리에 빠져든다..💚 #해피투게더ㅣKBS 260904 방송"
+                    },
+                    {
                       "videoId": "HSlgwVItwkQ",
                       "title": "조아해 - 소중한 너  [해피투게더🍀혼자가 아니어서 좋아] | KBS 260807 방송"
                     },
@@ -4455,7 +4487,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "gwdb2BR-t8Q",
@@ -4714,7 +4746,7 @@
         {
           "id": "cat-331",
           "name": "Split step",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "JW2fObK4Ojo",
