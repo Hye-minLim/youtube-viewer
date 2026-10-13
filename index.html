@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>유튜브 목록 뷰어 v1.5</title>
+<title>유튜브 목록 뷰어 v1.6</title>
 <style>
   * { box-sizing: border-box; }
   html, body {
@@ -249,7 +249,7 @@
   <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
   <div class="list-pane">
     <div class="list-scroll">
-    <h2>유튜브 목록 v1.5</h2>
+    <h2>유튜브 목록 v1.6</h2>
 
     <div class="add-form category-form">
       <input type="text" id="categoryInput" placeholder="새 카테고리 이름">
@@ -918,6 +918,25 @@
     return decodeURIComponent(escape(atob(b64)));
   }
 
+  // 네트워크 오류(Failed to fetch)는 잠시 후 최대 2번 더 시도
+  async function fetchWithRetry(url, opts) {
+    const delays = [2000, 5000];
+    for (let i = 0; ; i++) {
+      try {
+        return await fetch(url, opts);
+      } catch (err) {
+        if (i >= delays.length) throw err;
+        await new Promise(function (r) { setTimeout(r, delays[i]); });
+      }
+    }
+  }
+
+  function ghErrorText(err) {
+    return err instanceof TypeError
+      ? '네트워크 연결을 확인하세요 (GitHub에 연결하지 못했습니다)'
+      : err.message;
+  }
+
   function showGhError(msg) {
     ghError.textContent = msg;
     ghError.style.display = 'block';
@@ -958,7 +977,7 @@
     const apiUrl = 'https://api.github.com/repos/' + cfg.owner + '/' + cfg.repo + '/contents/' + GH_FILE_PATH;
     try {
       let sha = null;
-      const getRes = await fetch(apiUrl, {
+      const getRes = await fetchWithRetry(apiUrl, {
         headers: { Authorization: 'token ' + cfg.token, Accept: 'application/vnd.github+json' }
       });
       if (getRes.ok) {
@@ -975,7 +994,7 @@
       };
       if (sha) body.sha = sha;
 
-      const putRes = await fetch(apiUrl, {
+      const putRes = await fetchWithRetry(apiUrl, {
         method: 'PUT',
         headers: {
           Authorization: 'token ' + cfg.token,
@@ -993,7 +1012,7 @@
       }
       if (!silent) alert('GitHub에 저장했습니다.');
     } catch (err) {
-      showGhError('GitHub 저장 오류: ' + err.message);
+      showGhError('GitHub 저장 오류: ' + ghErrorText(err));
     }
   }
 
@@ -1011,7 +1030,7 @@
 
     const apiUrl = 'https://api.github.com/repos/' + cfg.owner + '/' + cfg.repo + '/contents/' + GH_FILE_PATH;
     try {
-      const res = await fetch(apiUrl, {
+      const res = await fetchWithRetry(apiUrl, {
         headers: { Authorization: 'token ' + cfg.token, Accept: 'application/vnd.github+json' }
       });
       if (!res.ok) {
@@ -1033,7 +1052,7 @@
       try { localStorage.setItem(STORAGE_KEY, JSON.stringify(serializeState())); } catch (e) {}
       return true;
     } catch (err) {
-      if (!silent) showGhError('GitHub 불러오기 오류: ' + err.message);
+      if (!silent) showGhError('GitHub 불러오기 오류: ' + ghErrorText(err));
       return false;
     }
   }
