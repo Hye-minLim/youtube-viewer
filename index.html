@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>유튜브 목록 뷰어 v1.6</title>
+<title>유튜브 목록 뷰어 v1.7</title>
 <style>
   * { box-sizing: border-box; }
   html, body {
@@ -249,7 +249,7 @@
   <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
   <div class="list-pane">
     <div class="list-scroll">
-    <h2>유튜브 목록 v1.6</h2>
+    <h2>유튜브 목록 v1.7</h2>
 
     <div class="add-form category-form">
       <input type="text" id="categoryInput" placeholder="새 카테고리 이름">
@@ -933,8 +933,15 @@
 
   function ghErrorText(err) {
     return err instanceof TypeError
-      ? '네트워크 연결을 확인하세요 (GitHub에 연결하지 못했습니다)'
+      ? '네트워크 연결을 확인하세요 (GitHub에 연결하지 못했습니다) [' + err.message + ']'
       : err.message;
+  }
+
+  // 토큰에 한글·보이지 않는 문자 등이 섞이면 브라우저가 요청 자체를 거부함
+  function checkGhToken(token) {
+    return /^[!-~]+$/.test(token)
+      ? null
+      : '토큰에 허용되지 않는 문자(한글, 공백, 보이지 않는 문자 등)가 들어 있습니다. 토큰을 다시 복사해 붙여 넣으세요.';
   }
 
   function showGhError(msg) {
@@ -970,6 +977,11 @@
     const cfg = saveGhConfig();
     if (!cfg.token || !cfg.owner || !cfg.repo) {
       if (!silent) showGhError('토큰, 계정명, 저장소 이름을 모두 입력하세요.');
+      return;
+    }
+    const tokenError = checkGhToken(cfg.token);
+    if (tokenError) {
+      showGhError('GitHub 저장 오류: ' + tokenError);
       return;
     }
     hideGhError();
@@ -1024,6 +1036,11 @@
     const cfg = silent ? getGhConfig() : saveGhConfig();
     if (!cfg || !cfg.token || !cfg.owner || !cfg.repo) {
       if (!silent) showGhError('토큰, 계정명, 저장소 이름을 모두 입력하세요.');
+      return false;
+    }
+    const tokenError = checkGhToken(cfg.token);
+    if (tokenError) {
+      if (!silent) showGhError('GitHub 불러오기 오류: ' + tokenError);
       return false;
     }
     if (!silent) hideGhError();
