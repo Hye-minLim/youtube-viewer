@@ -4648,13 +4648,13 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-313",
           "name": "Backhand",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "JNJy3OLURCM",
