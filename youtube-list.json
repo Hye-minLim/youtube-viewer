@@ -4,7 +4,7 @@
     {
       "id": "cat-341",
       "name": "A",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [
         {
           "videoId": "a4SSzvZjvWo",
@@ -4635,7 +4635,7 @@
     {
       "id": "cat-310",
       "name": "Tennis",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
