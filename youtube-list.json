@@ -4269,7 +4269,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -4488,9 +4488,21 @@
               "children": []
             },
             {
+              "id": "cat-348",
+              "name": "Steffi Vertriest",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "USK1VjV-nO8",
+                  "title": "Once Upon A Time In The West (Ennio Morricone) cover"
+                }
+              ],
+              "children": []
+            },
+            {
               "id": "cat-115",
               "name": "work",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "HfaIcB4Ogxk",
@@ -4534,18 +4546,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-348",
-      "name": "Steffi Vertriest",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "USK1VjV-nO8",
-          "title": "Once Upon A Time In The West (Ennio Morricone) cover"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-230",
