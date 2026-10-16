@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 349,
+  "categoryIdSeq": 350,
   "categories": [
     {
       "id": "cat-341",
@@ -4546,6 +4546,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat-349",
+      "name": "Soaking Worship",
+      "collapsed": false,
+      "videos": [],
+      "children": []
     },
     {
       "id": "cat-230",
