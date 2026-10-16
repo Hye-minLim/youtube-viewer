@@ -4,7 +4,7 @@
     {
       "id": "cat-341",
       "name": "A",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [
         {
           "videoId": "a4SSzvZjvWo",
@@ -88,7 +88,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -4729,7 +4729,7 @@
         {
           "id": "cat-331",
           "name": "Split step",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "JW2fObK4Ojo",
