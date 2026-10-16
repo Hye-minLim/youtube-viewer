@@ -76,13 +76,13 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -4263,6 +4263,18 @@
           ]
         },
         {
+          "id": "cat-349",
+          "name": "Soaking Worship",
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "ged4PqO2FAU",
+              "title": "Soaking Worship Music // Peace"
+            }
+          ],
+          "children": []
+        },
+        {
           "id": "cat-137",
           "name": "VA",
           "collapsed": false,
@@ -4542,18 +4554,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-349",
-      "name": "Soaking Worship",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "ged4PqO2FAU",
-          "title": "Soaking Worship Music // Peace"
-        }
-      ],
-      "children": []
     },
     {
       "id": "cat-230",
