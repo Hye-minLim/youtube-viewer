@@ -82,7 +82,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -481,6 +481,18 @@
                 {
                   "videoId": "6ANWCQBMSJs",
                   "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "cat-349",
+              "name": "Soaking Worship",
+              "collapsed": true,
+              "videos": [
+                {
+                  "videoId": "ged4PqO2FAU",
+                  "title": "Soaking Worship Music // Peace"
                 }
               ],
               "children": []
@@ -4261,18 +4273,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "cat-349",
-          "name": "Soaking Worship",
-          "collapsed": true,
-          "videos": [
-            {
-              "videoId": "ged4PqO2FAU",
-              "title": "Soaking Worship Music // Peace"
-            }
-          ],
-          "children": []
         },
         {
           "id": "cat-137",
