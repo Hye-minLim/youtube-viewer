@@ -30,7 +30,15 @@
       "name": "Ambient",
       "collapsed": false,
       "videos": [],
-      "children": []
+      "children": [
+        {
+          "id": "cat-351",
+          "name": "Naturewave",
+          "collapsed": false,
+          "videos": [],
+          "children": []
+        }
+      ]
     },
     {
       "id": "cat-305",
@@ -4561,13 +4569,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cat-351",
-      "name": "Naturewave",
-      "collapsed": false,
-      "videos": [],
-      "children": []
     },
     {
       "id": "cat-230",
