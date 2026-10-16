@@ -1,6 +1,42 @@
 {
-  "categoryIdSeq": 355,
+  "categoryIdSeq": 348,
   "categories": [
+    {
+      "id": "cat-341",
+      "name": "A",
+      "collapsed": true,
+      "videos": [
+        {
+          "videoId": "a4SSzvZjvWo",
+          "title": "가로수 그늘 아래 서면 -- 임재범"
+        },
+        {
+          "videoId": "irs0kmD9gKk",
+          "title": "내 삶의 반"
+        },
+        {
+          "videoId": "4uPqbD06zzw",
+          "title": "루다(Ruda) - 투비(鬪悲)"
+        },
+        {
+          "videoId": "LMvCbrng0Qw",
+          "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
+        },
+        {
+          "videoId": "USK1VjV-nO8",
+          "title": "Once Upon A Time In The West (Ennio Morricone) cover"
+        },
+        {
+          "videoId": "ged4PqO2FAU",
+          "title": "Soaking Worship Music // Peace"
+        },
+        {
+          "videoId": "kbzJcmYf90E",
+          "title": "wudubeam - green thoughts"
+        }
+      ],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
@@ -52,45 +88,13 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": false,
+      "collapsed": true,
       "videos": [],
       "children": [
         {
-          "id": "cat-349",
-          "name": "Ambient",
-          "collapsed": true,
-          "videos": [],
-          "children": [
-            {
-              "id": "cat-350",
-              "name": "Environmental",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "kbzJcmYf90E",
-                  "title": "wudubeam - green thoughts"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-351",
-              "name": "naturewave",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "LMvCbrng0Qw",
-                  "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -170,18 +174,6 @@
               "children": []
             },
             {
-              "id": "cat-352",
-              "name": "김범수",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "3P_YZs2_fq4",
-                  "title": "[🎧 Live] 김범수 - 주의 자녀로 산다는 것은 #찬양 #컴패션 #2026BWMF"
-                }
-              ],
-              "children": []
-            },
-            {
               "id": "cat-345",
               "name": "뉴엘(newl)",
               "collapsed": true,
@@ -250,26 +242,6 @@
               "children": []
             },
             {
-              "id": "cat-354",
-              "name": "소향",
-              "collapsed": false,
-              "videos": [
-                {
-                  "videoId": "pTpCO9oHLco",
-                  "title": "블레싱2020 | Amazing Grace(나 같은 죄인 살리신) - 소향"
-                },
-                {
-                  "videoId": "B_U8CtpBIyA",
-                  "title": "주님 다시 오실 때까지 - 소향 | 힐링유"
-                },
-                {
-                  "videoId": "ULHBOq3xEK0",
-                  "title": "주님 다시 오실 때까지 TILL THE LORD COMES BACK l 소향 Sohyang l 한밤의 프레이즈"
-                }
-              ],
-              "children": []
-            },
-            {
               "id": "cat-145",
               "name": "송솔나무",
               "collapsed": true,
@@ -288,16 +260,8 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
-                {
-                  "videoId": "8_iT1D-_G0w",
-                  "title": "여호와의 유월절  The Lord's Passover  by 시와그림  Poem & Painting (Eng Sub)"
-                },
-                {
-                  "videoId": "nHvhcQhdV_I",
-                  "title": "정상을 넘어 by 시와그림"
-                },
                 {
                   "videoId": "sF6wGi6oh84",
                   "title": "항해자 by 시와그림"
@@ -503,10 +467,6 @@
               "collapsed": true,
               "videos": [
                 {
-                  "videoId": "4VNf2On3dw8",
-                  "title": "임재 / HIS PRESENCE - 피아워십"
-                },
-                {
                   "videoId": "koIoFkynB1M",
                   "title": "충만 + 구주 예수 의지함이 + 사랑한다 말하시네 / FILLED + 'TIS SO SWEET TO TRUST IN JESUS + HE SAYS LOVE - 피아워십"
                 },
@@ -528,23 +488,11 @@
             {
               "id": "cat-347",
               "name": "GIFTED",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "6ANWCQBMSJs",
                   "title": "GIFTED '어떤 모습입니까 (with 송영주)' Live Clip"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "cat-348",
-              "name": "Soaking Worship",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "ged4PqO2FAU",
-                  "title": "Soaking Worship Music // Peace"
                 }
               ],
               "children": []
@@ -785,13 +733,13 @@
             {
               "id": "cat-250",
               "name": "Avant-garde",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
                   "id": "cat-239",
                   "name": "CARLA BLEY",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "Ys0q8ljjiY8",
@@ -1739,12 +1687,8 @@
                 {
                   "id": "cat-58",
                   "name": "브라운아이드소울",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
-                    {
-                      "videoId": "zEAZlsk6ezs",
-                      "title": "[MV] 브라운아이드소울(Brown Eyed Soul) - 어쩌면 너는 이렇게도"
-                    },
                     {
                       "videoId": "bMyl7q233yY",
                       "title": "[MV] 브라운아이드소울(Brown Eyed Soul) - 우리들의 순간"
@@ -1803,7 +1747,7 @@
                 {
                   "id": "cat-13",
                   "name": "빅마마",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "cbnGXFZ6jJE",
@@ -1816,6 +1760,10 @@
                     {
                       "videoId": "zyDXzAIe0YA",
                       "title": "빅마마 - 하루만 더 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210625 방송"
+                    },
+                    {
+                      "videoId": "GzwJjXD18_4",
+                      "title": "연 l 2021 '나의 노래가 필요한 너에게'"
                     },
                     {
                       "videoId": "ULfAaYIuldI",
@@ -1943,8 +1891,12 @@
                 {
                   "id": "cat-15",
                   "name": "성시경",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
+                    {
+                      "videoId": "nx4ARtrzyXo",
+                      "title": "‘MC’ 성시경, 전설의 무대 시작을 여는 ‘두 사람♬’ㅣ전설의 무대 레전드 12(ArchiveK)ㅣSBS ENTER."
+                    },
                     {
                       "videoId": "_kr3bOs5s8U",
                       "title": "[응답하라 1994 OST] 성시경 (SUNG SI KYUNG) - 너에게 (To You) MV"
@@ -2015,7 +1967,7 @@
                 {
                   "id": "cat-343",
                   "name": "소연(SOYEON)",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "PG7e-u7PjiU",
@@ -2107,7 +2059,7 @@
                 {
                   "id": "cat-121",
                   "name": "신지훈",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "zIrJFwvDfj4",
@@ -2178,7 +2130,7 @@
                 {
                   "id": "cat-24",
                   "name": "쌈디",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "Fgbvn3dsmrU",
@@ -2196,7 +2148,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3777,14 +3729,14 @@
                 {
                   "id": "cat-253",
                   "name": "Enya",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": []
                 },
                 {
                   "id": "cat-255",
                   "name": "Kitaro",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [],
                   "children": []
                 }
@@ -3832,7 +3784,7 @@
             {
               "id": "cat-125",
               "name": "8월의 크리스마스",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "PPiMK96NuYY",
@@ -3910,7 +3862,7 @@
         {
           "id": "cat-108",
           "name": "POP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -4181,18 +4133,6 @@
               ]
             },
             {
-              "id": "cat-353",
-              "name": "Matilda Mann",
-              "collapsed": true,
-              "videos": [
-                {
-                  "videoId": "nllIaf2LNOA",
-                  "title": "Matilda Mann - Nothing At All (ft. Lucy Lu) [Official Audio]"
-                }
-              ],
-              "children": []
-            },
-            {
               "id": "cat-132",
               "name": "N",
               "collapsed": true,
@@ -4333,7 +4273,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -4357,13 +4297,8 @@
                 {
                   "id": "cat-42",
                   "name": "신의목소리",
-                  "collapsed": true,
-                  "videos": [
-                    {
-                      "videoId": "e9NhmhazHgo",
-                      "title": "윤도현 제압한 연습생, 김재환 ‘가을 우체국 앞에서’ @보컬 전쟁:신의 목소리 20160210"
-                    }
-                  ],
+                  "collapsed": false,
+                  "videos": [],
                   "children": []
                 },
                 {
@@ -4539,7 +4474,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "gwdb2BR-t8Q",
@@ -4785,10 +4720,6 @@
               "title": "머드리의 서브 비법! 손목에 있다!? #이형택 #머드리 #테니스 #서브 #남지성"
             },
             {
-              "videoId": "fCg_bDLTjkk",
-              "title": "서브가 날마다 다르다면, 토스를 올려놓아 보세요🎾 [정석 기본기 18] | 최동휘의 테니스 정석"
-            },
-            {
               "videoId": "zBGxLQRBaP0",
               "title": "카타랭킹1위 동호인슈퍼 서브슬로모션"
             }
@@ -4798,7 +4729,7 @@
         {
           "id": "cat-331",
           "name": "Split step",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [
             {
               "videoId": "JW2fObK4Ojo",
