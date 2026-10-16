@@ -15,10 +15,6 @@
           "title": "루다(Ruda) - 투비(鬪悲)"
         },
         {
-          "videoId": "LMvCbrng0Qw",
-          "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
-        },
-        {
           "videoId": "kbzJcmYf90E",
           "title": "wudubeam - green thoughts"
         }
@@ -35,7 +31,12 @@
           "id": "cat-351",
           "name": "Naturewave",
           "collapsed": false,
-          "videos": [],
+          "videos": [
+            {
+              "videoId": "LMvCbrng0Qw",
+              "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
+            }
+          ],
           "children": []
         }
       ]
