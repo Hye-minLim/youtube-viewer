@@ -3774,8 +3774,13 @@
         {
           "id": "cat-46",
           "name": "OST",
-          "collapsed": true,
-          "videos": [],
+          "collapsed": false,
+          "videos": [
+            {
+              "videoId": "USK1VjV-nO8",
+              "title": "Once Upon A Time In The West (Ennio Morricone) cover"
+            }
+          ],
           "children": [
             {
               "id": "cat-125",
@@ -4539,12 +4544,7 @@
       "id": "cat-348",
       "name": "Steffi Vertriest",
       "collapsed": false,
-      "videos": [
-        {
-          "videoId": "USK1VjV-nO8",
-          "title": "Once Upon A Time In The West (Ennio Morricone) cover"
-        }
-      ],
+      "videos": [],
       "children": []
     },
     {
