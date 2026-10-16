@@ -22,26 +22,6 @@
       "children": []
     },
     {
-      "id": "cat-350",
-      "name": "Ambient",
-      "collapsed": false,
-      "videos": [],
-      "children": [
-        {
-          "id": "cat-351",
-          "name": "Naturewave",
-          "collapsed": false,
-          "videos": [
-            {
-              "videoId": "LMvCbrng0Qw",
-              "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -95,6 +75,26 @@
       "collapsed": true,
       "videos": [],
       "children": [
+        {
+          "id": "cat-350",
+          "name": "Ambient",
+          "collapsed": false,
+          "videos": [],
+          "children": [
+            {
+              "id": "cat-351",
+              "name": "Naturewave",
+              "collapsed": false,
+              "videos": [
+                {
+                  "videoId": "LMvCbrng0Qw",
+                  "title": "Lindsheaven Virtual Plaza ~ Rainforest Hill Vol. I+II (2018/2023) • [cs rip]  [ambient / naturewave]"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
         {
           "id": "cat-22",
           "name": "CCM",
