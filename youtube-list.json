@@ -58,13 +58,13 @@
         {
           "id": "cat-349",
           "name": "Ambient",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-350",
               "name": "Environmental",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "kbzJcmYf90E",
@@ -76,7 +76,7 @@
             {
               "id": "cat-351",
               "name": "naturewave",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "LMvCbrng0Qw",
@@ -392,7 +392,7 @@
             {
               "id": "cat-146",
               "name": "잔치공동체",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "qzQypLaz76w",
@@ -416,7 +416,7 @@
             {
               "id": "cat-157",
               "name": "저스트지저스",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "WcGx34QiPyg",
@@ -4512,6 +4512,10 @@
                 {
                   "videoId": "HfaIcB4Ogxk",
                   "title": "[Playlist] 일하면서 틀어 놓기 좋은 잔잔한 8시간 재즈 플레이리스트 | Jazz 노래모음 카페 공부 독서 재택 코딩"
+                },
+                {
+                  "videoId": "3abI3SrRLLQ",
+                  "title": "【黙想用】湖畔のピアノ｜さざなみと鳥の声に包まれて｜環境音BGM（3時間）"
                 },
                 {
                   "videoId": "S7q45IuSf1g",
