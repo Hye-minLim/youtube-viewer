@@ -52,7 +52,7 @@
     {
       "id": "cat-231",
       "name": "Music",
-      "collapsed": true,
+      "collapsed": false,
       "videos": [],
       "children": [
         {
@@ -4281,7 +4281,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -4487,7 +4487,7 @@
             {
               "id": "cat-236",
               "name": "Hi-Fi",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "gwdb2BR-t8Q",
