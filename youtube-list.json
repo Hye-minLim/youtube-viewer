@@ -4281,7 +4281,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -4507,7 +4507,7 @@
             {
               "id": "cat-115",
               "name": "work",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "HfaIcB4Ogxk",
