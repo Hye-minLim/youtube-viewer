@@ -58,13 +58,13 @@
         {
           "id": "cat-349",
           "name": "Ambient",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
               "id": "cat-350",
               "name": "Environmental",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "kbzJcmYf90E",
@@ -76,7 +76,7 @@
             {
               "id": "cat-351",
               "name": "naturewave",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "LMvCbrng0Qw",
@@ -392,7 +392,7 @@
             {
               "id": "cat-146",
               "name": "잔치공동체",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "qzQypLaz76w",
@@ -416,7 +416,7 @@
             {
               "id": "cat-157",
               "name": "저스트지저스",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "WcGx34QiPyg",
