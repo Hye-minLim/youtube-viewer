@@ -1,58 +1,38 @@
 {
-  "categoryIdSeq": 355,
+  "categoryIdSeq": 353,
   "categories": [
     {
-      "id": "cat-353",
-      "name": "0.A",
-      "collapsed": true,
-      "videos": [
-        {
-          "videoId": "-vg-JEO0Rqc",
-          "title": "\"우리 때는 BJS였어\" 변진섭의 명곡 앞에 '엉엉' 우는 성시경🥲 #숙녀에게 #희망사항 #그대내게다시 #너에게로또다시 #성시경의고막남친ㅣKBS 261016 방송"
-        },
-        {
-          "videoId": "yuoQecUYfsA",
-          "title": "[M/V] 이수 (엠씨더맥스) - My Way"
-        },
-        {
-          "videoId": "XTNEE6xmGic",
-          "title": "가장 가까이에"
-        },
-        {
-          "videoId": "jEhwOI5vyQY",
-          "title": "이소라 - 나를 사랑하지 않는 그대에게 [더 시즌즈-성시경의 고막남친] | KBS 260717 방송"
-        },
-        {
-          "videoId": "OpnQ1nVNCRY",
-          "title": "하현상 (Ha Hyun Sang) - 장마 (Monsoon) Live Clip"
-        },
-        {
-          "videoId": "p1biaYnh0W0",
-          "title": "CrushX성시경 - Beautiful (드라마 ＜도깨비＞ OST) [더 시즌즈-성시경의 고막남친] | KBS 260717 방송"
-        },
-        {
-          "videoId": "FExBwfQHXlE",
-          "title": "Feels So Good"
-        },
-        {
-          "videoId": "_pYJEcfQpXU",
-          "title": "Neorul Neorosseo"
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "cat-354",
-      "name": "지선",
+      "id": "cat-352",
+      "name": "lofi",
       "collapsed": false,
       "videos": [
         {
-          "videoId": "IsbISzgpnu4",
-          "title": "충만 Repletion"
+          "videoId": "rAz8Sgj2W2A",
+          "title": "인띠밴드 - NO.1 I [해피투게더🍀혼자가 아니어서 좋아] I KBS 261009 방송"
         },
         {
-          "videoId": "IFX1nyHpKp8",
-          "title": "충만- 지선, 손경민"
+          "videoId": "OQmAKh8-XwY",
+          "title": "CALM FOCUS | 3 Hour Deep Focus Music for Peaceful Morning Work (No Distractions)"
+        },
+        {
+          "videoId": "1vbGZySVHcc",
+          "title": "Classical lofi for minds that need silence | architectural soundscape"
+        },
+        {
+          "videoId": "X28GzyyN6G4",
+          "title": "Deep Focus Lofi Mix 🪴 Study/Work Concentration [chill lo-fi hip hop beats]"
+        },
+        {
+          "videoId": "LhMyAYil3N8",
+          "title": "Deep Focus Music | ZEN Mode Flow for Calm Productivity"
+        },
+        {
+          "videoId": "PRgS7hBgR1k",
+          "title": "Midnight Calm 🌌 Chill Lofi Beats to Study, Sleep & Unwind"
+        },
+        {
+          "videoId": "q770AP07Xqw",
+          "title": "q770AP07Xqw"
         }
       ],
       "children": []
@@ -164,15 +144,11 @@
             {
               "id": "cat-153",
               "name": "기타CCM",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "Hy-zRZQo79Q",
                   "title": "\"GABRIEL'S  OBOE \" Ennio Morricone & André Rieu |THE MISSION"
-                },
-                {
-                  "videoId": "f7pMaNZ077A",
-                  "title": "[가사비디오] 하나님 아버지의 마음 by 조수아 김정석 조시영 세연"
                 },
                 {
                   "videoId": "DRN7ICXVTLE",
@@ -181,10 +157,6 @@
                 {
                   "videoId": "jWUab6J65ag",
                   "title": "길 만드시는 주  [ Way Maker ]  -2023 찬양의 밤 13-"
-                },
-                {
-                  "videoId": "JXHx-tj5mpk",
-                  "title": "길을 만드시는 주 (Way Maker) - 노래하는 청지기"
                 },
                 {
                   "videoId": "mRuE0P-M9EM",
@@ -200,7 +172,7 @@
             {
               "id": "cat-148",
               "name": "김대환",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "LJ0GD1ThDTo",
@@ -225,6 +197,10 @@
                 {
                   "videoId": "nmafBfCphMA",
                   "title": "은혜 아니면 by 김대환  \"Could Not Do Without Thy Grace\" (Eng Sub)"
+                },
+                {
+                  "videoId": "-VHCGZg_HqQ",
+                  "title": "주품에 품으소서 by 김대환  \"STILL\" (ENG SUB)"
                 },
                 {
                   "videoId": "-VHCGZg_HqQ",
@@ -339,10 +315,6 @@
                   "title": "정상을 넘어 by 시와그림"
                 },
                 {
-                  "videoId": "JmiykeH7XiY",
-                  "title": "주 나를 놓지 마소서 \"Lord, do not let go of me\"   [시와그림 Best 찬양모음]"
-                },
-                {
                   "videoId": "sF6wGi6oh84",
                   "title": "항해자 by 시와그림"
                 }
@@ -401,10 +373,6 @@
                 {
                   "videoId": "ETG5MVwHXiI",
                   "title": "전심으로 With All I Am | 예람워십"
-                },
-                {
-                  "videoId": "Mteo0S_vNkA",
-                  "title": "주의 나라가 임할 때 When His Kingdom Comes | 예람워십"
                 },
                 {
                   "videoId": "9Eg5lOBhdb0",
@@ -472,7 +440,7 @@
             {
               "id": "cat-146",
               "name": "잔치공동체",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "qzQypLaz76w",
@@ -496,7 +464,7 @@
             {
               "id": "cat-157",
               "name": "저스트지저스",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "WcGx34QiPyg",
@@ -3801,38 +3769,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "id": "cat-352",
-          "name": "lofi",
-          "collapsed": true,
-          "videos": [
-            {
-              "videoId": "OQmAKh8-XwY",
-              "title": "CALM FOCUS | 3 Hour Deep Focus Music for Peaceful Morning Work (No Distractions)"
-            },
-            {
-              "videoId": "1vbGZySVHcc",
-              "title": "Classical lofi for minds that need silence | architectural soundscape"
-            },
-            {
-              "videoId": "X28GzyyN6G4",
-              "title": "Deep Focus Lofi Mix 🪴 Study/Work Concentration [chill lo-fi hip hop beats]"
-            },
-            {
-              "videoId": "LhMyAYil3N8",
-              "title": "Deep Focus Music | ZEN Mode Flow for Calm Productivity"
-            },
-            {
-              "videoId": "PRgS7hBgR1k",
-              "title": "Midnight Calm 🌌 Chill Lofi Beats to Study, Sleep & Unwind"
-            },
-            {
-              "videoId": "q770AP07Xqw",
-              "title": "q770AP07Xqw"
-            }
-          ],
-          "children": []
         },
         {
           "id": "cat-229",
