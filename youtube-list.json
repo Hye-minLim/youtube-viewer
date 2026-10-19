@@ -1,5 +1,5 @@
 {
-  "categoryIdSeq": 354,
+  "categoryIdSeq": 355,
   "categories": [
     {
       "id": "cat-353",
@@ -39,6 +39,13 @@
           "title": "Neorul Neorosseo"
         }
       ],
+      "children": []
+    },
+    {
+      "id": "cat-354",
+      "name": "지선",
+      "collapsed": false,
+      "videos": [],
       "children": []
     },
     {
