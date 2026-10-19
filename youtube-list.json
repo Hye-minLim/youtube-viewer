@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 353,
+  "categoryIdSeq": 354,
   "categories": [
+    {
+      "id": "cat-353",
+      "name": "0.A",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-352",
       "name": "lofi",
