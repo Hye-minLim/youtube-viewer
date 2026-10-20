@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>유튜브 목록 뷰어 v1.8</title>
+<title>유튜브 목록 뷰어 v1.9</title>
 <style>
   * { box-sizing: border-box; }
   html, body {
@@ -31,13 +31,9 @@
     min-height: 0;
     overflow-y: auto;
   }
-  /* 최하단: 주소 바로 재생 폼 */
-  .direct-form {
-    border-top: 1px solid #333;
-    border-bottom: none;
-  }
+  /* 상단: 주소 바로 재생 폼 */
   .direct-form + .add-error {
-    padding-top: 0;
+    padding-top: 8px;
     background: #111;
   }
   .list-pane h2 {
@@ -272,9 +268,16 @@
   <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
   <div class="list-pane">
     <div class="list-scroll">
-    <h2>유튜브 목록 v1.8
+    <h2>유튜브 목록 v1.9
       <button class="settings-btn" id="settingsBtn" title="설정" aria-label="설정" aria-expanded="false">⚙</button>
     </h2>
+
+    <!-- 주소 입력 시 오른쪽 화면에 바로 재생 -->
+    <div class="add-form direct-form">
+      <input type="text" id="directUrlInput" placeholder="유튜브 주소 입력 후 바로 보기">
+      <button id="directPlayBtn">보기</button>
+    </div>
+    <div class="add-error" id="directError"></div>
 
     <div class="add-form category-form">
       <input type="text" id="categoryInput" placeholder="새 카테고리 이름">
@@ -312,13 +315,6 @@
 
     <ul class="tree" id="videoTree"></ul>
     </div>
-
-    <!-- 최하단: 주소 입력 시 오른쪽 화면에 바로 재생 -->
-    <div class="add-form direct-form">
-      <input type="text" id="directUrlInput" placeholder="유튜브 주소 입력 후 바로 보기">
-      <button id="directPlayBtn">보기</button>
-    </div>
-    <div class="add-error" id="directError"></div>
   </div>
 
   <!-- 우클릭 컨텍스트 메뉴 -->
