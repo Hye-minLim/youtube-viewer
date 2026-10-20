@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>유튜브 목록 뷰어 v1.7</title>
+<title>유튜브 목록 뷰어 v1.8</title>
 <style>
   * { box-sizing: border-box; }
   html, body {
@@ -41,11 +41,34 @@
     background: #111;
   }
   .list-pane h2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     font-size: 16px;
     padding: 14px 16px;
     margin: 0;
     background: #111;
     border-bottom: 1px solid #333;
+  }
+  /* 설정(⚙) 버튼과 펼침 패널 */
+  .settings-btn {
+    background: none;
+    border: none;
+    color: #aaa;
+    font-size: 18px;
+    line-height: 1;
+    padding: 2px 4px;
+    cursor: pointer;
+  }
+  .settings-btn:hover,
+  .settings-btn.open {
+    color: #fff;
+  }
+  .settings-panel {
+    display: none;
+  }
+  .settings-panel.open {
+    display: block;
   }
   /* 트리 목록 */
   .tree {
@@ -249,7 +272,9 @@
   <!-- 왼쪽: 유튜브 주소 목록 (트리) -->
   <div class="list-pane">
     <div class="list-scroll">
-    <h2>유튜브 목록 v1.7</h2>
+    <h2>유튜브 목록 v1.8
+      <button class="settings-btn" id="settingsBtn" title="설정" aria-label="설정" aria-expanded="false">⚙</button>
+    </h2>
 
     <div class="add-form category-form">
       <input type="text" id="categoryInput" placeholder="새 카테고리 이름">
@@ -263,6 +288,8 @@
     </div>
     <div class="add-error" id="addError"></div>
 
+    <!-- 설정 패널: ⚙ 버튼을 눌러야 표시 -->
+    <div class="settings-panel" id="settingsPanel">
     <div class="add-form io-form">
       <button id="exportBtn">내보내기</button>
       <button id="importBtn">가져오기</button>
@@ -281,6 +308,7 @@
       <button id="ghLoadBtn">GitHub에서 불러오기</button>
     </div>
     <div class="add-error" id="ghError"></div>
+    </div>
 
     <ul class="tree" id="videoTree"></ul>
     </div>
@@ -947,6 +975,7 @@
   function showGhError(msg) {
     ghError.textContent = msg;
     ghError.style.display = 'block';
+    setSettingsOpen(true); // 오류가 보이도록 설정 패널을 펼침
   }
 
   function hideGhError() {
@@ -1081,6 +1110,20 @@
     clearTimeout(ghPushTimer);
     ghPushTimer = setTimeout(function () { githubSave(true); }, 1500);
   }
+
+  // ---- 설정 패널 펼치기/접기 ----
+  const settingsBtn = document.getElementById('settingsBtn');
+  const settingsPanel = document.getElementById('settingsPanel');
+
+  function setSettingsOpen(open) {
+    settingsPanel.classList.toggle('open', open);
+    settingsBtn.classList.toggle('open', open);
+    settingsBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+
+  settingsBtn.addEventListener('click', function () {
+    setSettingsOpen(!settingsPanel.classList.contains('open'));
+  });
 
   ghSaveBtn.addEventListener('click', function () { githubSave(false); });
   ghLoadBtn.addEventListener('click', function () { githubLoad({ confirmFirst: true, silent: false }); });
