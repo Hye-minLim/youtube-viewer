@@ -3740,10 +3740,6 @@
           "collapsed": false,
           "videos": [
             {
-              "videoId": "rAz8Sgj2W2A",
-              "title": "인띠밴드 - NO.1 I [해피투게더🍀혼자가 아니어서 좋아] I KBS 261009 방송"
-            },
-            {
               "videoId": "OQmAKh8-XwY",
               "title": "CALM FOCUS | 3 Hour Deep Focus Music for Peaceful Morning Work (No Distractions)"
             },
@@ -4392,11 +4388,15 @@
                 {
                   "id": "cat-114",
                   "name": "한일가왕전",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "zqO7fKk1N9k",
                       "title": "스미다 아이코(住田愛子) - 긴기라기니 사리케나쿠 (ギンギラギンにさりげなく)｜한일가왕전 2회"
+                    },
+                    {
+                      "videoId": "rAz8Sgj2W2A",
+                      "title": "인띠밴드 - NO.1 I [해피투게더🍀혼자가 아니어서 좋아] I KBS 261009 방송"
                     }
                   ],
                   "children": []
