@@ -4337,7 +4337,7 @@
                 {
                   "id": "cat-188",
                   "name": "기타",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "JbJibUmAvzk",
@@ -4388,7 +4388,7 @@
                 {
                   "id": "cat-114",
                   "name": "한일가왕전",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "zqO7fKk1N9k",
