@@ -4354,18 +4354,13 @@
                   "id": "cat-42",
                   "name": "신의목소리",
                   "collapsed": false,
-                  "videos": [
-                    {
-                      "videoId": "e9NhmhazHgo",
-                      "title": "윤도현 제압한 연습생, 김재환 ‘가을 우체국 앞에서’ @보컬 전쟁:신의 목소리 20160210"
-                    }
-                  ],
+                  "videos": [],
                   "children": []
                 },
                 {
                   "id": "cat-37",
                   "name": "싱어게인",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
