@@ -4183,13 +4183,13 @@
             {
               "id": "cat-274",
               "name": "M",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
                   "id": "cat-267",
                   "name": "Minnie Riperton",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "KhaUnHJjS8A",
