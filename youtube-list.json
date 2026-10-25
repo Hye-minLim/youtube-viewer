@@ -106,7 +106,7 @@
         {
           "id": "cat-22",
           "name": "CCM",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -196,7 +196,7 @@
             {
               "id": "cat-345",
               "name": "뉴엘(newl)",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "LwOPcwPag2Q",
@@ -220,7 +220,7 @@
             {
               "id": "cat-150",
               "name": "러빔",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "QkHKe6bPPE0",
