@@ -837,7 +837,7 @@
             {
               "id": "cat-3",
               "name": "ㄱ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -3646,6 +3646,10 @@
                     {
                       "videoId": "h0KIWaUEIgQ",
                       "title": "[MV] 한로로 (HANRORO) - 사랑하게 될 거야 (Landing in Love)"
+                    },
+                    {
+                      "videoId": "RpjZnoA7Qq8",
+                      "title": "[Performance] 한로로 - 물음표 (Question Mark)"
                     },
                     {
                       "videoId": "YqYehjqUJOo",
