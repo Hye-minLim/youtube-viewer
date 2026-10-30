@@ -670,7 +670,7 @@
                 {
                   "id": "cat-244",
                   "name": "Composers",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [],
                   "children": [
                     {
@@ -699,7 +699,7 @@
                     {
                       "id": "cat-246",
                       "name": "Liszt",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [],
                       "children": []
                     },
@@ -3789,7 +3789,7 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
