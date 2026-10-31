@@ -831,7 +831,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -3757,7 +3757,7 @@
         {
           "id": "cat-352",
           "name": "lofi",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "OQmAKh8-XwY",
