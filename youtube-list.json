@@ -1071,7 +1071,7 @@
                 {
                   "id": "cat-45",
                   "name": "김동희",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "h-hRKYjPYlU",
@@ -1111,7 +1111,7 @@
                 {
                   "id": "cat-354",
                   "name": "김수아",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "BEfVMt1rs5c",
@@ -3531,7 +3531,7 @@
             {
               "id": "cat-27",
               "name": "ㅍ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
