@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 354,
+  "categoryIdSeq": 355,
   "categories": [
+    {
+      "id": "cat-354",
+      "name": "김수아",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
