@@ -3769,7 +3769,7 @@
         {
           "id": "cat-352",
           "name": "lofi",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [
             {
               "videoId": "OQmAKh8-XwY",
@@ -3801,7 +3801,7 @@
         {
           "id": "cat-229",
           "name": "New Age",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
