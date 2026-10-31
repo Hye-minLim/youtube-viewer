@@ -737,7 +737,7 @@
             {
               "id": "cat-309",
               "name": "이노우에 요스이 × 다마키 코지 (안전지대 보컬)",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "5Xmvke1L58E",
@@ -831,7 +831,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -3619,7 +3619,7 @@
             {
               "id": "cat-6",
               "name": "ㅎ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -4345,7 +4345,7 @@
         {
           "id": "cat-137",
           "name": "VA",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -4570,7 +4570,7 @@
             {
               "id": "cat-115",
               "name": "work",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "HfaIcB4Ogxk",
