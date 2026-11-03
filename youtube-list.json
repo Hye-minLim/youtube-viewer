@@ -831,7 +831,7 @@
         {
           "id": "cat-2",
           "name": "KPOP",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
@@ -871,7 +871,7 @@
                 {
                   "id": "cat-52",
                   "name": "검정치마",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "fQhGgzYLM4I",
