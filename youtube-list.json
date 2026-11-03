@@ -2416,7 +2416,7 @@
                     {
                       "id": "cat-30",
                       "name": "1집",
-                      "collapsed": true,
+                      "collapsed": false,
                       "videos": [
                         {
                           "videoId": "0QNX9TJKWPs",
@@ -2464,7 +2464,7 @@
                     {
                       "id": "cat-32",
                       "name": "2집",
-                      "collapsed": false,
+                      "collapsed": true,
                       "videos": [
                         {
                           "videoId": "0bc9vS7Uhxg",
