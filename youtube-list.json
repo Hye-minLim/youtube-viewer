@@ -2196,7 +2196,7 @@
             {
               "id": "cat-19",
               "name": "ㅇ",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -2362,7 +2362,7 @@
                 {
                   "id": "cat-342",
                   "name": "에피톤 프로젝트",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "1vAZRYq8-Ns",
