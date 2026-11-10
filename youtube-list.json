@@ -2,18 +2,6 @@
   "categoryIdSeq": 356,
   "categories": [
     {
-      "id": "cat-355",
-      "name": "캔",
-      "collapsed": false,
-      "videos": [
-        {
-          "videoId": "Ta8GY7euDD8",
-          "title": "겨울 이야기 (겨울 이야기)"
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "cat-305",
       "name": "Movie",
       "collapsed": true,
@@ -3342,6 +3330,18 @@
                     {
                       "videoId": "HbTh3Nh_t9k",
                       "title": "카더가든 노래 안 망함!  Car the garden [가까운듯 먼 그대여, 우리의 밤을 외워요, 명동콜링, Home sweet home]"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "cat-355",
+                  "name": "캔",
+                  "collapsed": true,
+                  "videos": [
+                    {
+                      "videoId": "Ta8GY7euDD8",
+                      "title": "겨울 이야기 (겨울 이야기)"
                     }
                   ],
                   "children": []
