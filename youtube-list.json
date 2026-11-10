@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 355,
+  "categoryIdSeq": 356,
   "categories": [
+    {
+      "id": "cat-355",
+      "name": "캔",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
