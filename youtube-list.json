@@ -4510,7 +4510,7 @@
             {
               "id": "cat-134",
               "name": "텐션업",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "TicGJQqrq2M",
@@ -4534,7 +4534,7 @@
             {
               "id": "cat-57",
               "name": "AI",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "a27SFyC-g24",
