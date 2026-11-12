@@ -1447,7 +1447,7 @@
                 {
                   "id": "cat-200",
                   "name": "듀스",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "z_F_tQ_GUtU",
@@ -1463,7 +1463,7 @@
                 {
                   "id": "cat-163",
                   "name": "DANIEL",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "WbxCVPjy2JU",
