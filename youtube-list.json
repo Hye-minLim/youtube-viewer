@@ -58,7 +58,7 @@
         {
           "id": "cat-349",
           "name": "Ambient",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
@@ -562,7 +562,7 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": true,
+          "collapsed": false,
           "videos": [],
           "children": [
             {
