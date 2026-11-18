@@ -1,9 +1,16 @@
 {
-  "categoryIdSeq": 357,
+  "categoryIdSeq": 358,
   "categories": [
     {
       "id": "cat-356",
       "name": "니체",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
+    {
+      "id": "cat-357",
+      "name": "https://youtube.com/shorts/tUjqs_4eN6w?si=0zUJaniM5-dYLIU1",
       "collapsed": false,
       "videos": [],
       "children": []
