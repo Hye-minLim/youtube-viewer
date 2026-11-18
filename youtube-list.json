@@ -1,6 +1,13 @@
 {
-  "categoryIdSeq": 356,
+  "categoryIdSeq": 357,
   "categories": [
+    {
+      "id": "cat-356",
+      "name": "니체",
+      "collapsed": false,
+      "videos": [],
+      "children": []
+    },
     {
       "id": "cat-305",
       "name": "Movie",
