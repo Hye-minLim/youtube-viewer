@@ -1155,7 +1155,7 @@
                 {
                   "id": "cat-87",
                   "name": "김윤아",
-                  "collapsed": true,
+                  "collapsed": false,
                   "videos": [
                     {
                       "videoId": "vMQUuIZcq78",
@@ -1243,7 +1243,7 @@
                 {
                   "id": "cat-256",
                   "name": "김필",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "Xx_AK0mbEiU",
