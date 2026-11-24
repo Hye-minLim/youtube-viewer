@@ -1409,7 +1409,7 @@
             {
               "id": "cat-5",
               "name": "ㄷ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
@@ -1541,7 +1541,7 @@
             {
               "id": "cat-25",
               "name": "ㄹ",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
