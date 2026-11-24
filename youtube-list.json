@@ -300,7 +300,7 @@
             {
               "id": "cat-147",
               "name": "시와그림",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [
                 {
                   "videoId": "Z5LI7OYI91M",
@@ -324,7 +324,7 @@
             {
               "id": "cat-144",
               "name": "아이자야씩스티원",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [
                 {
                   "videoId": "s_eKZaDHZPI",
