@@ -582,13 +582,13 @@
         {
           "id": "cat-240",
           "name": "Classical",
-          "collapsed": false,
+          "collapsed": true,
           "videos": [],
           "children": [
             {
               "id": "cat-281",
               "name": "Cello",
-              "collapsed": false,
+              "collapsed": true,
               "videos": [],
               "children": [
                 {
