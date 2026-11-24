@@ -588,7 +588,7 @@
             {
               "id": "cat-281",
               "name": "Cello",
-              "collapsed": true,
+              "collapsed": false,
               "videos": [],
               "children": [
                 {
@@ -600,7 +600,7 @@
                     {
                       "id": "cat-285",
                       "name": "Jacqueline du Pré",
-                      "collapsed": true,
+                      "collapsed": false,
                       "videos": [
                         {
                           "videoId": "llB7NaWLUc4",
