@@ -1639,7 +1639,7 @@
                 {
                   "id": "cat-98",
                   "name": "박보람",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "a61DKukZZos",
@@ -1719,7 +1719,7 @@
                 {
                   "id": "cat-265",
                   "name": "박효신",
-                  "collapsed": false,
+                  "collapsed": true,
                   "videos": [
                     {
                       "videoId": "zcnANJebBbM",
